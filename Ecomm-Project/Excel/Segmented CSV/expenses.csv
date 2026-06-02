@@ -1,0 +1,4 @@
+﻿invoice,description,qty,invoice_date,unit_price,country
+A563185,Adjust Bad Debt,1,2011-11-18,11062.06,United Kingdom
+A563186,Adjust Bad Debt,1,2011-11-18,-11062.06,United Kingdom
+A563187,Adjust Bad Debt,1,2011-11-18,-11062.06,United Kingdom

@@ -1,0 +1,2111 @@
+﻿invoice,shipping_code,shipping_type,qty,invoice_date,unit_price,customer_id,country,shipping_direction,transaction_type,revenue_amount,customer_status
+C537414,POST,Postage,-1,2010-12-06,4.41,16861.00,United Kingdom,Refund,Return,-4.41,Registered
+C539063,POST,Postage,-1,2010-12-15,12.34,15107.00,United Kingdom,Refund,Return,-12.34,Registered
+C539073,POST,Postage,-1,2010-12-15,3.50,12971.00,United Kingdom,Refund,Return,-3.50,Registered
+C539409,POST,Postage,-1,2010-12-17,18.00,12720.00,Germany,Refund,Return,-18.00,Registered
+C539712,POST,Postage,-1,2010-12-21,5.75,15602.00,United Kingdom,Refund,Return,-5.75,Registered
+C540057,POST,Postage,-1,2011-01-13,40.00,12483.00,Sweden,Refund,Return,-40.00,Registered
+C540164,C2,Carriage,-1,2011-01-14,50.00,14911.00,EIRE,Refund,Return,-50.00,Registered
+C540266,POST,Postage,-1,2011-01-16,35.09,,United Kingdom,Refund,Return,-35.09,Guest/Unknown
+C540367,POST,Postage,-3,2011-01-17,18.00,12413.00,France,Refund,Return,-54.00,Registered
+C540793,POST,Postage,-1,2011-01-20,3.00,14295.00,United Kingdom,Refund,Return,-3.00,Registered
+C540841,POST,Postage,-1,2011-01-21,12.99,15602.00,United Kingdom,Refund,Return,-12.99,Registered
+C540937,POST,Postage,-1,2011-01-21,7.06,14748.00,United Kingdom,Refund,Return,-7.06,Registered
+C542540,POST,Postage,-1,2011-02-22,4.41,,United Kingdom,Refund,Return,-4.41,Guest/Unknown
+C542540,DOT,Dotcom Postage,-1,2011-02-22,3.29,,United Kingdom,Refund,Return,-3.29,Guest/Unknown
+C543050,POST,Postage,-1,2011-02-28,18.00,12625.00,Germany,Refund,Return,-18.00,Registered
+C543175,POST,Postage,-1,2011-02-28,18.00,12712.00,Germany,Refund,Return,-18.00,Registered
+C543388,POST,Postage,-3,2011-03-15,15.00,14646.00,Netherlands,Refund,Return,-45.00,Registered
+C543838,POST,Postage,-1,2011-03-20,7.06,15827.00,United Kingdom,Refund,Return,-7.06,Registered
+C543992,POST,Postage,-1,2011-03-20,18.00,12583.00,France,Refund,Return,-18.00,Registered
+C544117,POST,Postage,-1,2011-03-22,18.00,12727.00,France,Refund,Return,-18.00,Registered
+C545740,POST,Postage,-1,2011-04-18,8.65,18257.00,United Kingdom,Refund,Return,-8.65,Registered
+C546203,POST,Postage,-1,2011-04-19,4.50,16839.00,United Kingdom,Refund,Return,-4.50,Registered
+C546204,POST,Postage,-1,2011-04-19,1.72,13599.00,United Kingdom,Refund,Return,-1.72,Registered
+C546205,POST,Postage,-1,2011-04-19,2.84,18223.00,United Kingdom,Refund,Return,-2.84,Registered
+C546363,POST,Postage,-1,2011-04-20,7.06,16912.00,United Kingdom,Refund,Return,-7.06,Registered
+C547899,POST,Postage,-1,2011-05-23,55.89,,United Kingdom,Refund,Return,-55.89,Guest/Unknown
+C547905,POST,Postage,-1,2011-05-23,18.66,,United Kingdom,Refund,Return,-18.66,Guest/Unknown
+C547908,POST,Postage,-1,2011-05-23,38.45,,United Kingdom,Refund,Return,-38.45,Guest/Unknown
+C547913,POST,Postage,-1,2011-05-23,13.39,,United Kingdom,Refund,Return,-13.39,Guest/Unknown
+C547915,POST,Postage,-1,2011-05-23,29.70,,United Kingdom,Refund,Return,-29.70,Guest/Unknown
+C547930,POST,Postage,-1,2011-05-23,18.00,12594.00,Italy,Refund,Return,-18.00,Registered
+C548350,POST,Postage,-1,2011-05-25,2.70,15648.00,United Kingdom,Refund,Return,-2.70,Registered
+C549184,POST,Postage,-1,2011-06-15,40.00,12428.00,Finland,Refund,Return,-40.00,Registered
+C549532,POST,Postage,-1,2011-06-17,7.06,16217.00,United Kingdom,Refund,Return,-7.06,Registered
+C549827,POST,Postage,-2,2011-06-20,3.00,12463.00,Belgium,Refund,Return,-6.00,Registered
+C549945,POST,Postage,-1,2011-06-21,5.95,18270.00,United Kingdom,Refund,Return,-5.95,Registered
+C550147,POST,Postage,-3,2011-06-22,18.00,12637.00,France,Refund,Return,-54.00,Registered
+C550365,POST,Postage,-1,2011-06-24,11.00,12731.00,France,Refund,Return,-11.00,Registered
+C550540,POST,Postage,-1,2011-06-29,3.82,14339.00,United Kingdom,Refund,Return,-3.82,Registered
+C550787,POST,Postage,-1,2011-06-30,21.78,17450.00,United Kingdom,Refund,Return,-21.78,Registered
+C550787,POST,Postage,-1,2011-06-30,3.96,17450.00,United Kingdom,Refund,Return,-3.96,Registered
+C551685,POST,Postage,-1,2011-07-18,8142.75,16029.00,United Kingdom,Refund,Return,-8142.75,Registered
+C552317,POST,Postage,-2,2011-07-22,18.00,12700.00,France,Refund,Return,-36.00,Registered
+C552744,POST,Postage,-1,2011-07-27,3.15,16297.00,United Kingdom,Refund,Return,-3.15,Registered
+C553033,POST,Postage,-1,2011-07-29,3.50,13883.00,United Kingdom,Refund,Return,-3.50,Registered
+C553370,POST,Postage,-1,2011-08-15,19.29,,United Kingdom,Refund,Return,-19.29,Guest/Unknown
+C553372,POST,Postage,-1,2011-08-15,35.65,,United Kingdom,Refund,Return,-35.65,Guest/Unknown
+C553373,POST,Postage,-1,2011-08-15,16.85,,United Kingdom,Refund,Return,-16.85,Guest/Unknown
+C553376,POST,Postage,-1,2011-08-15,18.75,,United Kingdom,Refund,Return,-18.75,Guest/Unknown
+C553378,POST,Postage,-1,2011-08-15,27.42,,United Kingdom,Refund,Return,-27.42,Guest/Unknown
+C553407,POST,Postage,-1,2011-08-16,40.00,15768.00,United Kingdom,Refund,Return,-40.00,Registered
+C553414,POST,Postage,-1,2011-08-16,18.00,12600.00,Germany,Refund,Return,-18.00,Registered
+C553510,POST,Postage,-1,2011-08-17,1.00,14342.00,United Kingdom,Refund,Return,-1.00,Registered
+C553669,POST,Postage,-1,2011-08-18,3.71,15128.00,United Kingdom,Refund,Return,-3.71,Registered
+C554002,POST,Postage,-1,2011-08-22,6.50,13692.00,United Kingdom,Refund,Return,-6.50,Registered
+C554010,POST,Postage,-1,2011-08-22,75.00,17940.00,United Kingdom,Refund,Return,-75.00,Registered
+C555163,POST,Postage,-2,2011-08-31,18.00,12473.00,Germany,Refund,Return,-36.00,Registered
+C556281,POST,Postage,-1,2011-09-20,4.05,14040.00,United Kingdom,Refund,Return,-4.05,Registered
+C556324,POST,Postage,-1,2011-09-20,5.00,14287.00,United Kingdom,Refund,Return,-5.00,Registered
+C556807,POST,Postage,-1,2011-09-22,14.95,,United Kingdom,Refund,Return,-14.95,Guest/Unknown
+C556919,POST,Postage,-1,2011-09-23,2.17,17511.00,United Kingdom,Refund,Return,-2.17,Registered
+C557638,POST,Postage,-1,2011-09-27,545.58,17450.00,United Kingdom,Refund,Return,-545.58,Registered
+C557663,C2,Carriage,-1,2011-09-27,15.00,,EIRE,Refund,Return,-15.00,Guest/Unknown
+C558364,POST,Postage,-1,2011-09-30,3.95,,United Kingdom,Refund,Return,-3.95,Guest/Unknown
+C558905,POST,Postage,-1,2011-10-17,4.90,13826.00,United Kingdom,Refund,Return,-4.90,Registered
+C559681,POST,Postage,-1,2011-10-20,50.00,12717.00,Greece,Refund,Return,-50.00,Registered
+C559882,POST,Postage,-1,2011-10-23,7.62,16156.00,United Kingdom,Refund,Return,-7.62,Registered
+C560386,POST,Postage,-1,2011-10-26,9.72,,United Kingdom,Refund,Return,-9.72,Guest/Unknown
+C561011,POST,Postage,-1,2011-10-30,3.15,17612.00,United Kingdom,Refund,Return,-3.15,Registered
+C561117,POST,Postage,-3,2011-10-31,40.00,13520.00,Switzerland,Refund,Return,-120.00,Registered
+C562657,POST,Postage,-1,2011-11-16,4.41,13588.00,United Kingdom,Refund,Return,-4.41,Registered
+C562687,POST,Postage,-1,2011-11-16,10.34,15157.00,United Kingdom,Refund,Return,-10.34,Registered
+C563446,POST,Postage,-1,2011-11-20,4.41,15205.00,United Kingdom,Refund,Return,-4.41,Registered
+C564183,POST,Postage,-1,2011-11-22,14.95,,United Kingdom,Refund,Return,-14.95,Guest/Unknown
+C564331,POST,Postage,-1,2011-11-23,18.00,12569.00,Germany,Refund,Return,-18.00,Registered
+C564435,POST,Postage,-1,2011-11-23,4.41,17676.00,United Kingdom,Refund,Return,-4.41,Registered
+C564905,POST,Postage,-1,2011-11-25,87.40,17450.00,United Kingdom,Refund,Return,-87.40,Registered
+C564905,POST,Postage,-1,2011-11-25,79.68,17450.00,United Kingdom,Refund,Return,-79.68,Registered
+C565229,POST,Postage,-1,2011-11-27,200.00,17450.00,United Kingdom,Refund,Return,-200.00,Registered
+C565925,POST,Postage,-1,2011-11-29,18.00,12471.00,Germany,Refund,Return,-18.00,Registered
+C567289,POST,Postage,-1,2011-09-19,4.41,17612.00,United Kingdom,Refund,Return,-4.41,Registered
+C567916,POST,Postage,-1,2011-09-22,18.00,12579.00,France,Refund,Return,-18.00,Registered
+C568240,POST,Postage,-1,2011-09-26,4.50,17172.00,United Kingdom,Refund,Return,-4.50,Registered
+C568410,POST,Postage,-1,2011-09-27,80.00,12748.00,United Kingdom,Refund,Return,-80.00,Registered
+C568646,POST,Postage,-1,2011-09-28,3.38,13430.00,United Kingdom,Refund,Return,-3.38,Registered
+C569115,POST,Postage,-1,2011-09-30,7.62,13426.00,United Kingdom,Refund,Return,-7.62,Registered
+C569733,POST,Postage,-1,2011-10-18,18.00,12500.00,Germany,Refund,Return,-18.00,Registered
+C570654,POST,Postage,-1,2011-10-24,14.95,,United Kingdom,Refund,Return,-14.95,Guest/Unknown
+C570775,POST,Postage,-1,2011-10-24,18.00,12664.00,Finland,Refund,Return,-18.00,Registered
+C571625,POST,Postage,-1,2011-10-30,4.41,16140.00,United Kingdom,Refund,Return,-4.41,Registered
+C572187,POST,Postage,-1,2011-11-14,18.00,12403.00,Denmark,Refund,Return,-18.00,Registered
+C572398,POST,Postage,-1,2011-11-14,11.85,,United Kingdom,Refund,Return,-11.85,Guest/Unknown
+C572422,POST,Postage,-1,2011-11-14,35.65,,United Kingdom,Refund,Return,-35.65,Guest/Unknown
+C572441,POST,Postage,-1,2011-11-14,20.47,,United Kingdom,Refund,Return,-20.47,Guest/Unknown
+C572444,POST,Postage,-1,2011-11-14,15.53,,United Kingdom,Refund,Return,-15.53,Guest/Unknown
+C572445,POST,Postage,-1,2011-11-14,31.60,,United Kingdom,Refund,Return,-31.60,Guest/Unknown
+C572446,POST,Postage,-1,2011-11-14,70.21,,United Kingdom,Refund,Return,-70.21,Guest/Unknown
+C572448,POST,Postage,-1,2011-11-14,69.72,,United Kingdom,Refund,Return,-69.72,Guest/Unknown
+C572450,POST,Postage,-1,2011-11-14,29.28,,United Kingdom,Refund,Return,-29.28,Guest/Unknown
+C572455,POST,Postage,-1,2011-11-14,30.53,,United Kingdom,Refund,Return,-30.53,Guest/Unknown
+C572456,POST,Postage,-1,2011-11-14,22.56,,United Kingdom,Refund,Return,-22.56,Guest/Unknown
+C572467,POST,Postage,-1,2011-11-15,42.05,,United Kingdom,Refund,Return,-42.05,Guest/Unknown
+C572470,POST,Postage,-1,2011-11-15,26.00,,United Kingdom,Refund,Return,-26.00,Guest/Unknown
+C573253,POST,Postage,-1,2011-11-17,3.95,17552.00,United Kingdom,Refund,Return,-3.95,Registered
+C573257,POST,Postage,-1,2011-11-17,6.42,14297.00,United Kingdom,Refund,Return,-6.42,Registered
+C574031,POST,Postage,-1,2011-11-21,5.50,13394.00,United Kingdom,Refund,Return,-5.50,Registered
+C574344,POST,Postage,-1,2011-11-23,262.73,12415.00,Australia,Refund,Return,-262.73,Registered
+C574447,POST,Postage,-2,2011-11-23,40.00,12704.00,Finland,Refund,Return,-80.00,Registered
+C574865,POST,Postage,-1,2011-11-24,15.00,12408.00,Belgium,Refund,Return,-15.00,Registered
+C574875,POST,Postage,-1,2011-11-24,4.41,16416.00,United Kingdom,Refund,Return,-4.41,Registered
+C576402,POST,Postage,-1,2011-11-15,7.62,13026.00,United Kingdom,Refund,Return,-7.62,Registered
+C576816,POST,Postage,-1,2011-11-16,18.00,12569.00,Germany,Refund,Return,-18.00,Registered
+C576898,POST,Postage,-2,2011-11-17,65.00,17828.00,Malta,Refund,Return,-130.00,Registered
+C577070,POST,Postage,-1,2011-11-17,40.00,12704.00,Finland,Refund,Return,-40.00,Registered
+C577164,POST,Postage,-1,2011-11-18,4.41,16678.00,United Kingdom,Refund,Return,-4.41,Registered
+C577353,POST,Postage,-1,2011-11-18,4.00,12781.00,Czech Republic,Refund,Return,-4.00,Registered
+C577481,POST,Postage,-1,2011-11-20,18.00,12778.00,Netherlands,Refund,Return,-18.00,Registered
+C577892,POST,Postage,-1,2011-11-22,3.25,16191.00,United Kingdom,Refund,Return,-3.25,Registered
+C578090,POST,Postage,-2,2011-11-22,40.00,12483.00,Sweden,Refund,Return,-80.00,Registered
+C578122,POST,Postage,-2,2011-11-23,1.00,12452.00,Switzerland,Refund,Return,-2.00,Registered
+C578743,POST,Postage,-3,2011-11-25,18.00,12681.00,France,Refund,Return,-54.00,Registered
+C578784,POST,Postage,-1,2011-11-25,7.60,13081.00,United Kingdom,Refund,Return,-7.60,Registered
+C579018,POST,Postage,-1,2011-11-28,7.00,16678.00,United Kingdom,Refund,Return,-7.00,Registered
+C579092,POST,Postage,-1,2011-11-28,4.41,16900.00,United Kingdom,Refund,Return,-4.41,Registered
+C579192,POST,Postage,-4,2011-11-28,18.00,12657.00,France,Refund,Return,-72.00,Registered
+C579366,POST,Postage,-1,2011-11-29,9.72,14205.00,United Kingdom,Refund,Return,-9.72,Registered
+C579532,POST,Postage,-1,2011-11-30,18.00,12494.00,France,Refund,Return,-18.00,Registered
+C580161,POST,Postage,-2,2011-12-02,18.00,12700.00,France,Refund,Return,-36.00,Registered
+C580957,POST,Postage,-1,2011-12-06,4.50,12839.00,United Kingdom,Refund,Return,-4.50,Registered
+536370,POST,Postage,3,2010-12-01,18.00,12583.00,France,Charge,Positive,54.00,Registered
+536403,POST,Postage,1,2010-12-01,15.00,12791.00,Netherlands,Charge,Positive,15.00,Registered
+536527,POST,Postage,1,2010-12-01,18.00,12662.00,Germany,Charge,Positive,18.00,Registered
+536540,C2,Carriage,1,2010-12-01,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+536544,DOT,Dotcom Postage,1,2010-12-01,569.77,,United Kingdom,Charge,Positive,569.77,Guest/Unknown
+536592,DOT,Dotcom Postage,1,2010-12-01,607.49,,United Kingdom,Charge,Positive,607.49,Guest/Unknown
+536840,POST,Postage,1,2010-12-02,18.00,12738.00,Germany,Charge,Positive,18.00,Registered
+536852,POST,Postage,1,2010-12-03,18.00,12686.00,France,Charge,Positive,18.00,Registered
+536858,POST,Postage,2,2010-12-03,40.00,13520.00,Switzerland,Charge,Positive,80.00,Registered
+536861,POST,Postage,3,2010-12-03,18.00,12427.00,Germany,Charge,Positive,54.00,Registered
+536862,DOT,Dotcom Postage,1,2010-12-03,254.43,,United Kingdom,Charge,Positive,254.43,Guest/Unknown
+536864,DOT,Dotcom Postage,1,2010-12-03,121.06,,United Kingdom,Charge,Positive,121.06,Guest/Unknown
+536865,DOT,Dotcom Postage,1,2010-12-03,498.47,,United Kingdom,Charge,Positive,498.47,Guest/Unknown
+536876,DOT,Dotcom Postage,1,2010-12-03,887.52,,United Kingdom,Charge,Positive,887.52,Guest/Unknown
+536967,POST,Postage,1,2010-12-03,18.00,12600.00,Germany,Charge,Positive,18.00,Registered
+536974,POST,Postage,2,2010-12-03,18.00,12682.00,France,Charge,Positive,36.00,Registered
+536983,POST,Postage,1,2010-12-03,18.00,12712.00,Germany,Charge,Positive,18.00,Registered
+536990,POST,Postage,1,2010-12-03,28.00,12793.00,Portugal,Charge,Positive,28.00,Registered
+537022,POST,Postage,2,2010-12-03,28.00,12725.00,Italy,Charge,Positive,56.00,Registered
+537026,POST,Postage,2,2010-12-03,18.00,12395.00,Belgium,Charge,Positive,36.00,Registered
+537065,POST,Postage,9,2010-12-05,18.00,12567.00,France,Charge,Positive,162.00,Registered
+537197,POST,Postage,3,2010-12-05,18.00,12647.00,Germany,Charge,Positive,54.00,Registered
+537198,POST,Postage,1,2010-12-05,18.00,12647.00,Germany,Charge,Positive,18.00,Registered
+537201,POST,Postage,6,2010-12-05,18.00,12472.00,Germany,Charge,Positive,108.00,Registered
+537212,POST,Postage,4,2010-12-05,18.00,12720.00,Germany,Charge,Positive,72.00,Registered
+537237,DOT,Dotcom Postage,1,2010-12-06,863.74,,United Kingdom,Charge,Positive,863.74,Guest/Unknown
+537240,DOT,Dotcom Postage,1,2010-12-06,940.87,,United Kingdom,Charge,Positive,940.87,Guest/Unknown
+537246,POST,Postage,1,2010-12-06,28.00,12808.00,Portugal,Charge,Positive,28.00,Registered
+537250,POST,Postage,1,2010-12-06,18.00,12708.00,Germany,Charge,Positive,18.00,Registered
+537368,C2,Carriage,1,2010-12-06,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+537378,C2,Carriage,1,2010-12-06,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+537434,DOT,Dotcom Postage,1,2010-12-06,950.99,,United Kingdom,Charge,Positive,950.99,Guest/Unknown
+537463,POST,Postage,4,2010-12-07,18.00,12681.00,France,Charge,Positive,72.00,Registered
+537468,POST,Postage,3,2010-12-07,18.00,12567.00,France,Charge,Positive,54.00,Registered
+537594,POST,Postage,5,2010-12-07,18.00,12647.00,Germany,Charge,Positive,90.00,Registered
+537638,DOT,Dotcom Postage,1,2010-12-07,836.14,,United Kingdom,Charge,Positive,836.14,Guest/Unknown
+537641,DOT,Dotcom Postage,1,2010-12-07,229.74,,United Kingdom,Charge,Positive,229.74,Guest/Unknown
+537642,DOT,Dotcom Postage,1,2010-12-07,448.00,,United Kingdom,Charge,Positive,448.00,Guest/Unknown
+537643,DOT,Dotcom Postage,1,2010-12-07,593.15,,United Kingdom,Charge,Positive,593.15,Guest/Unknown
+537645,DOT,Dotcom Postage,1,2010-12-07,607.96,,United Kingdom,Charge,Positive,607.96,Guest/Unknown
+537666,DOT,Dotcom Postage,1,2010-12-07,701.95,,United Kingdom,Charge,Positive,701.95,Guest/Unknown
+537673,POST,Postage,7,2010-12-08,18.00,12709.00,Germany,Charge,Positive,126.00,Registered
+537693,POST,Postage,1,2010-12-08,18.00,12441.00,France,Charge,Positive,18.00,Registered
+537818,POST,Postage,6,2010-12-08,28.00,12766.00,Portugal,Charge,Positive,168.00,Registered
+537823,DOT,Dotcom Postage,1,2010-12-08,729.42,,United Kingdom,Charge,Positive,729.42,Guest/Unknown
+537892,POST,Postage,1,2010-12-09,18.00,12481.00,Germany,Charge,Positive,18.00,Registered
+537894,POST,Postage,2,2010-12-09,18.00,12621.00,Germany,Charge,Positive,36.00,Registered
+537897,POST,Postage,1,2010-12-09,18.00,12683.00,France,Charge,Positive,18.00,Registered
+537915,POST,Postage,1,2010-12-09,28.00,12797.00,Portugal,Charge,Positive,28.00,Registered
+537963,C2,Carriage,1,2010-12-09,50.00,13369.00,United Kingdom,Charge,Positive,50.00,Registered
+537967,POST,Postage,1,2010-12-09,18.00,12494.00,France,Charge,Positive,18.00,Registered
+537995,POST,Postage,2,2010-12-09,18.00,12712.00,Germany,Charge,Positive,36.00,Registered
+538002,C2,Carriage,1,2010-12-09,50.00,14932.00,Channel Islands,Charge,Positive,50.00,Registered
+538003,POST,Postage,8,2010-12-09,18.00,12429.00,Denmark,Charge,Positive,144.00,Registered
+538008,POST,Postage,5,2010-12-09,18.00,12683.00,France,Charge,Positive,90.00,Registered
+538071,DOT,Dotcom Postage,1,2010-12-09,885.94,,United Kingdom,Charge,Positive,885.94,Guest/Unknown
+538093,POST,Postage,5,2010-12-09,18.00,12682.00,France,Charge,Positive,90.00,Registered
+538148,DOT,Dotcom Postage,1,2010-12-09,547.32,,United Kingdom,Charge,Positive,547.32,Guest/Unknown
+538149,DOT,Dotcom Postage,1,2010-12-09,620.68,,United Kingdom,Charge,Positive,620.68,Guest/Unknown
+538153,DOT,Dotcom Postage,1,2010-12-09,822.94,,United Kingdom,Charge,Positive,822.94,Guest/Unknown
+538154,DOT,Dotcom Postage,1,2010-12-09,85.79,,United Kingdom,Charge,Positive,85.79,Guest/Unknown
+538175,POST,Postage,21,2010-12-10,18.00,12471.00,Germany,Charge,Positive,378.00,Registered
+538177,DOT,Dotcom Postage,1,2010-12-10,847.42,,United Kingdom,Charge,Positive,847.42,Guest/Unknown
+538196,POST,Postage,8,2010-12-10,18.00,12731.00,France,Charge,Positive,144.00,Registered
+538311,POST,Postage,2,2010-12-10,28.00,12785.00,Portugal,Charge,Positive,56.00,Registered
+538349,DOT,Dotcom Postage,1,2010-12-10,907.47,,United Kingdom,Charge,Positive,907.47,Guest/Unknown
+538524,DOT,Dotcom Postage,1,2010-12-13,641.86,,United Kingdom,Charge,Positive,641.86,Guest/Unknown
+538525,POST,Postage,5,2010-12-13,28.00,12540.00,Spain,Charge,Positive,140.00,Registered
+538566,DOT,Dotcom Postage,1,2010-12-13,584.59,,United Kingdom,Charge,Positive,584.59,Guest/Unknown
+538685,POST,Postage,1,2010-12-14,15.00,15694.00,United Kingdom,Charge,Positive,15.00,Registered
+538880,DOT,Dotcom Postage,1,2010-12-14,113.45,,United Kingdom,Charge,Positive,113.45,Guest/Unknown
+538881,DOT,Dotcom Postage,1,2010-12-14,198.17,,United Kingdom,Charge,Positive,198.17,Guest/Unknown
+538883,DOT,Dotcom Postage,1,2010-12-14,340.72,,United Kingdom,Charge,Positive,340.72,Guest/Unknown
+538884,DOT,Dotcom Postage,1,2010-12-14,146.85,,United Kingdom,Charge,Positive,146.85,Guest/Unknown
+539318,POST,Postage,6,2010-12-16,40.00,12348.00,Finland,Charge,Positive,240.00,Registered
+539327,POST,Postage,1,2010-12-17,18.00,12600.00,Germany,Charge,Positive,18.00,Registered
+539330,POST,Postage,3,2010-12-17,40.00,12370.00,Austria,Charge,Positive,120.00,Registered
+539337,C2,Carriage,1,2010-12-17,50.00,,EIRE,Charge,Positive,50.00,Guest/Unknown
+539353,POST,Postage,3,2010-12-17,28.00,12782.00,Portugal,Charge,Positive,84.00,Registered
+539391,POST,Postage,2,2010-12-17,15.00,12417.00,Belgium,Charge,Positive,30.00,Registered
+539395,POST,Postage,11,2010-12-17,18.00,12471.00,Germany,Charge,Positive,198.00,Registered
+539403,POST,Postage,2,2010-12-17,18.00,12647.00,Germany,Charge,Positive,36.00,Registered
+539405,POST,Postage,6,2010-12-17,18.00,12621.00,Germany,Charge,Positive,108.00,Registered
+539407,POST,Postage,1,2010-12-17,18.00,12726.00,France,Charge,Positive,18.00,Registered
+539408,POST,Postage,3,2010-12-17,18.00,12720.00,Germany,Charge,Positive,54.00,Registered
+539421,C2,Carriage,1,2010-12-17,50.00,14016.00,EIRE,Charge,Positive,50.00,Registered
+539434,DOT,Dotcom Postage,1,2010-12-17,510.79,,United Kingdom,Charge,Positive,510.79,Guest/Unknown
+539435,POST,Postage,1,2010-12-17,18.00,12691.00,France,Charge,Positive,18.00,Registered
+539436,DOT,Dotcom Postage,1,2010-12-17,565.37,,United Kingdom,Charge,Positive,565.37,Guest/Unknown
+539437,DOT,Dotcom Postage,1,2010-12-17,803.55,,United Kingdom,Charge,Positive,803.55,Guest/Unknown
+539446,POST,Postage,9,2010-12-17,18.00,12705.00,Germany,Charge,Positive,162.00,Registered
+539447,POST,Postage,3,2010-12-17,18.00,12395.00,Belgium,Charge,Positive,54.00,Registered
+539451,DOT,Dotcom Postage,1,2010-12-17,662.14,,United Kingdom,Charge,Positive,662.14,Guest/Unknown
+539453,DOT,Dotcom Postage,1,2010-12-17,603.62,,United Kingdom,Charge,Positive,603.62,Guest/Unknown
+539466,POST,Postage,4,2010-12-19,18.00,12668.00,Germany,Charge,Positive,72.00,Registered
+539473,C2,Carriage,1,2010-12-19,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+539491,POST,Postage,1,2010-12-20,15.00,14646.00,Netherlands,Charge,Positive,15.00,Registered
+539492,DOT,Dotcom Postage,1,2010-12-20,396.81,,United Kingdom,Charge,Positive,396.81,Guest/Unknown
+539551,POST,Postage,1,2010-12-20,18.00,12721.00,France,Charge,Positive,18.00,Registered
+539595,DOT,Dotcom Postage,1,2010-12-20,350.78,,United Kingdom,Charge,Positive,350.78,Guest/Unknown
+539607,POST,Postage,5,2010-12-20,18.00,12681.00,France,Charge,Positive,90.00,Registered
+539631,DOT,Dotcom Postage,1,2010-12-20,250.83,,United Kingdom,Charge,Positive,250.83,Guest/Unknown
+539636,POST,Postage,6,2010-12-20,18.00,12481.00,Germany,Charge,Positive,108.00,Registered
+539676,POST,Postage,3,2010-12-21,15.00,12423.00,Belgium,Charge,Positive,45.00,Registered
+539688,C2,Carriage,1,2010-12-21,150.00,12678.00,France,Charge,Positive,150.00,Registered
+539708,DOT,Dotcom Postage,1,2010-12-21,182.37,,United Kingdom,Charge,Positive,182.37,Guest/Unknown
+539718,DOT,Dotcom Postage,1,2010-12-21,112.37,,United Kingdom,Charge,Positive,112.37,Guest/Unknown
+539727,POST,Postage,1,2010-12-21,18.00,12678.00,France,Charge,Positive,18.00,Registered
+539735,DOT,Dotcom Postage,1,2010-12-21,164.55,,United Kingdom,Charge,Positive,164.55,Guest/Unknown
+539736,DOT,Dotcom Postage,1,2010-12-21,337.23,,United Kingdom,Charge,Positive,337.23,Guest/Unknown
+539737,DOT,Dotcom Postage,1,2010-12-21,514.00,,United Kingdom,Charge,Positive,514.00,Guest/Unknown
+539738,DOT,Dotcom Postage,1,2010-12-21,549.79,,United Kingdom,Charge,Positive,549.79,Guest/Unknown
+539739,DOT,Dotcom Postage,1,2010-12-21,324.43,,United Kingdom,Charge,Positive,324.43,Guest/Unknown
+539740,DOT,Dotcom Postage,1,2010-12-21,311.66,,United Kingdom,Charge,Positive,311.66,Guest/Unknown
+539741,DOT,Dotcom Postage,1,2010-12-21,128.60,,United Kingdom,Charge,Positive,128.60,Guest/Unknown
+539742,DOT,Dotcom Postage,1,2010-12-21,114.34,,United Kingdom,Charge,Positive,114.34,Guest/Unknown
+539743,DOT,Dotcom Postage,1,2010-12-21,103.57,,United Kingdom,Charge,Positive,103.57,Guest/Unknown
+539744,DOT,Dotcom Postage,1,2010-12-21,189.57,,United Kingdom,Charge,Positive,189.57,Guest/Unknown
+539745,DOT,Dotcom Postage,1,2010-12-21,152.68,,United Kingdom,Charge,Positive,152.68,Guest/Unknown
+539746,DOT,Dotcom Postage,1,2010-12-21,50.60,,United Kingdom,Charge,Positive,50.60,Guest/Unknown
+539747,DOT,Dotcom Postage,1,2010-12-21,50.64,,United Kingdom,Charge,Positive,50.64,Guest/Unknown
+539748,DOT,Dotcom Postage,1,2010-12-21,29.53,,United Kingdom,Charge,Positive,29.53,Guest/Unknown
+539752,POST,Postage,3,2010-12-21,35.00,12515.00,Italy,Charge,Positive,105.00,Registered
+539840,POST,Postage,3,2010-12-22,15.00,12383.00,Belgium,Charge,Positive,45.00,Registered
+539946,POST,Postage,1,2010-12-23,18.00,13817.00,Germany,Charge,Positive,18.00,Registered
+539957,POST,Postage,6,2010-12-23,18.00,12585.00,Germany,Charge,Positive,108.00,Registered
+539958,DOT,Dotcom Postage,1,2010-12-23,627.47,,United Kingdom,Charge,Positive,627.47,Guest/Unknown
+539984,C2,Carriage,1,2010-12-23,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+540026,DOT,Dotcom Postage,1,2011-01-13,469.70,,United Kingdom,Charge,Positive,469.70,Guest/Unknown
+540040,POST,Postage,5,2011-01-13,40.00,12483.00,Sweden,Charge,Positive,200.00,Registered
+540116,DOT,Dotcom Postage,1,2011-01-13,2.51,,United Kingdom,Charge,Positive,2.51,Guest/Unknown
+540154,DOT,Dotcom Postage,1,2011-01-14,192.86,,United Kingdom,Charge,Positive,192.86,Guest/Unknown
+540178,POST,Postage,3,2011-01-14,18.00,12681.00,France,Charge,Positive,54.00,Registered
+540238,DOT,Dotcom Postage,1,2011-01-14,109.19,,United Kingdom,Charge,Positive,109.19,Guest/Unknown
+540239,POST,Postage,4,2011-01-14,18.00,12682.00,France,Charge,Positive,72.00,Registered
+540255,DOT,Dotcom Postage,1,2011-01-14,219.24,,United Kingdom,Charge,Positive,219.24,Guest/Unknown
+540351,POST,Postage,2,2011-01-17,18.00,12735.00,France,Charge,Positive,36.00,Registered
+540352,DOT,Dotcom Postage,1,2011-01-17,306.35,,United Kingdom,Charge,Positive,306.35,Guest/Unknown
+540365,POST,Postage,3,2011-01-17,18.00,12413.00,France,Charge,Positive,54.00,Registered
+540410,POST,Postage,3,2011-01-17,18.00,12530.00,Germany,Charge,Positive,54.00,Registered
+540414,POST,Postage,3,2011-01-17,18.00,12481.00,Germany,Charge,Positive,54.00,Registered
+540418,DOT,Dotcom Postage,1,2011-01-17,369.95,,United Kingdom,Charge,Positive,369.95,Guest/Unknown
+540455,POST,Postage,3,2011-01-17,18.00,12583.00,France,Charge,Positive,54.00,Registered
+540458,POST,Postage,8,2011-01-17,18.00,12501.00,Germany,Charge,Positive,144.00,Registered
+540463,POST,Postage,2,2011-01-17,18.00,12489.00,France,Charge,Positive,36.00,Registered
+540468,DOT,Dotcom Postage,1,2011-01-17,278.97,,United Kingdom,Charge,Positive,278.97,Guest/Unknown
+540469,POST,Postage,4,2011-01-17,28.00,12484.00,Spain,Charge,Positive,112.00,Registered
+540480,POST,Postage,4,2011-01-18,18.00,12480.00,Germany,Charge,Positive,72.00,Registered
+540519,POST,Postage,2,2011-01-18,28.00,12793.00,Portugal,Charge,Positive,56.00,Registered
+540546,POST,Postage,3,2011-01-19,28.00,12766.00,Portugal,Charge,Positive,84.00,Registered
+540547,C2,Carriage,1,2011-01-19,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+540551,DOT,Dotcom Postage,1,2011-01-19,557.00,,United Kingdom,Charge,Positive,557.00,Guest/Unknown
+540553,POST,Postage,1,2011-01-19,18.00,12500.00,Germany,Charge,Positive,18.00,Registered
+540562,POST,Postage,3,2011-01-19,18.00,12524.00,Germany,Charge,Positive,54.00,Registered
+540642,POST,Postage,7,2011-01-19,18.00,12681.00,France,Charge,Positive,126.00,Registered
+540646,DOT,Dotcom Postage,1,2011-01-19,262.73,,United Kingdom,Charge,Positive,262.73,Guest/Unknown
+540681,DOT,Dotcom Postage,1,2011-01-20,223.35,,United Kingdom,Charge,Positive,223.35,Guest/Unknown
+540688,POST,Postage,5,2011-01-20,18.00,12736.00,France,Charge,Positive,90.00,Registered
+540699,POST,,1000,2011-01-20,0.00,,United Kingdom,Charge,Positive,0.00,Guest/Unknown
+540769,POST,Postage,1,2011-01-20,18.00,12601.00,Germany,Charge,Positive,18.00,Registered
+540789,POST,Postage,2,2011-01-20,18.00,12643.00,France,Charge,Positive,36.00,Registered
+540801,POST,Postage,6,2011-01-20,28.00,12540.00,Spain,Charge,Positive,168.00,Registered
+540821,DOT,Dotcom Postage,1,2011-01-21,394.83,,United Kingdom,Charge,Positive,394.83,Guest/Unknown
+540824,POST,Postage,2,2011-01-21,18.00,12728.00,France,Charge,Positive,36.00,Registered
+540835,POST,Postage,1,2011-01-21,18.00,12724.00,France,Charge,Positive,18.00,Registered
+540848,DOT,Dotcom Postage,1,2011-01-21,491.93,,United Kingdom,Charge,Positive,491.93,Guest/Unknown
+540900,POST,Postage,2,2011-01-21,18.00,12712.00,Germany,Charge,Positive,36.00,Registered
+540971,POST,Postage,4,2011-01-23,15.00,12383.00,Belgium,Charge,Positive,60.00,Registered
+540972,POST,Postage,3,2011-01-23,18.00,12437.00,France,Charge,Positive,54.00,Registered
+540976,POST,Postage,7,2011-01-23,18.00,12652.00,France,Charge,Positive,126.00,Registered
+540977,DOT,Dotcom Postage,1,2011-01-23,478.10,,United Kingdom,Charge,Positive,478.10,Guest/Unknown
+540995,DOT,Dotcom Postage,1,2011-01-24,404.49,,United Kingdom,Charge,Positive,404.49,Guest/Unknown
+541093,POST,Postage,5,2011-01-24,18.00,12471.00,Germany,Charge,Positive,90.00,Registered
+541104,DOT,Dotcom Postage,1,2011-01-24,323.98,,United Kingdom,Charge,Positive,323.98,Guest/Unknown
+541115,POST,Postage,7,2011-01-24,28.00,12578.00,Italy,Charge,Positive,196.00,Registered
+541120,POST,Postage,5,2011-01-24,18.00,12490.00,France,Charge,Positive,90.00,Registered
+541122,POST,Postage,2,2011-01-24,18.00,12708.00,Germany,Charge,Positive,36.00,Registered
+541125,POST,Postage,1,2011-01-24,18.00,12474.00,Germany,Charge,Positive,18.00,Registered
+541127,DOT,Dotcom Postage,1,2011-01-25,50.96,,United Kingdom,Charge,Positive,50.96,Guest/Unknown
+541128,DOT,Dotcom Postage,1,2011-01-25,60.79,,United Kingdom,Charge,Positive,60.79,Guest/Unknown
+541129,DOT,Dotcom Postage,1,2011-01-25,81.42,,United Kingdom,Charge,Positive,81.42,Guest/Unknown
+541130,DOT,Dotcom Postage,1,2011-01-25,138.00,,United Kingdom,Charge,Positive,138.00,Guest/Unknown
+541131,DOT,Dotcom Postage,1,2011-01-25,156.21,,United Kingdom,Charge,Positive,156.21,Guest/Unknown
+541132,DOT,Dotcom Postage,1,2011-01-25,127.54,,United Kingdom,Charge,Positive,127.54,Guest/Unknown
+541133,DOT,Dotcom Postage,1,2011-01-25,120.88,,United Kingdom,Charge,Positive,120.88,Guest/Unknown
+541138,POST,Postage,6,2011-01-25,18.00,12553.00,France,Charge,Positive,108.00,Registered
+541219,DOT,Dotcom Postage,1,2011-01-25,391.32,,United Kingdom,Charge,Positive,391.32,Guest/Unknown
+541224,POST,Postage,1,2011-01-25,18.00,12474.00,Germany,Charge,Positive,18.00,Registered
+541269,POST,Postage,8,2011-01-26,18.00,12626.00,Germany,Charge,Positive,144.00,Registered
+541405,POST,Postage,5,2011-01-26,18.00,12683.00,France,Charge,Positive,90.00,Registered
+541421,DOT,Dotcom Postage,1,2011-01-27,449.52,,United Kingdom,Charge,Positive,449.52,Guest/Unknown
+541422,DOT,Dotcom Postage,1,2011-01-27,295.20,,United Kingdom,Charge,Positive,295.20,Guest/Unknown
+541423,DOT,Dotcom Postage,1,2011-01-27,235.48,,United Kingdom,Charge,Positive,235.48,Guest/Unknown
+541424,DOT,Dotcom Postage,1,2011-01-27,301.84,,United Kingdom,Charge,Positive,301.84,Guest/Unknown
+541430,POST,Postage,18,2011-01-28,18.00,12356.00,Portugal,Charge,Positive,324.00,Registered
+541434,C2,Carriage,1,2011-01-28,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+541480,POST,Postage,1,2011-01-28,18.00,12527.00,Germany,Charge,Positive,18.00,Registered
+541491,POST,Postage,3,2011-01-28,28.00,12510.00,Spain,Charge,Positive,84.00,Registered
+541495,DOT,Dotcom Postage,1,2011-01-28,116.71,,United Kingdom,Charge,Positive,116.71,Guest/Unknown
+541496,DOT,Dotcom Postage,1,2011-01-28,101.00,,United Kingdom,Charge,Positive,101.00,Guest/Unknown
+541497,DOT,Dotcom Postage,1,2011-01-28,243.21,,United Kingdom,Charge,Positive,243.21,Guest/Unknown
+541506,DOT,Dotcom Postage,1,2011-01-30,118.33,,United Kingdom,Charge,Positive,118.33,Guest/Unknown
+541507,DOT,Dotcom Postage,1,2011-01-30,72.33,,United Kingdom,Charge,Positive,72.33,Guest/Unknown
+541508,DOT,Dotcom Postage,1,2011-01-30,152.92,,United Kingdom,Charge,Positive,152.92,Guest/Unknown
+541516,DOT,Dotcom Postage,1,2011-01-30,285.30,,United Kingdom,Charge,Positive,285.30,Guest/Unknown
+541517,POST,Postage,1,2011-01-30,18.00,12665.00,Germany,Charge,Positive,18.00,Registered
+541567,POST,Postage,3,2011-01-31,18.00,12681.00,France,Charge,Positive,54.00,Registered
+541569,POST,Postage,3,2011-01-31,40.00,13520.00,Switzerland,Charge,Positive,120.00,Registered
+541584,DOT,Dotcom Postage,1,2011-01-31,118.25,,United Kingdom,Charge,Positive,118.25,Guest/Unknown
+541592,DOT,Dotcom Postage,1,2011-01-31,470.12,,United Kingdom,Charge,Positive,470.12,Guest/Unknown
+541607,POST,Postage,1,2011-01-31,29.43,,United Kingdom,Charge,Positive,29.43,Guest/Unknown
+541631,POST,Postage,6,2011-01-31,18.00,12637.00,France,Charge,Positive,108.00,Registered
+541675,POST,Postage,2,2011-02-13,15.00,12402.00,Belgium,Charge,Positive,30.00,Registered
+541695,DOT,Dotcom Postage,1,2011-02-14,334.16,,United Kingdom,Charge,Positive,334.16,Guest/Unknown
+541696,DOT,Dotcom Postage,1,2011-02-14,307.85,,United Kingdom,Charge,Positive,307.85,Guest/Unknown
+541703,POST,Postage,2,2011-02-14,28.00,12594.00,Italy,Charge,Positive,56.00,Registered
+541756,POST,Postage,2,2011-02-14,40.00,12664.00,Finland,Charge,Positive,80.00,Registered
+541810,DOT,Dotcom Postage,1,2011-02-15,157.08,,United Kingdom,Charge,Positive,157.08,Guest/Unknown
+541811,DOT,Dotcom Postage,1,2011-02-15,171.04,,United Kingdom,Charge,Positive,171.04,Guest/Unknown
+541827,DOT,Dotcom Postage,1,2011-02-15,403.81,,United Kingdom,Charge,Positive,403.81,Guest/Unknown
+541830,DOT,Dotcom Postage,1,2011-02-15,214.42,,United Kingdom,Charge,Positive,214.42,Guest/Unknown
+541857,POST,Postage,6,2011-02-16,18.00,12727.00,France,Charge,Positive,108.00,Registered
+541869,DOT,Dotcom Postage,1,2011-02-16,144.45,,United Kingdom,Charge,Positive,144.45,Guest/Unknown
+541870,DOT,Dotcom Postage,1,2011-02-16,105.71,,United Kingdom,Charge,Positive,105.71,Guest/Unknown
+541871,DOT,Dotcom Postage,1,2011-02-16,127.09,,United Kingdom,Charge,Positive,127.09,Guest/Unknown
+541877,POST,Postage,2,2011-02-16,18.00,12559.00,Germany,Charge,Positive,36.00,Registered
+541878,DOT,Dotcom Postage,1,2011-02-16,161.08,,United Kingdom,Charge,Positive,161.08,Guest/Unknown
+541879,DOT,Dotcom Postage,1,2011-02-16,80.46,,United Kingdom,Charge,Positive,80.46,Guest/Unknown
+541962,POST,Postage,2,2011-02-17,18.00,12693.00,Germany,Charge,Positive,36.00,Registered
+541965,POST,Postage,7,2011-02-17,18.00,12625.00,Germany,Charge,Positive,126.00,Registered
+541969,DOT,Dotcom Postage,1,2011-02-17,163.67,,United Kingdom,Charge,Positive,163.67,Guest/Unknown
+541971,DOT,Dotcom Postage,1,2011-02-17,124.16,,United Kingdom,Charge,Positive,124.16,Guest/Unknown
+541979,C2,Carriage,1,2011-02-17,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+541980,POST,Postage,1,2011-02-17,28.00,12421.00,Spain,Charge,Positive,28.00,Registered
+541991,POST,Postage,2,2011-02-17,15.00,12417.00,Belgium,Charge,Positive,30.00,Registered
+541993,DOT,Dotcom Postage,1,2011-02-17,150.25,,United Kingdom,Charge,Positive,150.25,Guest/Unknown
+541998,POST,Postage,1,2011-02-17,40.00,12348.00,Finland,Charge,Positive,40.00,Registered
+541999,DOT,Dotcom Postage,1,2011-02-17,216.11,,United Kingdom,Charge,Positive,216.11,Guest/Unknown
+542080,POST,Postage,5,2011-02-17,18.00,13815.00,Germany,Charge,Positive,90.00,Registered
+542115,DOT,Dotcom Postage,1,2011-02-18,247.54,,United Kingdom,Charge,Positive,247.54,Guest/Unknown
+542128,POST,Postage,2,2011-02-18,18.00,12609.00,Germany,Charge,Positive,36.00,Registered
+542132,POST,Postage,2,2011-02-18,18.00,12691.00,France,Charge,Positive,36.00,Registered
+542147,POST,Postage,4,2011-02-20,28.00,12782.00,Portugal,Charge,Positive,112.00,Registered
+542215,POST,Postage,3,2011-02-20,18.00,12472.00,Germany,Charge,Positive,54.00,Registered
+542229,POST,Postage,1,2011-02-20,18.00,12474.00,Germany,Charge,Positive,18.00,Registered
+542238,POST,Postage,3,2011-02-20,28.00,12591.00,Italy,Charge,Positive,84.00,Registered
+542252,DOT,Dotcom Postage,1,2011-02-21,200.38,,United Kingdom,Charge,Positive,200.38,Guest/Unknown
+542255,DOT,Dotcom Postage,1,2011-02-21,246.37,,United Kingdom,Charge,Positive,246.37,Guest/Unknown
+542278,C2,Carriage,1,2011-02-21,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+542344,DOT,Dotcom Postage,1,2011-02-21,200.33,,United Kingdom,Charge,Positive,200.33,Guest/Unknown
+542369,POST,Postage,1,2011-02-21,18.00,12645.00,Germany,Charge,Positive,18.00,Registered
+542371,POST,Postage,2,2011-02-21,18.00,12468.00,Germany,Charge,Positive,36.00,Registered
+542375,POST,Postage,2,2011-02-21,18.00,12626.00,Germany,Charge,Positive,36.00,Registered
+542425,POST,Postage,2,2011-02-22,18.00,12574.00,France,Charge,Positive,36.00,Registered
+542433,POST,Postage,2,2011-02-22,18.00,12726.00,France,Charge,Positive,36.00,Registered
+542535,POST,Postage,3,2011-02-22,18.00,12735.00,France,Charge,Positive,54.00,Registered
+542541,DOT,Dotcom Postage,1,2011-02-22,223.89,,United Kingdom,Charge,Positive,223.89,Guest/Unknown
+542586,POST,Postage,2,2011-02-22,40.00,12377.00,Switzerland,Charge,Positive,80.00,Registered
+542621,POST,Postage,3,2011-02-23,18.00,12528.00,Germany,Charge,Positive,54.00,Registered
+542622,DOT,Dotcom Postage,1,2011-02-23,230.61,,United Kingdom,Charge,Positive,230.61,Guest/Unknown
+542624,DOT,Dotcom Postage,1,2011-02-23,188.88,,United Kingdom,Charge,Positive,188.88,Guest/Unknown
+542625,DOT,Dotcom Postage,1,2011-02-23,192.21,,United Kingdom,Charge,Positive,192.21,Guest/Unknown
+542626,POST,Postage,2,2011-02-23,18.00,12720.00,Germany,Charge,Positive,36.00,Registered
+542648,POST,Postage,5,2011-02-23,18.00,12476.00,Germany,Charge,Positive,90.00,Registered
+542664,DOT,Dotcom Postage,1,2011-02-23,157.76,,United Kingdom,Charge,Positive,157.76,Guest/Unknown
+542713,POST,Postage,7,2011-02-24,18.00,12668.00,Germany,Charge,Positive,126.00,Registered
+542720,POST,Postage,1,2011-02-24,15.00,12778.00,Netherlands,Charge,Positive,15.00,Registered
+542735,POST,Postage,3,2011-02-24,18.00,12681.00,France,Charge,Positive,54.00,Registered
+542782,POST,Postage,2,2011-02-24,18.00,12712.00,Germany,Charge,Positive,36.00,Registered
+542794,DOT,Dotcom Postage,1,2011-02-24,86.77,,United Kingdom,Charge,Positive,86.77,Guest/Unknown
+542887,POST,Postage,1,2011-02-25,40.00,12373.00,Austria,Charge,Positive,40.00,Registered
+542894,POST,Postage,2,2011-02-25,15.00,12775.00,Netherlands,Charge,Positive,30.00,Registered
+542904,POST,Postage,3,2011-02-25,18.00,12682.00,France,Charge,Positive,54.00,Registered
+542905,POST,Postage,1,2011-02-25,28.00,12540.00,Spain,Charge,Positive,28.00,Registered
+542906,DOT,Dotcom Postage,1,2011-02-25,189.59,,United Kingdom,Charge,Positive,189.59,Guest/Unknown
+542911,POST,Postage,1,2011-02-25,40.00,12676.00,Sweden,Charge,Positive,40.00,Registered
+542922,POST,Postage,2,2011-02-25,18.00,12682.00,France,Charge,Positive,36.00,Registered
+542997,DOT,Dotcom Postage,1,2011-02-27,108.75,,United Kingdom,Charge,Positive,108.75,Guest/Unknown
+542998,DOT,Dotcom Postage,1,2011-02-27,172.42,,United Kingdom,Charge,Positive,172.42,Guest/Unknown
+542999,DOT,Dotcom Postage,1,2011-02-27,142.29,,United Kingdom,Charge,Positive,142.29,Guest/Unknown
+543000,DOT,Dotcom Postage,1,2011-02-27,259.75,,United Kingdom,Charge,Positive,259.75,Guest/Unknown
+543013,DOT,Dotcom Postage,1,2011-02-27,174.12,,United Kingdom,Charge,Positive,174.12,Guest/Unknown
+543027,POST,Postage,1,2011-02-28,40.00,12414.00,Austria,Charge,Positive,40.00,Registered
+543030,POST,Postage,1,2011-02-28,18.00,12437.00,France,Charge,Positive,18.00,Registered
+543037,POST,Postage,1,2011-02-28,40.00,12350.00,Norway,Charge,Positive,40.00,Registered
+543048,POST,Postage,3,2011-02-28,18.00,12600.00,Germany,Charge,Positive,54.00,Registered
+543055,POST,Postage,4,2011-02-28,28.00,12502.00,Spain,Charge,Positive,112.00,Registered
+543056,POST,Postage,6,2011-02-28,18.00,12471.00,Germany,Charge,Positive,108.00,Registered
+543097,DOT,Dotcom Postage,1,2011-02-28,168.53,,United Kingdom,Charge,Positive,168.53,Guest/Unknown
+543117,POST,Postage,3,2011-02-28,15.00,12464.00,Belgium,Charge,Positive,45.00,Registered
+543121,POST,Postage,2,2011-02-28,18.00,12662.00,Germany,Charge,Positive,36.00,Registered
+543171,DOT,Dotcom Postage,1,2011-02-28,230.08,,United Kingdom,Charge,Positive,230.08,Guest/Unknown
+543172,DOT,Dotcom Postage,1,2011-02-28,164.46,,United Kingdom,Charge,Positive,164.46,Guest/Unknown
+543178,C2,Carriage,1,2011-02-28,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+543180,POST,Postage,4,2011-03-13,40.00,12410.00,Switzerland,Charge,Positive,160.00,Registered
+543182,DOT,Dotcom Postage,1,2011-03-13,208.12,,United Kingdom,Charge,Positive,208.12,Guest/Unknown
+543188,POST,Postage,6,2011-03-13,18.00,12567.00,France,Charge,Positive,108.00,Registered
+543200,DOT,Dotcom Postage,1,2011-03-14,166.92,,United Kingdom,Charge,Positive,166.92,Guest/Unknown
+543201,DOT,Dotcom Postage,1,2011-03-14,212.04,,United Kingdom,Charge,Positive,212.04,Guest/Unknown
+543345,DOT,Dotcom Postage,1,2011-03-15,183.09,,United Kingdom,Charge,Positive,183.09,Guest/Unknown
+543358,DOT,Dotcom Postage,1,2011-03-15,218.26,,United Kingdom,Charge,Positive,218.26,Guest/Unknown
+543387,POST,Postage,10,2011-03-15,15.00,14646.00,Netherlands,Charge,Positive,150.00,Registered
+543399,DOT,Dotcom Postage,1,2011-03-15,171.42,,United Kingdom,Charge,Positive,171.42,Guest/Unknown
+543450,DOT,Dotcom Postage,1,2011-03-16,110.13,,United Kingdom,Charge,Positive,110.13,Guest/Unknown
+543451,DOT,Dotcom Postage,1,2011-03-16,179.29,,United Kingdom,Charge,Positive,179.29,Guest/Unknown
+543459,POST,Postage,2,2011-03-16,18.00,12599.00,France,Charge,Positive,36.00,Registered
+543461,DOT,Dotcom Postage,1,2011-03-16,153.71,,United Kingdom,Charge,Positive,153.71,Guest/Unknown
+543467,DOT,Dotcom Postage,1,2011-03-16,234.92,,United Kingdom,Charge,Positive,234.92,Guest/Unknown
+543484,POST,Postage,3,2011-03-16,18.00,12721.00,France,Charge,Positive,54.00,Registered
+543492,POST,Postage,1,2011-03-17,18.00,12720.00,Germany,Charge,Positive,18.00,Registered
+543530,DOT,Dotcom Postage,1,2011-03-17,213.15,,United Kingdom,Charge,Positive,213.15,Guest/Unknown
+543532,DOT,Dotcom Postage,1,2011-03-17,225.17,,United Kingdom,Charge,Positive,225.17,Guest/Unknown
+543533,DOT,Dotcom Postage,1,2011-03-17,254.08,,United Kingdom,Charge,Positive,254.08,Guest/Unknown
+543537,POST,Postage,1,2011-03-17,15.00,12401.00,Belgium,Charge,Positive,15.00,Registered
+543541,POST,Postage,6,2011-03-17,28.00,12462.00,Spain,Charge,Positive,168.00,Registered
+543546,DOT,Dotcom Postage,1,2011-03-17,206.15,,United Kingdom,Charge,Positive,206.15,Guest/Unknown
+543550,POST,Postage,1,2011-03-17,18.00,12601.00,Germany,Charge,Positive,18.00,Registered
+543625,POST,Postage,2,2011-03-17,18.00,12583.00,France,Charge,Positive,36.00,Registered
+543629,DOT,Dotcom Postage,1,2011-03-17,208.92,,United Kingdom,Charge,Positive,208.92,Guest/Unknown
+543660,DOT,Dotcom Postage,1,2011-03-17,248.48,,United Kingdom,Charge,Positive,248.48,Guest/Unknown
+543732,DOT,Dotcom Postage,1,2011-03-18,198.21,,United Kingdom,Charge,Positive,198.21,Guest/Unknown
+543733,POST,Postage,1,2011-03-18,15.00,12395.00,Belgium,Charge,Positive,15.00,Registered
+543822,POST,Postage,3,2011-03-18,28.00,12507.00,Spain,Charge,Positive,84.00,Registered
+543826,DOT,Dotcom Postage,1,2011-03-18,168.19,,United Kingdom,Charge,Positive,168.19,Guest/Unknown
+543833,POST,Postage,1,2011-03-20,18.00,12476.00,Germany,Charge,Positive,18.00,Registered
+543899,C2,Carriage,1,2011-03-20,15.00,,EIRE,Charge,Positive,15.00,Guest/Unknown
+543900,POST,Postage,3,2011-03-20,18.00,12621.00,Germany,Charge,Positive,54.00,Registered
+543909,DOT,Dotcom Postage,1,2011-03-20,127.24,,United Kingdom,Charge,Positive,127.24,Guest/Unknown
+543985,DOT,Dotcom Postage,1,2011-03-20,138.50,,United Kingdom,Charge,Positive,138.50,Guest/Unknown
+544069,POST,Postage,2,2011-03-21,18.00,12616.00,France,Charge,Positive,36.00,Registered
+544089,DOT,Dotcom Postage,1,2011-03-21,111.86,,United Kingdom,Charge,Positive,111.86,Guest/Unknown
+544115,POST,Postage,5,2011-03-22,18.00,12727.00,France,Charge,Positive,90.00,Registered
+544157,POST,Postage,2,2011-03-22,18.00,12372.00,Denmark,Charge,Positive,36.00,Registered
+544186,DOT,Dotcom Postage,1,2011-03-22,149.49,,United Kingdom,Charge,Positive,149.49,Guest/Unknown
+544193,POST,Postage,5,2011-03-22,15.00,12431.00,Belgium,Charge,Positive,75.00,Registered
+544200,POST,Postage,2,2011-03-22,18.00,12494.00,France,Charge,Positive,36.00,Registered
+544201,DOT,Dotcom Postage,1,2011-03-22,213.08,,United Kingdom,Charge,Positive,213.08,Guest/Unknown
+544202,DOT,Dotcom Postage,1,2011-03-22,143.04,,United Kingdom,Charge,Positive,143.04,Guest/Unknown
+544203,POST,Postage,3,2011-03-22,15.00,12362.00,Belgium,Charge,Positive,45.00,Registered
+544204,DOT,Dotcom Postage,1,2011-03-22,132.25,,United Kingdom,Charge,Positive,132.25,Guest/Unknown
+544205,DOT,Dotcom Postage,1,2011-03-22,207.79,,United Kingdom,Charge,Positive,207.79,Guest/Unknown
+544206,DOT,Dotcom Postage,1,2011-03-22,159.46,,United Kingdom,Charge,Positive,159.46,Guest/Unknown
+544207,DOT,Dotcom Postage,1,2011-03-22,185.83,,United Kingdom,Charge,Positive,185.83,Guest/Unknown
+544208,DOT,Dotcom Postage,1,2011-03-22,135.75,,United Kingdom,Charge,Positive,135.75,Guest/Unknown
+544210,C2,Carriage,1,2011-03-22,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+544281,POST,Postage,1,2011-03-22,18.00,12500.00,Germany,Charge,Positive,18.00,Registered
+544302,POST,Postage,1,2011-03-22,18.00,12654.00,Germany,Charge,Positive,18.00,Registered
+544323,DOT,Dotcom Postage,1,2011-03-23,179.94,,United Kingdom,Charge,Positive,179.94,Guest/Unknown
+544331,POST,Postage,1,2011-03-23,15.00,12455.00,Cyprus,Charge,Positive,15.00,Registered
+544355,POST,Postage,5,2011-03-23,18.00,12714.00,France,Charge,Positive,90.00,Registered
+544390,C2,Carriage,1,2011-03-23,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+544399,POST,Postage,1,2011-03-23,28.00,12594.00,Italy,Charge,Positive,28.00,Registered
+544434,DOT,Dotcom Postage,1,2011-03-23,149.02,,United Kingdom,Charge,Positive,149.02,Guest/Unknown
+544474,POST,Postage,1,2011-03-24,15.00,12423.00,Belgium,Charge,Positive,15.00,Registered
+544483,POST,Postage,5,2011-03-24,18.00,12524.00,Germany,Charge,Positive,90.00,Registered
+544495,POST,Postage,6,2011-03-24,28.00,12766.00,Portugal,Charge,Positive,168.00,Registered
+544573,POST,Postage,5,2011-03-24,18.00,12621.00,Germany,Charge,Positive,90.00,Registered
+544585,POST,Postage,1,2011-03-24,18.00,12523.00,France,Charge,Positive,18.00,Registered
+544598,DOT,Dotcom Postage,1,2011-03-25,144.15,,United Kingdom,Charge,Positive,144.15,Guest/Unknown
+544599,DOT,Dotcom Postage,1,2011-03-25,198.77,,United Kingdom,Charge,Positive,198.77,Guest/Unknown
+544681,DOT,Dotcom Postage,1,2011-03-27,140.19,,United Kingdom,Charge,Positive,140.19,Guest/Unknown
+544684,DOT,Dotcom Postage,1,2011-03-27,172.99,,United Kingdom,Charge,Positive,172.99,Guest/Unknown
+544766,DOT,Dotcom Postage,1,2011-03-28,136.38,,United Kingdom,Charge,Positive,136.38,Guest/Unknown
+544767,DOT,Dotcom Postage,1,2011-03-28,100.17,,United Kingdom,Charge,Positive,100.17,Guest/Unknown
+544768,DOT,Dotcom Postage,1,2011-03-28,134.04,,United Kingdom,Charge,Positive,134.04,Guest/Unknown
+544770,DOT,Dotcom Postage,1,2011-03-28,124.79,,United Kingdom,Charge,Positive,124.79,Guest/Unknown
+544771,DOT,Dotcom Postage,1,2011-03-28,137.33,,United Kingdom,Charge,Positive,137.33,Guest/Unknown
+544772,DOT,Dotcom Postage,1,2011-03-28,161.04,,United Kingdom,Charge,Positive,161.04,Guest/Unknown
+544811,POST,Postage,3,2011-03-28,18.00,12471.00,Germany,Charge,Positive,54.00,Registered
+544812,DOT,Dotcom Postage,1,2011-03-28,170.54,,United Kingdom,Charge,Positive,170.54,Guest/Unknown
+544817,POST,Postage,2,2011-03-28,18.00,12437.00,France,Charge,Positive,36.00,Registered
+544886,POST,Postage,1,2011-03-29,40.00,12582.00,Finland,Charge,Positive,40.00,Registered
+544928,DOT,Dotcom Postage,1,2011-03-29,189.91,,United Kingdom,Charge,Positive,189.91,Guest/Unknown
+544933,POST,Postage,6,2011-03-29,18.00,12633.00,Germany,Charge,Positive,108.00,Registered
+544934,C2,Carriage,1,2011-03-29,50.00,13345.00,United Kingdom,Charge,Positive,50.00,Registered
+544996,POST,Postage,2,2011-03-29,18.00,12474.00,Germany,Charge,Positive,36.00,Registered
+545017,POST,Postage,1,2011-03-29,15.00,12361.00,Belgium,Charge,Positive,15.00,Registered
+545024,DOT,Dotcom Postage,1,2011-03-29,79.67,,United Kingdom,Charge,Positive,79.67,Guest/Unknown
+545025,DOT,Dotcom Postage,1,2011-03-29,137.96,,United Kingdom,Charge,Positive,137.96,Guest/Unknown
+545034,POST,Postage,1,2011-03-30,40.00,13493.00,Switzerland,Charge,Positive,40.00,Registered
+545051,POST,Postage,1,2011-03-30,18.00,12599.00,France,Charge,Positive,18.00,Registered
+545078,DOT,Dotcom Postage,1,2011-03-30,147.49,,United Kingdom,Charge,Positive,147.49,Guest/Unknown
+545084,POST,Postage,2,2011-03-30,40.00,12458.00,Switzerland,Charge,Positive,80.00,Registered
+545086,POST,Postage,1,2011-03-30,18.00,12678.00,France,Charge,Positive,18.00,Registered
+545105,POST,Postage,6,2011-03-30,18.00,12598.00,France,Charge,Positive,108.00,Registered
+545140,POST,Postage,2,2011-03-30,15.00,12464.00,Belgium,Charge,Positive,30.00,Registered
+545180,POST,Postage,1,2011-03-31,18.00,12728.00,France,Charge,Positive,18.00,Registered
+545181,POST,Postage,1,2011-03-31,18.00,12509.00,France,Charge,Positive,18.00,Registered
+545191,POST,Postage,1,2011-03-31,28.00,12811.00,Portugal,Charge,Positive,28.00,Registered
+545215,DOT,Dotcom Postage,1,2011-03-31,265.19,,United Kingdom,Charge,Positive,265.19,Guest/Unknown
+545216,DOT,Dotcom Postage,1,2011-03-31,157.08,,United Kingdom,Charge,Positive,157.08,Guest/Unknown
+545217,DOT,Dotcom Postage,1,2011-03-31,172.62,,United Kingdom,Charge,Positive,172.62,Guest/Unknown
+545235,POST,Postage,2,2011-03-31,18.00,12683.00,France,Charge,Positive,36.00,Registered
+545301,POST,Postage,4,2011-03-31,18.00,12679.00,France,Charge,Positive,72.00,Registered
+545314,POST,Postage,4,2011-04-13,15.00,12866.00,Belgium,Charge,Positive,60.00,Registered
+545315,DOT,Dotcom Postage,1,2011-04-13,75.58,,United Kingdom,Charge,Positive,75.58,Guest/Unknown
+545316,DOT,Dotcom Postage,1,2011-04-13,36.08,,United Kingdom,Charge,Positive,36.08,Guest/Unknown
+545317,DOT,Dotcom Postage,1,2011-04-13,148.67,,United Kingdom,Charge,Positive,148.67,Guest/Unknown
+545323,POST,Postage,1,2011-04-13,40.00,12352.00,Norway,Charge,Positive,40.00,Registered
+545333,DOT,Dotcom Postage,1,2011-04-13,155.31,,United Kingdom,Charge,Positive,155.31,Guest/Unknown
+545464,DOT,Dotcom Postage,1,2011-04-14,201.64,,United Kingdom,Charge,Positive,201.64,Guest/Unknown
+545515,POST,Postage,3,2011-04-14,18.00,12727.00,France,Charge,Positive,54.00,Registered
+545517,POST,Postage,1,2011-04-14,18.00,12727.00,France,Charge,Positive,18.00,Registered
+545533,POST,Postage,2,2011-04-14,18.00,12524.00,Germany,Charge,Positive,36.00,Registered
+545536,POST,Postage,3,2011-04-14,15.00,12417.00,Belgium,Charge,Positive,45.00,Registered
+545557,POST,Postage,1,2011-04-14,18.00,12500.00,Germany,Charge,Positive,18.00,Registered
+545568,DOT,Dotcom Postage,1,2011-04-15,226.19,,United Kingdom,Charge,Positive,226.19,Guest/Unknown
+545570,POST,Postage,1,2011-04-15,40.00,12817.00,Austria,Charge,Positive,40.00,Registered
+545583,POST,Postage,2,2011-04-15,18.00,12553.00,France,Charge,Positive,36.00,Registered
+545585,POST,Postage,1,2011-04-15,28.00,12541.00,Spain,Charge,Positive,28.00,Registered
+545634,C2,Carriage,1,2011-04-15,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+545647,POST,Postage,1,2011-04-15,28.00,12547.00,Spain,Charge,Positive,28.00,Registered
+545664,POST,Postage,3,2011-04-15,28.00,12584.00,Italy,Charge,Positive,84.00,Registered
+545667,DOT,Dotcom Postage,1,2011-04-15,176.48,,United Kingdom,Charge,Positive,176.48,Guest/Unknown
+545706,POST,Postage,1,2011-04-17,18.00,12712.00,Germany,Charge,Positive,18.00,Registered
+545709,POST,Postage,1,2011-04-17,18.00,12708.00,Germany,Charge,Positive,18.00,Registered
+545714,DOT,Dotcom Postage,1,2011-04-18,130.58,,United Kingdom,Charge,Positive,130.58,Guest/Unknown
+545715,DOT,Dotcom Postage,1,2011-04-18,180.92,,United Kingdom,Charge,Positive,180.92,Guest/Unknown
+545716,DOT,Dotcom Postage,1,2011-04-18,192.29,,United Kingdom,Charge,Positive,192.29,Guest/Unknown
+545717,DOT,Dotcom Postage,1,2011-04-18,147.13,,United Kingdom,Charge,Positive,147.13,Guest/Unknown
+545854,C2,Carriage,1,2011-04-18,50.00,14817.00,United Kingdom,Charge,Positive,50.00,Registered
+545895,DOT,Dotcom Postage,1,2011-04-18,249.02,,United Kingdom,Charge,Positive,249.02,Guest/Unknown
+545897,DOT,Dotcom Postage,1,2011-04-18,218.64,,United Kingdom,Charge,Positive,218.64,Guest/Unknown
+545916,POST,Postage,2,2011-04-18,18.00,12528.00,Germany,Charge,Positive,36.00,Registered
+545933,C2,Carriage,1,2011-04-18,50.00,13908.00,United Kingdom,Charge,Positive,50.00,Registered
+545988,POST,Postage,1,2011-04-18,18.00,12662.00,Germany,Charge,Positive,18.00,Registered
+545994,POST,Postage,2,2011-04-18,18.00,12623.00,Germany,Charge,Positive,36.00,Registered
+546007,DOT,Dotcom Postage,1,2011-04-18,146.10,,United Kingdom,Charge,Positive,146.10,Guest/Unknown
+546008,DOT,Dotcom Postage,1,2011-04-19,187.89,,United Kingdom,Charge,Positive,187.89,Guest/Unknown
+546027,POST,Postage,2,2011-04-19,15.00,12759.00,Netherlands,Charge,Positive,30.00,Registered
+546134,POST,Postage,2,2011-04-19,40.00,13493.00,Switzerland,Charge,Positive,80.00,Registered
+546136,DOT,Dotcom Postage,1,2011-04-19,199.33,,United Kingdom,Charge,Positive,199.33,Guest/Unknown
+546172,C2,Carriage,1,2011-04-19,50.00,14156.00,EIRE,Charge,Positive,50.00,Registered
+546303,POST,Postage,1,2011-04-20,8.62,,United Kingdom,Charge,Positive,8.62,Guest/Unknown
+546306,DOT,Dotcom Postage,1,2011-04-20,147.03,,United Kingdom,Charge,Positive,147.03,Guest/Unknown
+546365,POST,Postage,5,2011-04-20,18.00,12520.00,Germany,Charge,Positive,90.00,Registered
+546373,POST,Postage,2,2011-04-21,18.00,12583.00,France,Charge,Positive,36.00,Registered
+546406,DOT,Dotcom Postage,1,2011-04-21,201.37,,United Kingdom,Charge,Positive,201.37,Guest/Unknown
+546428,POST,Postage,2,2011-04-21,18.00,12681.00,France,Charge,Positive,36.00,Registered
+546433,POST,Postage,1,2011-04-21,15.00,12778.00,Netherlands,Charge,Positive,15.00,Registered
+546434,POST,Postage,4,2011-04-21,18.00,12383.00,Belgium,Charge,Positive,72.00,Registered
+546479,POST,Postage,3,2011-04-21,18.00,12682.00,France,Charge,Positive,54.00,Registered
+546509,C2,Carriage,1,2011-04-21,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+546541,C2,Carriage,1,2011-04-26,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+546649,DOT,Dotcom Postage,1,2011-04-26,133.13,,United Kingdom,Charge,Positive,133.13,Guest/Unknown
+546650,DOT,Dotcom Postage,1,2011-04-26,111.79,,United Kingdom,Charge,Positive,111.79,Guest/Unknown
+546651,DOT,Dotcom Postage,1,2011-04-26,112.67,,United Kingdom,Charge,Positive,112.67,Guest/Unknown
+546652,DOT,Dotcom Postage,1,2011-04-26,167.58,,United Kingdom,Charge,Positive,167.58,Guest/Unknown
+546653,DOT,Dotcom Postage,1,2011-04-26,155.46,,United Kingdom,Charge,Positive,155.46,Guest/Unknown
+546654,DOT,Dotcom Postage,1,2011-04-26,125.96,,United Kingdom,Charge,Positive,125.96,Guest/Unknown
+546655,DOT,Dotcom Postage,1,2011-04-26,122.58,,United Kingdom,Charge,Positive,122.58,Guest/Unknown
+546656,DOT,Dotcom Postage,1,2011-04-26,172.54,,United Kingdom,Charge,Positive,172.54,Guest/Unknown
+546678,POST,Postage,3,2011-04-26,18.00,12681.00,France,Charge,Positive,54.00,Registered
+546737,C2,Carriage,1,2011-04-27,50.00,13358.00,United Kingdom,Charge,Positive,50.00,Registered
+546755,POST,Postage,5,2011-04-27,28.00,12502.00,Spain,Charge,Positive,140.00,Registered
+546759,POST,Postage,2,2011-04-27,18.00,12712.00,Germany,Charge,Positive,36.00,Registered
+546760,POST,Postage,3,2011-04-27,28.00,12597.00,Spain,Charge,Positive,84.00,Registered
+546765,POST,Postage,1,2011-04-27,18.00,12437.00,France,Charge,Positive,18.00,Registered
+546843,POST,Postage,2,2011-04-27,18.00,12472.00,Germany,Charge,Positive,36.00,Registered
+546851,POST,Postage,7,2011-04-27,18.00,12480.00,Germany,Charge,Positive,126.00,Registered
+546861,C2,Carriage,1,2011-04-27,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+546884,DOT,Dotcom Postage,1,2011-04-28,303.00,,United Kingdom,Charge,Positive,303.00,Guest/Unknown
+546888,DOT,Dotcom Postage,1,2011-04-28,237.89,,United Kingdom,Charge,Positive,237.89,Guest/Unknown
+546891,DOT,Dotcom Postage,1,2011-04-28,227.30,,United Kingdom,Charge,Positive,227.30,Guest/Unknown
+546892,DOT,Dotcom Postage,1,2011-04-28,192.44,,United Kingdom,Charge,Positive,192.44,Guest/Unknown
+546896,DOT,Dotcom Postage,1,2011-04-28,255.04,,United Kingdom,Charge,Positive,255.04,Guest/Unknown
+546919,POST,Postage,1,2011-05-13,18.00,12500.00,Germany,Charge,Positive,18.00,Registered
+546920,POST,Postage,8,2011-05-13,18.00,12471.00,Germany,Charge,Positive,144.00,Registered
+546925,POST,Postage,3,2011-05-13,18.00,12647.00,Germany,Charge,Positive,54.00,Registered
+546973,DOT,Dotcom Postage,1,2011-05-13,122.50,,United Kingdom,Charge,Positive,122.50,Guest/Unknown
+546974,DOT,Dotcom Postage,1,2011-05-13,131.46,,United Kingdom,Charge,Positive,131.46,Guest/Unknown
+546976,DOT,Dotcom Postage,1,2011-05-13,184.96,,United Kingdom,Charge,Positive,184.96,Guest/Unknown
+546977,DOT,Dotcom Postage,1,2011-05-13,218.08,,United Kingdom,Charge,Positive,218.08,Guest/Unknown
+547005,POST,Postage,4,2011-05-15,18.00,12474.00,Germany,Charge,Positive,72.00,Registered
+547042,DOT,Dotcom Postage,1,2011-05-15,279.84,,United Kingdom,Charge,Positive,279.84,Guest/Unknown
+547048,C2,Carriage,1,2011-05-15,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+547061,POST,Postage,1,2011-05-15,15.00,12407.00,Belgium,Charge,Positive,15.00,Registered
+547071,POST,Postage,2,2011-05-16,18.00,12693.00,Germany,Charge,Positive,36.00,Registered
+547085,POST,Postage,1,2011-05-16,18.00,12600.00,Germany,Charge,Positive,18.00,Registered
+547086,POST,Postage,3,2011-05-16,40.00,12428.00,Finland,Charge,Positive,120.00,Registered
+547087,POST,Postage,1,2011-05-16,18.00,12726.00,France,Charge,Positive,18.00,Registered
+547109,POST,Postage,2,2011-05-16,15.00,12423.00,Belgium,Charge,Positive,30.00,Registered
+547248,DOT,Dotcom Postage,1,2011-05-17,197.33,,United Kingdom,Charge,Positive,197.33,Guest/Unknown
+547249,DOT,Dotcom Postage,1,2011-05-17,192.43,,United Kingdom,Charge,Positive,192.43,Guest/Unknown
+547250,DOT,Dotcom Postage,1,2011-05-17,253.24,,United Kingdom,Charge,Positive,253.24,Guest/Unknown
+547327,POST,Postage,3,2011-05-17,18.00,12681.00,France,Charge,Positive,54.00,Registered
+547365,POST,Postage,1,2011-05-17,15.00,12775.00,Netherlands,Charge,Positive,15.00,Registered
+547379,POST,Postage,6,2011-05-17,18.00,12720.00,Germany,Charge,Positive,108.00,Registered
+547383,POST,Postage,3,2011-05-18,18.00,12613.00,Germany,Charge,Positive,54.00,Registered
+547384,POST,Postage,1,2011-05-18,18.00,12613.00,Germany,Charge,Positive,18.00,Registered
+547385,DOT,Dotcom Postage,1,2011-05-18,110.60,,United Kingdom,Charge,Positive,110.60,Guest/Unknown
+547386,DOT,Dotcom Postage,1,2011-05-18,131.22,,United Kingdom,Charge,Positive,131.22,Guest/Unknown
+547390,POST,Postage,1,2011-05-18,40.00,12352.00,Norway,Charge,Positive,40.00,Registered
+547397,DOT,Dotcom Postage,1,2011-05-18,146.29,,United Kingdom,Charge,Positive,146.29,Guest/Unknown
+547398,DOT,Dotcom Postage,1,2011-05-18,141.42,,United Kingdom,Charge,Positive,141.42,Guest/Unknown
+547399,DOT,Dotcom Postage,1,2011-05-18,155.25,,United Kingdom,Charge,Positive,155.25,Guest/Unknown
+547400,DOT,Dotcom Postage,1,2011-05-18,116.67,,United Kingdom,Charge,Positive,116.67,Guest/Unknown
+547412,POST,Postage,1,2011-05-18,15.00,12399.00,Belgium,Charge,Positive,15.00,Registered
+547444,POST,Postage,1,2011-05-18,1.00,12811.00,Portugal,Charge,Positive,1.00,Registered
+547492,POST,Postage,1,2011-05-18,18.00,12604.00,France,Charge,Positive,18.00,Registered
+547493,POST,Postage,9,2011-05-18,40.00,12818.00,Austria,Charge,Positive,360.00,Registered
+547504,POST,Postage,8,2011-05-19,18.00,12683.00,France,Charge,Positive,144.00,Registered
+547517,POST,Postage,3,2011-05-19,15.00,12395.00,Belgium,Charge,Positive,45.00,Registered
+547520,POST,Postage,3,2011-05-19,18.00,12564.00,France,Charge,Positive,54.00,Registered
+547547,DOT,Dotcom Postage,1,2011-05-19,115.42,,United Kingdom,Charge,Positive,115.42,Guest/Unknown
+547551,DOT,Dotcom Postage,1,2011-05-19,128.25,,United Kingdom,Charge,Positive,128.25,Guest/Unknown
+547552,DOT,Dotcom Postage,1,2011-05-19,169.29,,United Kingdom,Charge,Positive,169.29,Guest/Unknown
+547566,POST,Postage,1,2011-05-19,27.00,12811.00,Portugal,Charge,Positive,27.00,Registered
+547571,C2,Carriage,1,2011-05-19,50.00,16265.00,United Kingdom,Charge,Positive,50.00,Registered
+547645,POST,Postage,1,2011-05-19,40.00,12676.00,Sweden,Charge,Positive,40.00,Registered
+547684,POST,Postage,5,2011-05-20,15.00,12408.00,Belgium,Charge,Positive,75.00,Registered
+547702,C2,Carriage,1,2011-05-20,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+547703,POST,Postage,8,2011-05-20,28.00,12540.00,Spain,Charge,Positive,224.00,Registered
+547715,POST,Postage,2,2011-05-20,18.00,12520.00,Germany,Charge,Positive,36.00,Registered
+547722,POST,Postage,3,2011-05-20,18.00,12553.00,France,Charge,Positive,54.00,Registered
+547788,DOT,Dotcom Postage,1,2011-05-20,175.28,,United Kingdom,Charge,Positive,175.28,Guest/Unknown
+547790,POST,Postage,3,2011-05-20,28.00,12545.00,Spain,Charge,Positive,84.00,Registered
+547796,POST,Postage,9,2011-05-22,15.00,14646.00,Netherlands,Charge,Positive,135.00,Registered
+547815,POST,Postage,1,2011-05-22,40.00,13520.00,Switzerland,Charge,Positive,40.00,Registered
+547821,POST,Postage,4,2011-05-22,18.00,12621.00,Germany,Charge,Positive,72.00,Registered
+547822,POST,Postage,16,2011-05-22,18.00,12668.00,Germany,Charge,Positive,288.00,Registered
+547825,POST,Postage,1,2011-05-22,15.00,12778.00,Netherlands,Charge,Positive,15.00,Registered
+547830,DOT,Dotcom Postage,1,2011-05-22,220.71,,United Kingdom,Charge,Positive,220.71,Guest/Unknown
+547863,POST,Postage,2,2011-05-22,18.00,12728.00,France,Charge,Positive,36.00,Registered
+547882,C2,Carriage,1,2011-05-22,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+547888,C2,Carriage,1,2011-05-22,50.00,13368.00,United Kingdom,Charge,Positive,50.00,Registered
+547892,POST,Postage,6,2011-05-23,18.00,12669.00,France,Charge,Positive,108.00,Registered
+547897,POST,Postage,2,2011-05-23,28.00,12792.00,Portugal,Charge,Positive,56.00,Registered
+547914,POST,Postage,1,2011-05-23,18.00,12594.00,Italy,Charge,Positive,18.00,Registered
+547925,POST,Postage,4,2011-05-23,18.00,12481.00,Germany,Charge,Positive,72.00,Registered
+547931,POST,Postage,1,2011-05-23,28.00,12594.00,Italy,Charge,Positive,28.00,Registered
+547934,POST,Postage,1,2011-05-23,18.00,12474.00,Germany,Charge,Positive,18.00,Registered
+547941,POST,Postage,1,2011-05-23,150.00,16692.00,United Kingdom,Charge,Positive,150.00,Registered
+547964,DOT,Dotcom Postage,1,2011-05-23,184.60,,United Kingdom,Charge,Positive,184.60,Guest/Unknown
+547966,DOT,,1000,2011-05-23,0.00,,United Kingdom,Charge,Positive,0.00,Guest/Unknown
+547967,DOT,Dotcom Postage,1,2011-05-23,229.79,,United Kingdom,Charge,Positive,229.79,Guest/Unknown
+547993,C2,Carriage,1,2011-05-23,50.00,,EIRE,Charge,Positive,50.00,Guest/Unknown
+548163,DOT,Dotcom Postage,1,2011-05-24,231.79,,United Kingdom,Charge,Positive,231.79,Guest/Unknown
+548164,DOT,Dotcom Postage,1,2011-05-24,173.42,,United Kingdom,Charge,Positive,173.42,Guest/Unknown
+548165,DOT,Dotcom Postage,1,2011-05-24,142.83,,United Kingdom,Charge,Positive,142.83,Guest/Unknown
+548166,DOT,Dotcom Postage,1,2011-05-24,180.17,,United Kingdom,Charge,Positive,180.17,Guest/Unknown
+548167,DOT,Dotcom Postage,1,2011-05-24,181.88,,United Kingdom,Charge,Positive,181.88,Guest/Unknown
+548168,DOT,Dotcom Postage,1,2011-05-24,144.75,,United Kingdom,Charge,Positive,144.75,Guest/Unknown
+548191,DOT,Dotcom Postage,1,2011-05-24,23.53,,United Kingdom,Charge,Positive,23.53,Guest/Unknown
+548194,DOT,Dotcom Postage,1,2011-05-24,226.92,,United Kingdom,Charge,Positive,226.92,Guest/Unknown
+548212,POST,Postage,4,2011-05-25,40.00,12456.00,Switzerland,Charge,Positive,160.00,Registered
+548219,POST,Postage,1,2011-05-25,3.95,,United Kingdom,Charge,Positive,3.95,Guest/Unknown
+548320,POST,Postage,2,2011-05-25,18.00,12709.00,Germany,Charge,Positive,36.00,Registered
+548363,POST,Postage,10,2011-05-25,40.00,12428.00,Finland,Charge,Positive,400.00,Registered
+548373,DOT,Dotcom Postage,1,2011-05-26,299.76,,United Kingdom,Charge,Positive,299.76,Guest/Unknown
+548412,POST,Postage,1,2011-05-26,18.00,12601.00,Germany,Charge,Positive,18.00,Registered
+548449,C2,Carriage,1,2011-05-26,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+548470,POST,Postage,2,2011-05-26,28.00,12782.00,Portugal,Charge,Positive,56.00,Registered
+548504,DOT,Dotcom Postage,1,2011-05-27,274.75,,United Kingdom,Charge,Positive,274.75,Guest/Unknown
+548505,DOT,Dotcom Postage,1,2011-05-27,236.88,,United Kingdom,Charge,Positive,236.88,Guest/Unknown
+548514,DOT,Dotcom Postage,1,2011-05-27,282.88,,United Kingdom,Charge,Positive,282.88,Guest/Unknown
+548516,DOT,Dotcom Postage,1,2011-05-27,197.30,,United Kingdom,Charge,Positive,197.30,Guest/Unknown
+548522,DOT,Dotcom Postage,1,2011-05-27,290.59,,United Kingdom,Charge,Positive,290.59,Guest/Unknown
+548654,POST,Postage,7,2011-05-31,18.00,12569.00,Germany,Charge,Positive,126.00,Registered
+548661,POST,Postage,1,2011-05-31,350.00,12415.00,Australia,Charge,Positive,350.00,Registered
+548663,DOT,Dotcom Postage,1,2011-05-31,244.46,,United Kingdom,Charge,Positive,244.46,Guest/Unknown
+548725,POST,Postage,1,2011-05-31,134.00,12678.00,France,Charge,Positive,134.00,Registered
+548737,POST,Postage,4,2011-06-13,18.00,12682.00,France,Charge,Positive,72.00,Registered
+548745,POST,Postage,3,2011-06-13,18.00,12471.00,Germany,Charge,Positive,54.00,Registered
+548858,C2,Carriage,1,2011-06-13,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+548893,DOT,Dotcom Postage,1,2011-06-13,336.52,,United Kingdom,Charge,Positive,336.52,Guest/Unknown
+548894,DOT,Dotcom Postage,1,2011-06-14,278.92,,United Kingdom,Charge,Positive,278.92,Guest/Unknown
+548955,POST,Postage,1,2011-06-14,40.00,12348.00,Finland,Charge,Positive,40.00,Registered
+549023,DOT,Dotcom Postage,1,2011-06-14,185.28,,United Kingdom,Charge,Positive,185.28,Guest/Unknown
+549155,DOT,Dotcom Postage,1,2011-06-15,187.21,,United Kingdom,Charge,Positive,187.21,Guest/Unknown
+549193,POST,Postage,2,2011-06-15,18.00,12580.00,Germany,Charge,Positive,36.00,Registered
+549242,C2,Carriage,1,2011-06-15,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+549249,POST,Postage,2,2011-06-15,15.00,12423.00,Belgium,Charge,Positive,30.00,Registered
+549274,POST,Postage,3,2011-06-16,18.00,12721.00,France,Charge,Positive,54.00,Registered
+549295,DOT,Dotcom Postage,1,2011-06-16,252.57,,United Kingdom,Charge,Positive,252.57,Guest/Unknown
+549325,POST,Postage,2,2011-06-16,50.00,12717.00,Greece,Charge,Positive,100.00,Registered
+549434,POST,Postage,4,2011-06-16,18.00,12647.00,Germany,Charge,Positive,72.00,Registered
+549524,DOT,Dotcom Postage,1,2011-06-17,183.20,,United Kingdom,Charge,Positive,183.20,Guest/Unknown
+549525,DOT,Dotcom Postage,1,2011-06-17,134.66,,United Kingdom,Charge,Positive,134.66,Guest/Unknown
+549559,POST,Postage,3,2011-06-19,15.00,12447.00,Belgium,Charge,Positive,45.00,Registered
+549588,POST,Postage,3,2011-06-19,40.00,12428.00,Finland,Charge,Positive,120.00,Registered
+549680,POST,Postage,2,2011-06-20,18.00,12701.00,Germany,Charge,Positive,36.00,Registered
+549682,POST,Postage,2,2011-06-20,28.00,12596.00,Spain,Charge,Positive,56.00,Registered
+549689,POST,Postage,1,2011-06-20,4.95,15971.00,United Kingdom,Charge,Positive,4.95,Registered
+549721,C2,Carriage,1,2011-06-20,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+549825,POST,Postage,2,2011-06-20,18.00,12463.00,Belgium,Charge,Positive,36.00,Registered
+549914,C2,Carriage,1,2011-06-20,50.00,14931.00,Channel Islands,Charge,Positive,50.00,Registered
+550002,POST,Postage,1,2011-06-21,18.00,12709.00,Germany,Charge,Positive,18.00,Registered
+550004,POST,Postage,4,2011-06-21,18.00,12569.00,Germany,Charge,Positive,72.00,Registered
+550145,POST,Postage,3,2011-06-22,18.00,12637.00,France,Charge,Positive,54.00,Registered
+550162,POST,Postage,2,2011-06-22,18.00,12569.00,Germany,Charge,Positive,36.00,Registered
+550178,POST,Postage,2,2011-06-22,18.00,12662.00,Germany,Charge,Positive,36.00,Registered
+550187,POST,Postage,2,2011-06-22,18.00,13811.00,Germany,Charge,Positive,36.00,Registered
+550188,POST,Postage,3,2011-06-22,40.00,12457.00,Switzerland,Charge,Positive,120.00,Registered
+550192,POST,Postage,3,2011-06-22,40.00,12582.00,Finland,Charge,Positive,120.00,Registered
+550203,DOT,Dotcom Postage,1,2011-06-23,77.96,,United Kingdom,Charge,Positive,77.96,Guest/Unknown
+550204,DOT,Dotcom Postage,1,2011-06-23,74.75,,United Kingdom,Charge,Positive,74.75,Guest/Unknown
+550205,DOT,Dotcom Postage,1,2011-06-23,137.08,,United Kingdom,Charge,Positive,137.08,Guest/Unknown
+550206,DOT,Dotcom Postage,1,2011-06-23,155.33,,United Kingdom,Charge,Positive,155.33,Guest/Unknown
+550207,DOT,Dotcom Postage,1,2011-06-23,145.46,,United Kingdom,Charge,Positive,145.46,Guest/Unknown
+550208,DOT,Dotcom Postage,1,2011-06-23,210.42,,United Kingdom,Charge,Positive,210.42,Guest/Unknown
+550209,DOT,Dotcom Postage,1,2011-06-23,164.33,,United Kingdom,Charge,Positive,164.33,Guest/Unknown
+550210,DOT,Dotcom Postage,1,2011-06-23,202.42,,United Kingdom,Charge,Positive,202.42,Guest/Unknown
+550211,DOT,Dotcom Postage,1,2011-06-23,110.92,,United Kingdom,Charge,Positive,110.92,Guest/Unknown
+550212,DOT,Dotcom Postage,1,2011-06-23,106.04,,United Kingdom,Charge,Positive,106.04,Guest/Unknown
+550213,DOT,Dotcom Postage,1,2011-06-23,105.21,,United Kingdom,Charge,Positive,105.21,Guest/Unknown
+550214,DOT,Dotcom Postage,1,2011-06-23,175.13,,United Kingdom,Charge,Positive,175.13,Guest/Unknown
+550215,DOT,Dotcom Postage,1,2011-06-23,213.08,,United Kingdom,Charge,Positive,213.08,Guest/Unknown
+550277,POST,Postage,3,2011-06-23,40.00,12639.00,Sweden,Charge,Positive,120.00,Registered
+550281,POST,Postage,1,2011-06-23,40.00,12457.00,Switzerland,Charge,Positive,40.00,Registered
+550284,POST,Postage,1,2011-06-23,15.00,12383.00,Belgium,Charge,Positive,15.00,Registered
+550302,C2,Carriage,1,2011-06-23,50.00,14156.00,EIRE,Charge,Positive,50.00,Registered
+550313,POST,Postage,2,2011-06-23,18.00,12681.00,France,Charge,Positive,36.00,Registered
+550440,POST,Postage,2,2011-06-24,15.00,12407.00,Belgium,Charge,Positive,30.00,Registered
+550458,DOT,Dotcom Postage,1,2011-06-26,156.45,,United Kingdom,Charge,Positive,156.45,Guest/Unknown
+550470,DOT,Dotcom Postage,1,2011-06-27,2.29,,United Kingdom,Charge,Positive,2.29,Guest/Unknown
+550471,DOT,Dotcom Postage,1,2011-06-27,28.66,,United Kingdom,Charge,Positive,28.66,Guest/Unknown
+550474,DOT,Dotcom Postage,1,2011-06-27,46.86,,United Kingdom,Charge,Positive,46.86,Guest/Unknown
+550496,DOT,Dotcom Postage,1,2011-06-28,84.21,,United Kingdom,Charge,Positive,84.21,Guest/Unknown
+550499,DOT,Dotcom Postage,1,2011-06-28,148.67,,United Kingdom,Charge,Positive,148.67,Guest/Unknown
+550500,DOT,Dotcom Postage,1,2011-06-28,222.02,,United Kingdom,Charge,Positive,222.02,Guest/Unknown
+550527,POST,Postage,11,2011-06-28,18.00,12476.00,Germany,Charge,Positive,198.00,Registered
+550541,DOT,Dotcom Postage,1,2011-06-29,187.10,,United Kingdom,Charge,Positive,187.10,Guest/Unknown
+550542,DOT,Dotcom Postage,1,2011-06-29,176.52,,United Kingdom,Charge,Positive,176.52,Guest/Unknown
+550617,C2,Carriage,1,2011-06-29,50.00,13376.00,United Kingdom,Charge,Positive,50.00,Registered
+550618,C2,Carriage,1,2011-06-29,50.00,14156.00,EIRE,Charge,Positive,50.00,Registered
+550620,POST,Postage,6,2011-06-29,18.00,12585.00,Germany,Charge,Positive,108.00,Registered
+550625,POST,Postage,2,2011-06-29,18.00,12619.00,Germany,Charge,Positive,36.00,Registered
+550636,DOT,Dotcom Postage,1,2011-06-29,149.67,,United Kingdom,Charge,Positive,149.67,Guest/Unknown
+550638,DOT,Dotcom Postage,1,2011-06-29,192.67,,United Kingdom,Charge,Positive,192.67,Guest/Unknown
+550661,POST,Postage,4,2011-06-30,18.00,12656.00,France,Charge,Positive,72.00,Registered
+550665,POST,Postage,2,2011-06-30,18.00,12530.00,Germany,Charge,Positive,36.00,Registered
+550827,POST,Postage,3,2011-06-30,18.00,12670.00,France,Charge,Positive,54.00,Registered
+550899,POST,Postage,4,2011-07-13,40.00,13505.00,Switzerland,Charge,Positive,160.00,Registered
+550924,POST,Postage,1,2011-07-13,40.00,12664.00,Finland,Charge,Positive,40.00,Registered
+550946,POST,Postage,1,2011-07-13,18.00,12708.00,Germany,Charge,Positive,18.00,Registered
+550953,DOT,Dotcom Postage,1,2011-07-13,283.00,,United Kingdom,Charge,Positive,283.00,Guest/Unknown
+550960,POST,Postage,1,2011-07-13,18.00,12622.00,Germany,Charge,Positive,18.00,Registered
+550986,DOT,Dotcom Postage,1,2011-07-13,221.16,,United Kingdom,Charge,Positive,221.16,Guest/Unknown
+550987,DOT,Dotcom Postage,1,2011-07-13,163.83,,United Kingdom,Charge,Positive,163.83,Guest/Unknown
+550998,POST,Postage,1,2011-07-13,40.00,12414.00,Austria,Charge,Positive,40.00,Registered
+551004,DOT,Dotcom Postage,1,2011-07-14,176.71,,United Kingdom,Charge,Positive,176.71,Guest/Unknown
+551005,DOT,Dotcom Postage,1,2011-07-14,172.63,,United Kingdom,Charge,Positive,172.63,Guest/Unknown
+551006,DOT,Dotcom Postage,1,2011-07-14,138.08,,United Kingdom,Charge,Positive,138.08,Guest/Unknown
+551007,DOT,Dotcom Postage,1,2011-07-14,125.88,,United Kingdom,Charge,Positive,125.88,Guest/Unknown
+551008,DOT,Dotcom Postage,1,2011-07-14,122.50,,United Kingdom,Charge,Positive,122.50,Guest/Unknown
+551009,DOT,Dotcom Postage,1,2011-07-14,264.00,,United Kingdom,Charge,Positive,264.00,Guest/Unknown
+551010,DOT,Dotcom Postage,1,2011-07-14,119.13,,United Kingdom,Charge,Positive,119.13,Guest/Unknown
+551013,POST,Postage,2,2011-07-14,18.00,15108.00,European Community,Charge,Positive,36.00,Registered
+551054,POST,Postage,2,2011-07-14,28.00,12429.00,Austria,Charge,Positive,56.00,Registered
+551173,DOT,Dotcom Postage,1,2011-07-14,133.64,,United Kingdom,Charge,Positive,133.64,Guest/Unknown
+551174,DOT,Dotcom Postage,1,2011-07-15,111.73,,United Kingdom,Charge,Positive,111.73,Guest/Unknown
+551187,C2,Carriage,1,2011-07-15,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+551258,POST,Postage,8,2011-07-15,18.00,12621.00,Germany,Charge,Positive,144.00,Registered
+551278,POST,Postage,1,2011-07-15,40.00,12483.00,Sweden,Charge,Positive,40.00,Registered
+551339,DOT,Dotcom Postage,1,2011-07-17,102.50,,United Kingdom,Charge,Positive,102.50,Guest/Unknown
+551340,DOT,Dotcom Postage,1,2011-07-17,181.34,,United Kingdom,Charge,Positive,181.34,Guest/Unknown
+551345,POST,Postage,6,2011-07-17,15.00,14646.00,Netherlands,Charge,Positive,90.00,Registered
+551346,POST,Postage,3,2011-07-17,15.00,12362.00,Belgium,Charge,Positive,45.00,Registered
+551389,POST,Postage,1,2011-07-17,18.00,12437.00,France,Charge,Positive,18.00,Registered
+551398,POST,Postage,3,2011-07-17,28.00,12417.00,Spain,Charge,Positive,84.00,Registered
+551467,POST,Postage,1,2011-07-17,18.00,12600.00,Germany,Charge,Positive,18.00,Registered
+551468,DOT,Dotcom Postage,1,2011-07-18,143.18,,United Kingdom,Charge,Positive,143.18,Guest/Unknown
+551529,POST,Postage,8,2011-07-18,18.00,12524.00,Germany,Charge,Positive,144.00,Registered
+551544,POST,Postage,4,2011-07-18,18.00,12683.00,France,Charge,Positive,72.00,Registered
+551552,POST,Postage,2,2011-07-18,18.00,12598.00,France,Charge,Positive,36.00,Registered
+551649,POST,Postage,2,2011-07-18,20.00,12643.00,France,Charge,Positive,40.00,Registered
+551652,POST,Postage,2,2011-07-18,1.00,12643.00,France,Charge,Positive,2.00,Registered
+551697,POST,Postage,1,2011-07-18,8142.75,16029.00,United Kingdom,Charge,Positive,8142.75,Registered
+551718,DOT,Dotcom Postage,1,2011-07-18,160.37,,United Kingdom,Charge,Positive,160.37,Guest/Unknown
+551719,DOT,Dotcom Postage,1,2011-07-18,178.12,,United Kingdom,Charge,Positive,178.12,Guest/Unknown
+551818,POST,Postage,4,2011-07-19,18.00,12569.00,Germany,Charge,Positive,72.00,Registered
+551820,POST,Postage,2,2011-07-19,18.00,12645.00,Germany,Charge,Positive,36.00,Registered
+551868,POST,Postage,8,2011-07-19,28.00,12540.00,Spain,Charge,Positive,224.00,Registered
+551886,POST,Postage,1,2011-07-19,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+551887,POST,Postage,2,2011-07-19,18.00,12593.00,France,Charge,Positive,36.00,Registered
+551950,C2,Carriage,1,2011-07-19,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+551985,POST,Postage,1,2011-07-20,15.00,12395.00,Belgium,Charge,Positive,15.00,Registered
+551995,DOT,Dotcom Postage,1,2011-07-20,55.64,,United Kingdom,Charge,Positive,55.64,Guest/Unknown
+551997,DOT,Dotcom Postage,1,2011-07-20,43.57,,United Kingdom,Charge,Positive,43.57,Guest/Unknown
+552000,DOT,Dotcom Postage,1,2011-07-20,49.62,,United Kingdom,Charge,Positive,49.62,Guest/Unknown
+552008,POST,Postage,4,2011-07-20,18.00,12476.00,Germany,Charge,Positive,72.00,Registered
+552040,POST,Postage,4,2011-07-20,28.00,12502.00,Spain,Charge,Positive,112.00,Registered
+552188,POST,Postage,2,2011-07-21,15.00,12394.00,Belgium,Charge,Positive,30.00,Registered
+552202,POST,Postage,1,2011-07-21,40.00,12414.00,Austria,Charge,Positive,40.00,Registered
+552229,DOT,Dotcom Postage,1,2011-07-21,21.74,,United Kingdom,Charge,Positive,21.74,Guest/Unknown
+552230,DOT,Dotcom Postage,1,2011-07-21,0.00,,United Kingdom,Charge,Positive,0.00,Guest/Unknown
+552232,DOT,Dotcom Postage,1,2011-07-21,36.71,,United Kingdom,Charge,Positive,36.71,Guest/Unknown
+552234,DOT,Dotcom Postage,1,2011-07-21,174.24,,United Kingdom,Charge,Positive,174.24,Guest/Unknown
+552315,POST,Postage,6,2011-07-22,18.00,12700.00,France,Charge,Positive,108.00,Registered
+552325,POST,Postage,2,2011-07-22,18.00,12490.00,France,Charge,Positive,36.00,Registered
+552337,POST,Postage,3,2011-07-24,18.00,12621.00,Germany,Charge,Positive,54.00,Registered
+552464,POST,Postage,1,2011-07-24,18.00,12726.00,France,Charge,Positive,18.00,Registered
+552493,DOT,Dotcom Postage,1,2011-07-24,226.61,,United Kingdom,Charge,Positive,226.61,Guest/Unknown
+552508,DOT,Dotcom Postage,1,2011-07-25,198.60,,United Kingdom,Charge,Positive,198.60,Guest/Unknown
+552514,DOT,Dotcom Postage,1,2011-07-25,205.45,,United Kingdom,Charge,Positive,205.45,Guest/Unknown
+552520,DOT,Dotcom Postage,1,2011-07-25,189.84,,United Kingdom,Charge,Positive,189.84,Guest/Unknown
+552543,POST,Postage,2,2011-07-25,15.00,12399.00,Belgium,Charge,Positive,30.00,Registered
+552631,POST,Postage,2,2011-07-25,18.00,12684.00,France,Charge,Positive,36.00,Registered
+552649,POST,Postage,1,2011-07-25,18.00,12592.00,Germany,Charge,Positive,18.00,Registered
+552656,POST,Postage,3,2011-07-25,18.00,12712.00,Germany,Charge,Positive,54.00,Registered
+552660,DOT,Dotcom Postage,1,2011-07-25,184.92,,United Kingdom,Charge,Positive,184.92,Guest/Unknown
+552662,DOT,Dotcom Postage,1,2011-07-25,161.88,,United Kingdom,Charge,Positive,161.88,Guest/Unknown
+552663,DOT,Dotcom Postage,1,2011-07-25,133.17,,United Kingdom,Charge,Positive,133.17,Guest/Unknown
+552665,DOT,Dotcom Postage,1,2011-07-25,101.92,,United Kingdom,Charge,Positive,101.92,Guest/Unknown
+552666,DOT,Dotcom Postage,1,2011-07-26,109.25,,United Kingdom,Charge,Positive,109.25,Guest/Unknown
+552667,DOT,Dotcom Postage,1,2011-07-26,118.38,,United Kingdom,Charge,Positive,118.38,Guest/Unknown
+552668,DOT,Dotcom Postage,1,2011-07-26,168.63,,United Kingdom,Charge,Positive,168.63,Guest/Unknown
+552670,DOT,Dotcom Postage,1,2011-07-26,181.83,,United Kingdom,Charge,Positive,181.83,Guest/Unknown
+552671,DOT,Dotcom Postage,1,2011-07-26,146.29,,United Kingdom,Charge,Positive,146.29,Guest/Unknown
+552672,DOT,Dotcom Postage,1,2011-07-26,135.67,,United Kingdom,Charge,Positive,135.67,Guest/Unknown
+552673,DOT,Dotcom Postage,1,2011-07-26,95.38,,United Kingdom,Charge,Positive,95.38,Guest/Unknown
+552674,DOT,Dotcom Postage,1,2011-07-26,132.29,,United Kingdom,Charge,Positive,132.29,Guest/Unknown
+552675,DOT,Dotcom Postage,1,2011-07-26,166.88,,United Kingdom,Charge,Positive,166.88,Guest/Unknown
+552676,DOT,Dotcom Postage,1,2011-07-26,202.29,,United Kingdom,Charge,Positive,202.29,Guest/Unknown
+552677,DOT,Dotcom Postage,1,2011-07-26,202.96,,United Kingdom,Charge,Positive,202.96,Guest/Unknown
+552678,DOT,Dotcom Postage,1,2011-07-26,201.50,,United Kingdom,Charge,Positive,201.50,Guest/Unknown
+552681,DOT,Dotcom Postage,1,2011-07-26,166.08,,United Kingdom,Charge,Positive,166.08,Guest/Unknown
+552683,DOT,Dotcom Postage,1,2011-07-26,131.42,,United Kingdom,Charge,Positive,131.42,Guest/Unknown
+552684,DOT,Dotcom Postage,1,2011-07-26,161.96,,United Kingdom,Charge,Positive,161.96,Guest/Unknown
+552687,DOT,Dotcom Postage,1,2011-07-26,246.50,,United Kingdom,Charge,Positive,246.50,Guest/Unknown
+552702,DOT,Dotcom Postage,1,2011-07-26,120.92,,United Kingdom,Charge,Positive,120.92,Guest/Unknown
+552731,POST,Postage,2,2011-07-27,18.00,12372.00,Denmark,Charge,Positive,36.00,Registered
+552844,POST,Postage,2,2011-07-27,18.00,12649.00,Germany,Charge,Positive,36.00,Registered
+552845,POST,Postage,6,2011-07-27,15.00,14646.00,Netherlands,Charge,Positive,90.00,Registered
+552846,POST,Postage,1,2011-07-27,18.00,14646.00,Netherlands,Charge,Positive,18.00,Registered
+552857,DOT,Dotcom Postage,1,2011-07-28,175.69,,United Kingdom,Charge,Positive,175.69,Guest/Unknown
+552871,POST,Postage,2,2011-07-28,18.00,12693.00,Germany,Charge,Positive,36.00,Registered
+552874,POST,Postage,7,2011-07-28,18.00,12621.00,Germany,Charge,Positive,126.00,Registered
+552878,POST,Postage,8,2011-07-28,18.00,12625.00,Germany,Charge,Positive,144.00,Registered
+552884,POST,Postage,1,2011-07-28,15.00,12395.00,Belgium,Charge,Positive,15.00,Registered
+552946,POST,Postage,1,2011-07-28,18.00,12683.00,France,Charge,Positive,18.00,Registered
+552980,POST,Postage,1,2011-07-28,523.00,12590.00,Germany,Charge,Positive,523.00,Registered
+553013,DOT,Dotcom Postage,1,2011-07-29,189.68,,United Kingdom,Charge,Positive,189.68,Guest/Unknown
+553037,POST,Postage,4,2011-07-29,18.00,12471.00,Germany,Charge,Positive,72.00,Registered
+553044,POST,Postage,2,2011-07-29,18.00,12682.00,France,Charge,Positive,36.00,Registered
+553161,POST,Postage,1,2011-07-31,18.00,12681.00,France,Charge,Positive,18.00,Registered
+553162,DOT,Dotcom Postage,1,2011-07-31,152.19,,United Kingdom,Charge,Positive,152.19,Guest/Unknown
+553195,POST,Postage,1,2011-08-14,18.00,12599.00,France,Charge,Positive,18.00,Registered
+553203,C2,Carriage,1,2011-08-14,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+553208,POST,Postage,2,2011-08-15,18.00,12674.00,France,Charge,Positive,36.00,Registered
+553316,POST,Postage,1,2011-08-15,18.00,12682.00,France,Charge,Positive,18.00,Registered
+553387,DOT,Dotcom Postage,1,2011-08-16,182.67,,United Kingdom,Charge,Positive,182.67,Guest/Unknown
+553389,DOT,Dotcom Postage,1,2011-08-16,113.99,,United Kingdom,Charge,Positive,113.99,Guest/Unknown
+553393,DOT,Dotcom Postage,1,2011-08-16,66.38,,United Kingdom,Charge,Positive,66.38,Guest/Unknown
+553411,POST,Postage,3,2011-08-16,18.00,12714.00,France,Charge,Positive,54.00,Registered
+553415,POST,Postage,2,2011-08-16,18.00,12463.00,Belgium,Charge,Positive,36.00,Registered
+553541,DOT,Dotcom Postage,1,2011-08-17,248.13,,United Kingdom,Charge,Positive,248.13,Guest/Unknown
+553542,DOT,Dotcom Postage,1,2011-08-17,204.63,,United Kingdom,Charge,Positive,204.63,Guest/Unknown
+553543,DOT,Dotcom Postage,1,2011-08-17,154.50,,United Kingdom,Charge,Positive,154.50,Guest/Unknown
+553544,DOT,Dotcom Postage,1,2011-08-17,124.08,,United Kingdom,Charge,Positive,124.08,Guest/Unknown
+553545,DOT,Dotcom Postage,1,2011-08-17,105.96,,United Kingdom,Charge,Positive,105.96,Guest/Unknown
+553547,POST,Postage,4,2011-08-17,18.00,12474.00,Germany,Charge,Positive,72.00,Registered
+553549,DOT,Dotcom Postage,1,2011-08-17,179.67,,United Kingdom,Charge,Positive,179.67,Guest/Unknown
+553566,POST,Postage,3,2011-08-17,18.00,12690.00,France,Charge,Positive,54.00,Registered
+553577,POST,Postage,2,2011-08-18,18.00,12437.00,France,Charge,Positive,36.00,Registered
+553666,POST,Postage,2,2011-08-18,18.00,12679.00,France,Charge,Positive,36.00,Registered
+553674,POST,Postage,1,2011-08-18,40.00,12483.00,Sweden,Charge,Positive,40.00,Registered
+553679,C2,Carriage,1,2011-08-18,50.00,14565.00,United Kingdom,Charge,Positive,50.00,Registered
+553682,POST,Postage,4,2011-08-18,15.00,14646.00,Netherlands,Charge,Positive,60.00,Registered
+553718,DOT,Dotcom Postage,1,2011-08-18,176.80,,United Kingdom,Charge,Positive,176.80,Guest/Unknown
+553731,POST,Postage,4,2011-08-18,18.00,12481.00,Germany,Charge,Positive,72.00,Registered
+553741,POST,Postage,3,2011-08-18,18.00,12520.00,Germany,Charge,Positive,54.00,Registered
+553766,DOT,Dotcom Postage,1,2011-08-19,205.50,,United Kingdom,Charge,Positive,205.50,Guest/Unknown
+553767,DOT,Dotcom Postage,1,2011-08-19,162.75,,United Kingdom,Charge,Positive,162.75,Guest/Unknown
+553768,DOT,Dotcom Postage,1,2011-08-19,236.46,,United Kingdom,Charge,Positive,236.46,Guest/Unknown
+553842,POST,Postage,2,2011-08-19,18.00,12524.00,Germany,Charge,Positive,36.00,Registered
+553843,POST,Postage,2,2011-08-19,18.00,12553.00,France,Charge,Positive,36.00,Registered
+553884,POST,Postage,1,2011-08-21,18.00,12600.00,Germany,Charge,Positive,18.00,Registered
+553885,POST,Postage,1,2011-08-21,18.00,12601.00,Germany,Charge,Positive,18.00,Registered
+553890,DOT,Dotcom Postage,1,2011-08-21,167.03,,United Kingdom,Charge,Positive,167.03,Guest/Unknown
+553897,C2,Carriage,1,2011-08-21,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+553921,C2,Carriage,1,2011-08-21,50.00,13376.00,United Kingdom,Charge,Positive,50.00,Registered
+553931,C2,Carriage,1,2011-08-21,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+553997,POST,Postage,9,2011-08-22,18.00,12656.00,France,Charge,Positive,162.00,Registered
+554038,POST,Postage,2,2011-08-22,15.00,12775.00,Netherlands,Charge,Positive,30.00,Registered
+554054,DOT,Dotcom Postage,1,2011-08-22,124.27,,United Kingdom,Charge,Positive,124.27,Guest/Unknown
+554097,POST,Postage,5,2011-08-23,18.00,12567.00,France,Charge,Positive,90.00,Registered
+554104,POST,Postage,4,2011-08-23,18.00,12705.00,Germany,Charge,Positive,72.00,Registered
+554106,POST,Postage,4,2011-08-23,18.00,12710.00,Germany,Charge,Positive,72.00,Registered
+554109,POST,Postage,2,2011-08-23,18.00,12682.00,France,Charge,Positive,36.00,Registered
+554132,POST,Postage,4,2011-08-23,40.00,12360.00,Austria,Charge,Positive,160.00,Registered
+554134,POST,Postage,2,2011-08-23,18.00,12583.00,France,Charge,Positive,36.00,Registered
+554137,POST,Postage,2,2011-08-23,18.00,12708.00,Germany,Charge,Positive,36.00,Registered
+554147,POST,Postage,2,2011-08-24,15.00,12423.00,Belgium,Charge,Positive,30.00,Registered
+554159,POST,Postage,2,2011-08-24,15.00,12464.00,Belgium,Charge,Positive,30.00,Registered
+554280,C2,Carriage,1,2011-08-24,50.00,14817.00,United Kingdom,Charge,Positive,50.00,Registered
+554285,DOT,Dotcom Postage,1,2011-08-24,156.92,,United Kingdom,Charge,Positive,156.92,Guest/Unknown
+554293,DOT,Dotcom Postage,1,2011-08-24,159.63,,United Kingdom,Charge,Positive,159.63,Guest/Unknown
+554310,DOT,Dotcom Postage,1,2011-08-24,249.91,,United Kingdom,Charge,Positive,249.91,Guest/Unknown
+554324,POST,Postage,1,2011-08-24,18.00,12712.00,Germany,Charge,Positive,18.00,Registered
+554325,POST,Postage,3,2011-08-24,18.00,12621.00,Germany,Charge,Positive,54.00,Registered
+554356,POST,Postage,2,2011-08-24,18.00,12670.00,France,Charge,Positive,36.00,Registered
+554363,POST,Postage,2,2011-08-24,18.00,12647.00,Germany,Charge,Positive,36.00,Registered
+554511,DOT,Dotcom Postage,1,2011-08-25,162.67,,United Kingdom,Charge,Positive,162.67,Guest/Unknown
+554512,DOT,Dotcom Postage,1,2011-08-25,194.12,,United Kingdom,Charge,Positive,194.12,Guest/Unknown
+554514,DOT,Dotcom Postage,1,2011-08-25,214.29,,United Kingdom,Charge,Positive,214.29,Guest/Unknown
+554555,POST,Postage,2,2011-08-26,18.00,12437.00,France,Charge,Positive,36.00,Registered
+554648,POST,Postage,3,2011-08-26,18.00,12562.00,France,Charge,Positive,54.00,Registered
+554650,POST,Postage,3,2011-08-26,18.00,12681.00,France,Charge,Positive,54.00,Registered
+554654,POST,Postage,3,2011-08-26,40.00,12815.00,Poland,Charge,Positive,120.00,Registered
+554694,DOT,Dotcom Postage,1,2011-08-28,202.77,,United Kingdom,Charge,Positive,202.77,Guest/Unknown
+554699,POST,Postage,3,2011-08-28,18.00,12613.00,Germany,Charge,Positive,54.00,Registered
+554711,POST,Postage,1,2011-08-28,18.00,12654.00,Germany,Charge,Positive,18.00,Registered
+554714,DOT,Dotcom Postage,1,2011-08-28,155.25,,United Kingdom,Charge,Positive,155.25,Guest/Unknown
+554770,C2,Carriage,1,2011-08-28,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+554792,POST,Postage,1,2011-08-28,28.00,12547.00,Spain,Charge,Positive,28.00,Registered
+554794,POST,Postage,2,2011-08-28,18.00,12720.00,Germany,Charge,Positive,36.00,Registered
+554826,C2,Carriage,2,2011-08-28,18.00,12493.00,France,Charge,Positive,36.00,Registered
+554840,POST,Postage,2,2011-08-30,18.00,12684.00,France,Charge,Positive,36.00,Registered
+554857,POST,,800,2011-08-30,0.00,,United Kingdom,Charge,Positive,0.00,Guest/Unknown
+554861,POST,Postage,5,2011-08-30,18.00,12633.00,Germany,Charge,Positive,90.00,Registered
+554924,POST,Postage,1,2011-08-30,4.00,12748.00,United Kingdom,Charge,Positive,4.00,Registered
+554938,POST,Postage,4,2011-08-30,15.00,12876.00,Belgium,Charge,Positive,60.00,Registered
+554940,POST,Postage,2,2011-08-30,18.00,12494.00,France,Charge,Positive,36.00,Registered
+554957,DOT,Dotcom Postage,1,2011-08-30,75.75,,United Kingdom,Charge,Positive,75.75,Guest/Unknown
+554958,DOT,Dotcom Postage,1,2011-08-30,167.88,,United Kingdom,Charge,Positive,167.88,Guest/Unknown
+554959,DOT,Dotcom Postage,1,2011-08-30,58.50,,United Kingdom,Charge,Positive,58.50,Guest/Unknown
+554960,DOT,Dotcom Postage,1,2011-08-30,148.75,,United Kingdom,Charge,Positive,148.75,Guest/Unknown
+554961,DOT,Dotcom Postage,1,2011-08-30,164.29,,United Kingdom,Charge,Positive,164.29,Guest/Unknown
+554985,POST,Postage,4,2011-08-30,18.00,12426.00,Germany,Charge,Positive,72.00,Registered
+555003,POST,Postage,1,2011-08-30,15.00,12787.00,Netherlands,Charge,Positive,15.00,Registered
+555095,POST,Postage,7,2011-08-30,28.00,12540.00,Spain,Charge,Positive,196.00,Registered
+555096,POST,Postage,3,2011-08-30,18.00,12682.00,France,Charge,Positive,54.00,Registered
+555106,POST,Postage,2,2011-08-30,15.00,12790.00,Netherlands,Charge,Positive,30.00,Registered
+555147,POST,Postage,4,2011-08-30,40.00,13505.00,Switzerland,Charge,Positive,160.00,Registered
+555149,DOT,Dotcom Postage,1,2011-08-30,154.01,,United Kingdom,Charge,Positive,154.01,Guest/Unknown
+555150,DOT,Dotcom Postage,1,2011-08-30,183.55,,United Kingdom,Charge,Positive,183.55,Guest/Unknown
+555161,POST,Postage,1,2011-08-31,15.00,12423.00,Belgium,Charge,Positive,15.00,Registered
+555162,POST,Postage,4,2011-08-31,18.00,12473.00,Germany,Charge,Positive,72.00,Registered
+555275,DOT,Dotcom Postage,1,2011-08-31,205.29,,United Kingdom,Charge,Positive,205.29,Guest/Unknown
+555276,DOT,Dotcom Postage,1,2011-08-31,185.88,,United Kingdom,Charge,Positive,185.88,Guest/Unknown
+555277,DOT,Dotcom Postage,1,2011-08-31,124.87,,United Kingdom,Charge,Positive,124.87,Guest/Unknown
+555278,DOT,Dotcom Postage,1,2011-08-31,97.96,,United Kingdom,Charge,Positive,97.96,Guest/Unknown
+555320,DOT,Dotcom Postage,1,2011-09-13,98.54,,United Kingdom,Charge,Positive,98.54,Guest/Unknown
+555321,DOT,Dotcom Postage,1,2011-09-13,56.79,,United Kingdom,Charge,Positive,56.79,Guest/Unknown
+555322,DOT,Dotcom Postage,1,2011-09-13,88.71,,United Kingdom,Charge,Positive,88.71,Guest/Unknown
+555323,DOT,Dotcom Postage,1,2011-09-13,46.00,,United Kingdom,Charge,Positive,46.00,Guest/Unknown
+555324,DOT,Dotcom Postage,1,2011-09-13,124.08,,United Kingdom,Charge,Positive,124.08,Guest/Unknown
+555325,DOT,Dotcom Postage,1,2011-09-13,47.67,,United Kingdom,Charge,Positive,47.67,Guest/Unknown
+555326,DOT,Dotcom Postage,1,2011-09-13,79.67,,United Kingdom,Charge,Positive,79.67,Guest/Unknown
+555327,DOT,Dotcom Postage,1,2011-09-13,158.63,,United Kingdom,Charge,Positive,158.63,Guest/Unknown
+555397,DOT,Dotcom Postage,1,2011-09-13,216.80,,United Kingdom,Charge,Positive,216.80,Guest/Unknown
+555403,POST,Postage,1,2011-09-13,40.00,12676.00,Sweden,Charge,Positive,40.00,Registered
+555407,POST,Postage,1,2011-09-13,15.00,12775.00,Netherlands,Charge,Positive,15.00,Registered
+555417,POST,Postage,1,2011-09-13,18.00,12601.00,Germany,Charge,Positive,18.00,Registered
+555470,POST,Postage,1,2011-09-13,28.00,12455.00,Spain,Charge,Positive,28.00,Registered
+555510,DOT,Dotcom Postage,1,2011-09-14,181.45,,United Kingdom,Charge,Positive,181.45,Guest/Unknown
+555523,POST,Postage,2,2011-09-14,18.00,12468.00,Germany,Charge,Positive,36.00,Registered
+555531,POST,Postage,11,2011-09-14,18.00,12678.00,France,Charge,Positive,198.00,Registered
+555547,POST,Postage,4,2011-09-14,18.00,12681.00,France,Charge,Positive,72.00,Registered
+555553,POST,Postage,2,2011-09-14,18.00,12662.00,Germany,Charge,Positive,36.00,Registered
+555569,POST,Postage,5,2011-09-15,18.00,12727.00,France,Charge,Positive,90.00,Registered
+555572,POST,Postage,6,2011-09-15,15.00,12449.00,Belgium,Charge,Positive,90.00,Registered
+555574,POST,Postage,3,2011-09-15,15.00,12417.00,Belgium,Charge,Positive,45.00,Registered
+555589,POST,Postage,2,2011-09-15,15.00,12802.00,Netherlands,Charge,Positive,30.00,Registered
+555719,POST,Postage,5,2011-09-15,18.00,12609.00,Germany,Charge,Positive,90.00,Registered
+555721,POST,Postage,3,2011-09-15,15.00,15108.00,European Community,Charge,Positive,45.00,Registered
+555722,DOT,Dotcom Postage,1,2011-09-15,208.89,,United Kingdom,Charge,Positive,208.89,Guest/Unknown
+555726,POST,Postage,2,2011-09-15,28.00,12540.00,Spain,Charge,Positive,56.00,Registered
+555739,POST,Postage,3,2011-09-15,15.00,12380.00,Belgium,Charge,Positive,45.00,Registered
+555858,C2,Carriage,1,2011-09-16,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+555869,POST,Postage,1,2011-09-16,5.15,,United Kingdom,Charge,Positive,5.15,Guest/Unknown
+555923,DOT,Dotcom Postage,1,2011-09-16,222.18,,United Kingdom,Charge,Positive,222.18,Guest/Unknown
+555924,DOT,Dotcom Postage,1,2011-09-16,174.78,,United Kingdom,Charge,Positive,174.78,Guest/Unknown
+555925,DOT,Dotcom Postage,1,2011-09-16,173.59,,United Kingdom,Charge,Positive,173.59,Guest/Unknown
+555928,POST,Postage,2,2011-09-16,15.00,12383.00,Belgium,Charge,Positive,30.00,Registered
+555931,POST,Postage,4,2011-09-16,40.00,17828.00,Malta,Charge,Positive,160.00,Registered
+555937,POST,Postage,3,2011-09-16,18.00,12683.00,France,Charge,Positive,54.00,Registered
+555941,POST,Postage,1,2011-09-16,18.00,12726.00,France,Charge,Positive,18.00,Registered
+555943,POST,Postage,3,2011-09-18,40.00,13520.00,Switzerland,Charge,Positive,120.00,Registered
+556081,DOT,Dotcom Postage,1,2011-09-18,169.29,,United Kingdom,Charge,Positive,169.29,Guest/Unknown
+556082,DOT,Dotcom Postage,1,2011-09-18,212.96,,United Kingdom,Charge,Positive,212.96,Guest/Unknown
+556083,DOT,Dotcom Postage,1,2011-09-18,89.79,,United Kingdom,Charge,Positive,89.79,Guest/Unknown
+556085,DOT,Dotcom Postage,1,2011-09-18,151.33,,United Kingdom,Charge,Positive,151.33,Guest/Unknown
+556086,DOT,Dotcom Postage,1,2011-09-19,53.33,,United Kingdom,Charge,Positive,53.33,Guest/Unknown
+556087,DOT,Dotcom Postage,1,2011-09-19,110.13,,United Kingdom,Charge,Positive,110.13,Guest/Unknown
+556088,DOT,Dotcom Postage,1,2011-09-19,36.13,,United Kingdom,Charge,Positive,36.13,Guest/Unknown
+556089,DOT,Dotcom Postage,1,2011-09-19,93.75,,United Kingdom,Charge,Positive,93.75,Guest/Unknown
+556090,DOT,Dotcom Postage,1,2011-09-19,61.79,,United Kingdom,Charge,Positive,61.79,Guest/Unknown
+556091,DOT,Dotcom Postage,1,2011-09-19,84.63,,United Kingdom,Charge,Positive,84.63,Guest/Unknown
+556092,DOT,Dotcom Postage,1,2011-09-19,97.79,,United Kingdom,Charge,Positive,97.79,Guest/Unknown
+556093,DOT,Dotcom Postage,1,2011-09-19,224.42,,United Kingdom,Charge,Positive,224.42,Guest/Unknown
+556094,DOT,Dotcom Postage,1,2011-09-19,98.75,,United Kingdom,Charge,Positive,98.75,Guest/Unknown
+556095,DOT,Dotcom Postage,1,2011-09-19,192.54,,United Kingdom,Charge,Positive,192.54,Guest/Unknown
+556108,DOT,Dotcom Postage,1,2011-09-19,275.98,,United Kingdom,Charge,Positive,275.98,Guest/Unknown
+556114,POST,Postage,1,2011-09-19,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+556118,POST,Postage,2,2011-09-19,18.00,13811.00,Germany,Charge,Positive,36.00,Registered
+556126,C2,Carriage,1,2011-09-19,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+556194,POST,Postage,2,2011-09-19,18.00,12483.00,Sweden,Charge,Positive,36.00,Registered
+556203,POST,Postage,1,2011-09-20,15.00,12399.00,Belgium,Charge,Positive,15.00,Registered
+556206,C2,Carriage,1,2011-09-20,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+556235,POST,Postage,1,2011-09-20,15.00,12778.00,Netherlands,Charge,Positive,15.00,Registered
+556237,DOT,Dotcom Postage,1,2011-09-20,275.34,,United Kingdom,Charge,Positive,275.34,Guest/Unknown
+556241,POST,Postage,8,2011-09-20,28.00,12597.00,Spain,Charge,Positive,224.00,Registered
+556243,DOT,Dotcom Postage,1,2011-09-20,237.33,,United Kingdom,Charge,Positive,237.33,Guest/Unknown
+556258,POST,Postage,3,2011-09-20,18.00,12694.00,France,Charge,Positive,54.00,Registered
+556259,POST,Postage,4,2011-09-20,18.00,12721.00,France,Charge,Positive,72.00,Registered
+556305,POST,Postage,4,2011-09-20,18.00,12643.00,France,Charge,Positive,72.00,Registered
+556427,DOT,Dotcom Postage,1,2011-09-21,91.33,,United Kingdom,Charge,Positive,91.33,Guest/Unknown
+556428,DOT,Dotcom Postage,1,2011-09-21,130.71,,United Kingdom,Charge,Positive,130.71,Guest/Unknown
+556429,DOT,Dotcom Postage,1,2011-09-21,61.63,,United Kingdom,Charge,Positive,61.63,Guest/Unknown
+556431,DOT,Dotcom Postage,1,2011-09-21,9.08,,United Kingdom,Charge,Positive,9.08,Guest/Unknown
+556443,POST,Postage,4,2011-09-21,18.00,12712.00,Germany,Charge,Positive,72.00,Registered
+556459,DOT,Dotcom Postage,1,2011-09-21,171.46,,United Kingdom,Charge,Positive,171.46,Guest/Unknown
+556463,POST,Postage,2,2011-09-21,18.00,12583.00,France,Charge,Positive,36.00,Registered
+556469,POST,Postage,3,2011-09-21,18.00,12516.00,Germany,Charge,Positive,54.00,Registered
+556507,POST,Postage,8,2011-09-21,18.00,12567.00,France,Charge,Positive,144.00,Registered
+556509,POST,Postage,2,2011-09-21,18.00,12708.00,Germany,Charge,Positive,36.00,Registered
+556513,DOT,Dotcom Postage,1,2011-09-21,101.17,,United Kingdom,Charge,Positive,101.17,Guest/Unknown
+556514,POST,Postage,1,2011-09-21,3.30,,United Kingdom,Charge,Positive,3.30,Guest/Unknown
+556515,DOT,Dotcom Postage,1,2011-09-21,61.71,,United Kingdom,Charge,Positive,61.71,Guest/Unknown
+556516,DOT,Dotcom Postage,1,2011-09-21,87.04,,United Kingdom,Charge,Positive,87.04,Guest/Unknown
+556517,POST,Postage,5,2011-09-21,18.00,12481.00,Germany,Charge,Positive,90.00,Registered
+556519,POST,Postage,1,2011-09-21,2.02,16794.00,United Kingdom,Charge,Positive,2.02,Registered
+556526,POST,Postage,1,2011-09-21,18.00,12732.00,France,Charge,Positive,18.00,Registered
+556529,POST,Postage,4,2011-09-21,18.00,12714.00,France,Charge,Positive,72.00,Registered
+556578,POST,Postage,7,2011-09-21,18.00,12472.00,Germany,Charge,Positive,126.00,Registered
+556636,DOT,Dotcom Postage,1,2011-09-21,188.54,,United Kingdom,Charge,Positive,188.54,Guest/Unknown
+556812,DOT,Dotcom Postage,1,2011-09-22,239.67,,United Kingdom,Charge,Positive,239.67,Guest/Unknown
+556813,DOT,Dotcom Postage,1,2011-09-22,191.78,,United Kingdom,Charge,Positive,191.78,Guest/Unknown
+556816,POST,Postage,3,2011-09-22,18.00,12437.00,France,Charge,Positive,54.00,Registered
+556819,POST,Postage,4,2011-09-22,18.00,12682.00,France,Charge,Positive,72.00,Registered
+556821,DOT,Dotcom Postage,1,2011-09-22,50.96,,United Kingdom,Charge,Positive,50.96,Guest/Unknown
+556823,DOT,Dotcom Postage,1,2011-09-22,20.50,,United Kingdom,Charge,Positive,20.50,Guest/Unknown
+556824,DOT,Dotcom Postage,1,2011-09-22,65.79,,United Kingdom,Charge,Positive,65.79,Guest/Unknown
+556825,DOT,Dotcom Postage,1,2011-09-22,117.42,,United Kingdom,Charge,Positive,117.42,Guest/Unknown
+556826,DOT,Dotcom Postage,1,2011-09-22,277.00,,United Kingdom,Charge,Positive,277.00,Guest/Unknown
+556829,POST,Postage,3,2011-09-22,28.00,12809.00,Portugal,Charge,Positive,84.00,Registered
+556883,C2,Carriage,1,2011-09-22,50.00,13343.00,United Kingdom,Charge,Positive,50.00,Registered
+556886,POST,Postage,2,2011-09-22,18.00,12624.00,France,Charge,Positive,36.00,Registered
+556932,DOT,Dotcom Postage,1,2011-09-23,141.03,,United Kingdom,Charge,Positive,141.03,Guest/Unknown
+556969,C2,Carriage,1,2011-09-23,25.00,16257.00,United Kingdom,Charge,Positive,25.00,Registered
+557007,POST,Postage,7,2011-09-23,28.00,12484.00,Spain,Charge,Positive,196.00,Registered
+557027,POST,Postage,2,2011-09-23,40.00,12816.00,Poland,Charge,Positive,80.00,Registered
+557055,POST,Postage,2,2011-09-23,18.00,12621.00,Germany,Charge,Positive,36.00,Registered
+557069,POST,Postage,3,2011-09-23,18.00,12562.00,France,Charge,Positive,54.00,Registered
+557112,DOT,Dotcom Postage,1,2011-09-23,273.01,,United Kingdom,Charge,Positive,273.01,Guest/Unknown
+557136,C2,Carriage,1,2011-09-23,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+557147,POST,Postage,4,2011-09-23,15.00,12408.00,Belgium,Charge,Positive,60.00,Registered
+557232,POST,Postage,2,2011-09-25,18.00,12463.00,Belgium,Charge,Positive,36.00,Registered
+557295,POST,Postage,1,2011-09-25,18.00,12724.00,France,Charge,Positive,18.00,Registered
+557297,POST,Postage,2,2011-09-25,28.00,12421.00,Spain,Charge,Positive,56.00,Registered
+557314,POST,Postage,1,2011-09-25,28.00,12541.00,Spain,Charge,Positive,28.00,Registered
+557318,C2,Carriage,1,2011-09-25,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+557324,DOT,Dotcom Postage,1,2011-09-25,212.33,,United Kingdom,Charge,Positive,212.33,Guest/Unknown
+557427,POST,Postage,9,2011-09-26,18.00,12429.00,Denmark,Charge,Positive,162.00,Registered
+557466,POST,Postage,11,2011-09-26,18.00,13815.00,Germany,Charge,Positive,198.00,Registered
+557480,DOT,Dotcom Postage,1,2011-09-26,86.38,,United Kingdom,Charge,Positive,86.38,Guest/Unknown
+557481,DOT,Dotcom Postage,1,2011-09-26,130.63,,United Kingdom,Charge,Positive,130.63,Guest/Unknown
+557482,DOT,Dotcom Postage,1,2011-09-26,57.58,,United Kingdom,Charge,Positive,57.58,Guest/Unknown
+557483,POST,Postage,1,2011-09-26,18.00,12643.00,France,Charge,Positive,18.00,Registered
+557489,POST,Postage,3,2011-09-26,18.00,12490.00,France,Charge,Positive,54.00,Registered
+557493,DOT,Dotcom Postage,1,2011-09-26,132.33,,United Kingdom,Charge,Positive,132.33,Guest/Unknown
+557494,DOT,Dotcom Postage,1,2011-09-26,182.38,,United Kingdom,Charge,Positive,182.38,Guest/Unknown
+557495,DOT,Dotcom Postage,1,2011-09-26,26.33,,United Kingdom,Charge,Positive,26.33,Guest/Unknown
+557496,DOT,Dotcom Postage,1,2011-09-26,101.17,,United Kingdom,Charge,Positive,101.17,Guest/Unknown
+557497,DOT,Dotcom Postage,1,2011-09-26,46.13,,United Kingdom,Charge,Positive,46.13,Guest/Unknown
+557500,DOT,Dotcom Postage,1,2011-09-26,167.02,,United Kingdom,Charge,Positive,167.02,Guest/Unknown
+557502,DOT,Dotcom Postage,1,2011-09-26,173.30,,United Kingdom,Charge,Positive,173.30,Guest/Unknown
+557525,POST,Postage,3,2011-09-27,15.00,12759.00,Netherlands,Charge,Positive,45.00,Registered
+557569,POST,Postage,2,2011-09-27,18.00,12474.00,Germany,Charge,Positive,36.00,Registered
+557605,C2,Carriage,1,2011-09-27,25.00,14911.00,EIRE,Charge,Positive,25.00,Registered
+557627,POST,Postage,1,2011-09-27,18.00,12583.00,France,Charge,Positive,18.00,Registered
+557641,DOT,Dotcom Postage,1,2011-09-27,75.71,,United Kingdom,Charge,Positive,75.71,Guest/Unknown
+557642,DOT,Dotcom Postage,1,2011-09-27,88.75,,United Kingdom,Charge,Positive,88.75,Guest/Unknown
+557643,DOT,Dotcom Postage,1,2011-09-27,129.08,,United Kingdom,Charge,Positive,129.08,Guest/Unknown
+557644,DOT,Dotcom Postage,1,2011-09-27,138.46,,United Kingdom,Charge,Positive,138.46,Guest/Unknown
+557645,DOT,Dotcom Postage,1,2011-09-27,87.75,,United Kingdom,Charge,Positive,87.75,Guest/Unknown
+557669,POST,Postage,2,2011-09-27,18.00,12674.00,France,Charge,Positive,36.00,Registered
+557675,POST,Postage,1,2011-09-27,15.00,,Hong Kong,Charge,Positive,15.00,Guest/Unknown
+557734,POST,Postage,2,2011-09-27,18.00,12684.00,France,Charge,Positive,36.00,Registered
+557742,C2,Carriage,1,2011-09-27,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+557754,POST,Postage,1,2011-09-28,700.00,12432.00,Norway,Charge,Positive,700.00,Registered
+557759,C2,Carriage,1,2011-09-28,50.00,14156.00,EIRE,Charge,Positive,50.00,Registered
+557768,POST,Postage,1,2011-09-28,3.01,,United Kingdom,Charge,Positive,3.01,Guest/Unknown
+557789,POST,Postage,3,2011-09-28,15.00,12379.00,Belgium,Charge,Positive,45.00,Registered
+557803,POST,Postage,1,2011-09-28,40.00,12704.00,Finland,Charge,Positive,40.00,Registered
+557850,POST,Postage,2,2011-09-28,18.00,12720.00,Germany,Charge,Positive,36.00,Registered
+557872,C2,Carriage,1,2011-09-28,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+557885,POST,Postage,2,2011-09-28,15.00,12465.00,Belgium,Charge,Positive,30.00,Registered
+557889,POST,Postage,2,2011-09-28,18.00,12412.00,Denmark,Charge,Positive,36.00,Registered
+557937,DOT,Dotcom Postage,1,2011-09-28,157.81,,United Kingdom,Charge,Positive,157.81,Guest/Unknown
+557938,DOT,Dotcom Postage,1,2011-09-28,159.78,,United Kingdom,Charge,Positive,159.78,Guest/Unknown
+557939,POST,Postage,2,2011-09-28,40.00,12697.00,Sweden,Charge,Positive,80.00,Registered
+557972,POST,Postage,2,2011-09-28,18.00,12500.00,Germany,Charge,Positive,36.00,Registered
+558041,POST,Postage,3,2011-09-29,40.00,12422.00,Switzerland,Charge,Positive,120.00,Registered
+558045,POST,Postage,3,2011-09-29,18.00,12615.00,France,Charge,Positive,54.00,Registered
+558046,C2,Carriage,1,2011-09-29,50.00,,EIRE,Charge,Positive,50.00,Guest/Unknown
+558066,DOT,Dotcom Postage,1,2011-09-29,150.77,,United Kingdom,Charge,Positive,150.77,Guest/Unknown
+558068,DOT,Dotcom Postage,1,2011-09-29,150.71,,United Kingdom,Charge,Positive,150.71,Guest/Unknown
+558089,POST,Postage,3,2011-09-29,40.00,13505.00,Switzerland,Charge,Positive,120.00,Registered
+558108,POST,Postage,1,2011-09-29,28.00,12548.00,Spain,Charge,Positive,28.00,Registered
+558116,DOT,Dotcom Postage,1,2011-09-29,200.58,,United Kingdom,Charge,Positive,200.58,Guest/Unknown
+558117,DOT,Dotcom Postage,1,2011-09-29,62.46,,United Kingdom,Charge,Positive,62.46,Guest/Unknown
+558118,DOT,Dotcom Postage,1,2011-09-29,131.58,,United Kingdom,Charge,Positive,131.58,Guest/Unknown
+558119,DOT,Dotcom Postage,1,2011-09-29,189.79,,United Kingdom,Charge,Positive,189.79,Guest/Unknown
+558120,DOT,Dotcom Postage,1,2011-09-29,55.08,,United Kingdom,Charge,Positive,55.08,Guest/Unknown
+558124,POST,Postage,1,2011-09-29,18.00,12493.00,France,Charge,Positive,18.00,Registered
+558240,DOT,Dotcom Postage,1,2011-09-30,147.53,,United Kingdom,Charge,Positive,147.53,Guest/Unknown
+558316,DOT,Dotcom Postage,1,2011-09-30,107.58,,United Kingdom,Charge,Positive,107.58,Guest/Unknown
+558319,DOT,Dotcom Postage,1,2011-09-30,58.33,,United Kingdom,Charge,Positive,58.33,Guest/Unknown
+558321,DOT,Dotcom Postage,1,2011-09-30,81.33,,United Kingdom,Charge,Positive,81.33,Guest/Unknown
+558334,POST,Postage,1,2011-09-30,18.00,12599.00,France,Charge,Positive,18.00,Registered
+558475,DOT,Dotcom Postage,1,2011-10-13,858.46,,United Kingdom,Charge,Positive,858.46,Guest/Unknown
+558608,POST,Postage,1,2011-10-13,18.00,12524.00,Germany,Charge,Positive,18.00,Registered
+558614,DOT,Dotcom Postage,1,2011-10-13,264.65,,United Kingdom,Charge,Positive,264.65,Guest/Unknown
+558623,POST,Postage,1,2011-10-13,15.00,12395.00,Belgium,Charge,Positive,15.00,Registered
+558626,POST,Postage,1,2011-10-13,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+558628,POST,Postage,5,2011-10-13,18.00,12626.00,Germany,Charge,Positive,90.00,Registered
+558640,C2,Carriage,1,2011-10-14,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+558644,C2,Carriage,1,2011-10-14,50.00,14156.00,EIRE,Charge,Positive,50.00,Registered
+558680,DOT,Dotcom Postage,1,2011-10-14,64.88,,United Kingdom,Charge,Positive,64.88,Guest/Unknown
+558681,DOT,Dotcom Postage,1,2011-10-14,65.67,,United Kingdom,Charge,Positive,65.67,Guest/Unknown
+558682,DOT,Dotcom Postage,1,2011-10-14,126.54,,United Kingdom,Charge,Positive,126.54,Guest/Unknown
+558683,DOT,Dotcom Postage,1,2011-10-14,112.50,,United Kingdom,Charge,Positive,112.50,Guest/Unknown
+558687,POST,Postage,1,2011-10-14,18.00,12598.00,France,Charge,Positive,18.00,Registered
+558699,POST,Postage,1,2011-10-14,18.00,12494.00,France,Charge,Positive,18.00,Registered
+558717,POST,Postage,1,2011-10-14,18.00,12710.00,Germany,Charge,Positive,18.00,Registered
+558774,DOT,Dotcom Postage,1,2011-10-16,206.66,,United Kingdom,Charge,Positive,206.66,Guest/Unknown
+558777,DOT,Dotcom Postage,1,2011-10-16,304.24,,United Kingdom,Charge,Positive,304.24,Guest/Unknown
+558808,DOT,Dotcom Postage,1,2011-10-16,42.75,,United Kingdom,Charge,Positive,42.75,Guest/Unknown
+558809,DOT,Dotcom Postage,1,2011-10-16,146.50,,United Kingdom,Charge,Positive,146.50,Guest/Unknown
+558810,DOT,Dotcom Postage,1,2011-10-16,196.79,,United Kingdom,Charge,Positive,196.79,Guest/Unknown
+558811,DOT,Dotcom Postage,1,2011-10-16,57.63,,United Kingdom,Charge,Positive,57.63,Guest/Unknown
+558813,POST,Postage,3,2011-10-16,18.00,12682.00,France,Charge,Positive,54.00,Registered
+558835,DOT,Dotcom Postage,1,2011-10-16,54.25,,United Kingdom,Charge,Positive,54.25,Guest/Unknown
+558837,DOT,Dotcom Postage,1,2011-10-16,117.63,,United Kingdom,Charge,Positive,117.63,Guest/Unknown
+558904,DOT,Dotcom Postage,1,2011-10-17,306.35,,United Kingdom,Charge,Positive,306.35,Guest/Unknown
+558908,C2,Carriage,1,2011-10-17,50.00,13338.00,United Kingdom,Charge,Positive,50.00,Registered
+559004,POST,Postage,4,2011-10-17,40.00,12428.00,Finland,Charge,Positive,160.00,Registered
+559010,C2,Carriage,1,2011-10-17,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+559039,DOT,Dotcom Postage,1,2011-10-17,116.71,,United Kingdom,Charge,Positive,116.71,Guest/Unknown
+559040,DOT,Dotcom Postage,1,2011-10-17,39.50,,United Kingdom,Charge,Positive,39.50,Guest/Unknown
+559041,DOT,Dotcom Postage,1,2011-10-17,24.67,,United Kingdom,Charge,Positive,24.67,Guest/Unknown
+559042,DOT,Dotcom Postage,1,2011-10-17,75.67,,United Kingdom,Charge,Positive,75.67,Guest/Unknown
+559043,DOT,Dotcom Postage,1,2011-10-17,158.71,,United Kingdom,Charge,Positive,158.71,Guest/Unknown
+559051,DOT,Dotcom Postage,1,2011-10-17,201.84,,United Kingdom,Charge,Positive,201.84,Guest/Unknown
+559052,DOT,Dotcom Postage,1,2011-10-17,576.18,,United Kingdom,Charge,Positive,576.18,Guest/Unknown
+559055,DOT,Dotcom Postage,1,2011-10-17,531.65,,United Kingdom,Charge,Positive,531.65,Guest/Unknown
+559058,POST,Postage,6,2011-10-18,15.00,12407.00,Belgium,Charge,Positive,90.00,Registered
+559134,POST,Postage,5,2011-10-18,18.00,12700.00,France,Charge,Positive,90.00,Registered
+559135,POST,Postage,1,2011-10-18,28.00,12455.00,Spain,Charge,Positive,28.00,Registered
+559162,DOT,Dotcom Postage,1,2011-10-18,231.61,,United Kingdom,Charge,Positive,231.61,Guest/Unknown
+559163,DOT,Dotcom Postage,1,2011-10-18,240.41,,United Kingdom,Charge,Positive,240.41,Guest/Unknown
+559173,POST,Postage,2,2011-10-18,28.00,12540.00,Spain,Charge,Positive,56.00,Registered
+559295,POST,Postage,2,2011-10-18,15.00,12362.00,Belgium,Charge,Positive,30.00,Registered
+559298,POST,Postage,6,2011-10-18,18.00,12471.00,Germany,Charge,Positive,108.00,Registered
+559316,POST,Postage,1,2011-10-18,18.00,12647.00,Germany,Charge,Positive,18.00,Registered
+559337,DOT,Dotcom Postage,1,2011-10-19,298.31,,United Kingdom,Charge,Positive,298.31,Guest/Unknown
+559338,DOT,Dotcom Postage,1,2011-10-19,296.61,,United Kingdom,Charge,Positive,296.61,Guest/Unknown
+559362,POST,Postage,3,2011-10-19,18.00,12635.00,Germany,Charge,Positive,54.00,Registered
+559418,POST,Postage,3,2011-10-19,18.00,12681.00,France,Charge,Positive,54.00,Registered
+559421,POST,Postage,1,2011-10-19,18.00,12648.00,Germany,Charge,Positive,18.00,Registered
+559422,POST,Postage,2,2011-10-19,18.00,12553.00,France,Charge,Positive,36.00,Registered
+559441,POST,Postage,2,2011-10-19,18.00,12583.00,France,Charge,Positive,36.00,Registered
+559488,DOT,Dotcom Postage,1,2011-10-19,191.67,,United Kingdom,Charge,Positive,191.67,Guest/Unknown
+559489,DOT,Dotcom Postage,1,2011-10-19,69.00,,United Kingdom,Charge,Positive,69.00,Guest/Unknown
+559490,DOT,Dotcom Postage,1,2011-10-19,3.29,,United Kingdom,Charge,Positive,3.29,Guest/Unknown
+559491,DOT,Dotcom Postage,1,2011-10-19,164.54,,United Kingdom,Charge,Positive,164.54,Guest/Unknown
+559492,DOT,Dotcom Postage,1,2011-10-19,56.04,,United Kingdom,Charge,Positive,56.04,Guest/Unknown
+559493,DOT,Dotcom Postage,1,2011-10-19,166.96,,United Kingdom,Charge,Positive,166.96,Guest/Unknown
+559494,DOT,Dotcom Postage,1,2011-10-19,69.92,,United Kingdom,Charge,Positive,69.92,Guest/Unknown
+559496,DOT,Dotcom Postage,1,2011-10-19,19.75,,United Kingdom,Charge,Positive,19.75,Guest/Unknown
+559497,DOT,Dotcom Postage,1,2011-10-19,142.29,,United Kingdom,Charge,Positive,142.29,Guest/Unknown
+559506,DOT,Dotcom Postage,1,2011-10-19,319.82,,United Kingdom,Charge,Positive,319.82,Guest/Unknown
+559514,DOT,Dotcom Postage,1,2011-10-20,57.67,,United Kingdom,Charge,Positive,57.67,Guest/Unknown
+559515,DOT,Dotcom Postage,1,2011-10-20,36.17,,United Kingdom,Charge,Positive,36.17,Guest/Unknown
+559517,DOT,Dotcom Postage,1,2011-10-20,16.42,,United Kingdom,Charge,Positive,16.42,Guest/Unknown
+559518,DOT,Dotcom Postage,1,2011-10-20,92.88,,United Kingdom,Charge,Positive,92.88,Guest/Unknown
+559607,POST,Postage,5,2011-10-20,18.00,12681.00,France,Charge,Positive,90.00,Registered
+559680,POST,Postage,2,2011-10-20,50.00,12717.00,Greece,Charge,Positive,100.00,Registered
+559685,POST,Postage,1,2011-10-20,18.00,12599.00,France,Charge,Positive,18.00,Registered
+559693,DOT,Dotcom Postage,1,2011-10-21,275.11,,United Kingdom,Charge,Positive,275.11,Guest/Unknown
+559699,POST,Postage,1,2011-10-21,18.00,12682.00,France,Charge,Positive,18.00,Registered
+559704,POST,Postage,4,2011-10-21,18.00,12669.00,France,Charge,Positive,72.00,Registered
+559707,POST,Postage,2,2011-10-21,40.00,12358.00,Austria,Charge,Positive,80.00,Registered
+559710,POST,Postage,1,2011-10-21,18.00,12474.00,Germany,Charge,Positive,18.00,Registered
+559799,DOT,Dotcom Postage,1,2011-10-21,23.00,,United Kingdom,Charge,Positive,23.00,Guest/Unknown
+559800,DOT,Dotcom Postage,1,2011-10-21,34.50,,United Kingdom,Charge,Positive,34.50,Guest/Unknown
+559801,DOT,Dotcom Postage,1,2011-10-21,90.42,,United Kingdom,Charge,Positive,90.42,Guest/Unknown
+559802,DOT,Dotcom Postage,1,2011-10-21,175.88,,United Kingdom,Charge,Positive,175.88,Guest/Unknown
+559816,DOT,Dotcom Postage,1,2011-10-23,375.64,,United Kingdom,Charge,Positive,375.64,Guest/Unknown
+559817,DOT,Dotcom Postage,1,2011-10-23,169.55,,United Kingdom,Charge,Positive,169.55,Guest/Unknown
+559819,POST,Postage,1,2011-10-23,18.00,12682.00,France,Charge,Positive,18.00,Registered
+559835,POST,Postage,1,2011-10-23,15.00,13509.00,United Kingdom,Charge,Positive,15.00,Registered
+559862,POST,Postage,4,2011-10-23,28.00,12782.00,Portugal,Charge,Positive,112.00,Registered
+559889,POST,Postage,1,2011-10-23,145.00,12678.00,France,Charge,Positive,145.00,Registered
+559890,POST,Postage,1,2011-10-23,15.00,12464.00,Belgium,Charge,Positive,15.00,Registered
+559899,POST,Postage,3,2011-10-23,18.00,12528.00,Germany,Charge,Positive,54.00,Registered
+559914,DOT,Dotcom Postage,1,2011-10-23,198.75,,United Kingdom,Charge,Positive,198.75,Guest/Unknown
+559923,DOT,Dotcom Postage,1,2011-10-24,240.67,,United Kingdom,Charge,Positive,240.67,Guest/Unknown
+559928,POST,Postage,8,2011-10-24,40.00,12405.00,Finland,Charge,Positive,320.00,Registered
+559987,POST,Postage,5,2011-10-24,18.00,12619.00,Germany,Charge,Positive,90.00,Registered
+560041,C2,Carriage,1,2011-10-24,50.00,14156.00,EIRE,Charge,Positive,50.00,Registered
+560090,DOT,Dotcom Postage,1,2011-10-24,255.83,,United Kingdom,Charge,Positive,255.83,Guest/Unknown
+560119,POST,Postage,2,2011-10-24,40.00,12815.00,Poland,Charge,Positive,80.00,Registered
+560187,POST,Postage,1,2011-10-24,550.94,17444.00,Canada,Charge,Positive,550.94,Registered
+560202,POST,Postage,4,2011-10-24,18.00,12712.00,Germany,Charge,Positive,72.00,Registered
+560211,POST,Postage,3,2011-10-24,18.00,12621.00,Germany,Charge,Positive,54.00,Registered
+560225,DOT,Dotcom Postage,1,2011-10-24,377.33,,United Kingdom,Charge,Positive,377.33,Guest/Unknown
+560230,POST,Postage,2,2011-10-25,18.00,12600.00,Germany,Charge,Positive,36.00,Registered
+560272,POST,Postage,1,2011-10-25,18.00,12691.00,France,Charge,Positive,18.00,Registered
+560290,DOT,Dotcom Postage,1,2011-10-25,82.21,,United Kingdom,Charge,Positive,82.21,Guest/Unknown
+560291,DOT,Dotcom Postage,1,2011-10-25,120.17,,United Kingdom,Charge,Positive,120.17,Guest/Unknown
+560292,DOT,Dotcom Postage,1,2011-10-25,88.83,,United Kingdom,Charge,Positive,88.83,Guest/Unknown
+560293,DOT,Dotcom Postage,1,2011-10-25,153.92,,United Kingdom,Charge,Positive,153.92,Guest/Unknown
+560294,DOT,Dotcom Postage,1,2011-10-25,49.46,,United Kingdom,Charge,Positive,49.46,Guest/Unknown
+560296,DOT,Dotcom Postage,1,2011-10-25,135.13,,United Kingdom,Charge,Positive,135.13,Guest/Unknown
+560298,DOT,Dotcom Postage,1,2011-10-25,177.96,,United Kingdom,Charge,Positive,177.96,Guest/Unknown
+560363,POST,Postage,1,2011-10-25,18.00,12589.00,France,Charge,Positive,18.00,Registered
+560433,DOT,Dotcom Postage,1,2011-10-26,188.15,,United Kingdom,Charge,Positive,188.15,Guest/Unknown
+560434,DOT,Dotcom Postage,1,2011-10-26,323.05,,United Kingdom,Charge,Positive,323.05,Guest/Unknown
+560452,POST,Postage,1,2011-10-26,18.00,12682.00,France,Charge,Positive,18.00,Registered
+560534,C2,Carriage,1,2011-10-26,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+560545,POST,Postage,1,2011-10-27,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+560549,POST,Postage,2,2011-10-27,40.00,12664.00,Finland,Charge,Positive,80.00,Registered
+560566,POST,Postage,2,2011-10-27,18.00,12662.00,Germany,Charge,Positive,36.00,Registered
+560569,POST,Postage,3,2011-10-27,18.00,12480.00,Germany,Charge,Positive,54.00,Registered
+560607,POST,Postage,3,2011-10-27,28.00,12510.00,Spain,Charge,Positive,84.00,Registered
+560635,POST,Postage,3,2011-10-27,18.00,12521.00,Germany,Charge,Positive,54.00,Registered
+560710,POST,Postage,1,2011-10-27,15.00,14646.00,Netherlands,Charge,Positive,15.00,Registered
+560728,POST,Postage,2,2011-10-27,18.00,12520.00,Germany,Charge,Positive,36.00,Registered
+560755,DOT,Dotcom Postage,1,2011-10-27,0.35,,United Kingdom,Charge,Positive,0.35,Guest/Unknown
+560772,DOT,Dotcom Postage,1,2011-10-28,268.05,,United Kingdom,Charge,Positive,268.05,Guest/Unknown
+560773,DOT,Dotcom Postage,1,2011-10-28,252.11,,United Kingdom,Charge,Positive,252.11,Guest/Unknown
+560777,DOT,Dotcom Postage,1,2011-10-28,79.00,,United Kingdom,Charge,Positive,79.00,Guest/Unknown
+560778,DOT,Dotcom Postage,1,2011-10-28,79.83,,United Kingdom,Charge,Positive,79.83,Guest/Unknown
+560779,DOT,Dotcom Postage,1,2011-10-28,178.71,,United Kingdom,Charge,Positive,178.71,Guest/Unknown
+560780,DOT,Dotcom Postage,1,2011-10-28,233.04,,United Kingdom,Charge,Positive,233.04,Guest/Unknown
+560783,POST,Postage,4,2011-10-28,15.00,15108.00,European Community,Charge,Positive,60.00,Registered
+560876,POST,Postage,6,2011-10-28,18.00,12626.00,Germany,Charge,Positive,108.00,Registered
+560901,POST,Postage,7,2011-10-30,18.00,12476.00,Germany,Charge,Positive,126.00,Registered
+560916,C2,Carriage,1,2011-10-30,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+560922,C2,Carriage,1,2011-10-30,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+560926,DOT,Dotcom Postage,1,2011-10-30,356.70,,United Kingdom,Charge,Positive,356.70,Guest/Unknown
+560991,POST,Postage,3,2011-10-30,40.00,12438.00,Norway,Charge,Positive,120.00,Registered
+560997,POST,Postage,4,2011-10-30,18.00,12627.00,Germany,Charge,Positive,72.00,Registered
+561029,POST,Postage,2,2011-10-30,18.00,12490.00,France,Charge,Positive,36.00,Registered
+561037,POST,Postage,3,2011-10-30,18.00,12472.00,Germany,Charge,Positive,54.00,Registered
+561057,POST,Postage,1,2011-10-30,2.90,17935.00,United Kingdom,Charge,Positive,2.90,Registered
+561090,DOT,Dotcom Postage,1,2011-10-30,53.54,,United Kingdom,Charge,Positive,53.54,Guest/Unknown
+561091,DOT,Dotcom Postage,1,2011-10-31,75.79,,United Kingdom,Charge,Positive,75.79,Guest/Unknown
+561093,POST,Postage,6,2011-10-31,28.00,12540.00,Spain,Charge,Positive,168.00,Registered
+561094,POST,Postage,2,2011-10-31,18.00,12474.00,Germany,Charge,Positive,36.00,Registered
+561102,POST,Postage,1,2011-10-31,18.00,12412.00,Denmark,Charge,Positive,18.00,Registered
+561116,POST,Postage,5,2011-10-31,40.00,13520.00,Switzerland,Charge,Positive,200.00,Registered
+561209,DOT,Dotcom Postage,1,2011-10-31,299.72,,United Kingdom,Charge,Positive,299.72,Guest/Unknown
+561214,DOT,Dotcom Postage,1,2011-10-31,135.08,,United Kingdom,Charge,Positive,135.08,Guest/Unknown
+561216,POST,Postage,8,2011-10-31,15.00,14606.00,United Kingdom,Charge,Positive,120.00,Registered
+561217,DOT,Dotcom Postage,1,2011-10-31,234.63,,United Kingdom,Charge,Positive,234.63,Guest/Unknown
+561218,DOT,Dotcom Postage,1,2011-10-31,162.95,,United Kingdom,Charge,Positive,162.95,Guest/Unknown
+561245,DOT,Dotcom Postage,1,2011-10-31,6.58,,United Kingdom,Charge,Positive,6.58,Guest/Unknown
+561257,C2,Carriage,1,2011-10-31,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+561368,POST,Postage,1,2011-10-31,36.50,14866.00,United Kingdom,Charge,Positive,36.50,Registered
+561369,DOT,Dotcom Postage,1,2011-10-31,151.61,,United Kingdom,Charge,Positive,151.61,Guest/Unknown
+561371,DOT,Dotcom Postage,1,2011-10-31,122.99,,United Kingdom,Charge,Positive,122.99,Guest/Unknown
+561372,POST,Postage,1,2011-10-31,13.31,,United Kingdom,Charge,Positive,13.31,Guest/Unknown
+561468,POST,Postage,5,2011-11-13,18.00,12709.00,Germany,Charge,Positive,90.00,Registered
+561470,POST,Postage,1,2011-11-13,18.00,12523.00,France,Charge,Positive,18.00,Registered
+561507,POST,Postage,7,2011-11-13,15.00,12397.00,Belgium,Charge,Positive,105.00,Registered
+561513,DOT,Dotcom Postage,1,2011-11-13,114.62,,United Kingdom,Charge,Positive,114.62,Guest/Unknown
+561515,DOT,Dotcom Postage,1,2011-11-13,133.30,,United Kingdom,Charge,Positive,133.30,Guest/Unknown
+561583,POST,Postage,3,2011-11-13,18.00,13813.00,Germany,Charge,Positive,54.00,Registered
+561631,C2,Carriage,1,2011-11-13,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+561651,DOT,Dotcom Postage,1,2011-11-13,180.50,,United Kingdom,Charge,Positive,180.50,Guest/Unknown
+561662,POST,Postage,2,2011-11-13,15.00,12407.00,Belgium,Charge,Positive,30.00,Registered
+561667,C2,Carriage,1,2011-11-13,50.00,,EIRE,Charge,Positive,50.00,Guest/Unknown
+561669,POST,Postage,6,2011-11-13,28.00,12507.00,Spain,Charge,Positive,168.00,Registered
+561795,POST,Postage,3,2011-11-14,18.00,12716.00,France,Charge,Positive,54.00,Registered
+561820,DOT,Dotcom Postage,1,2011-11-14,185.66,,United Kingdom,Charge,Positive,185.66,Guest/Unknown
+561890,POST,Postage,2,2011-11-14,40.00,12697.00,Sweden,Charge,Positive,80.00,Registered
+561898,POST,Postage,7,2011-11-14,40.00,12456.00,Switzerland,Charge,Positive,280.00,Registered
+561911,POST,Postage,6,2011-11-14,18.00,12534.00,Germany,Charge,Positive,108.00,Registered
+562024,DOT,Dotcom Postage,1,2011-11-14,142.94,,United Kingdom,Charge,Positive,142.94,Guest/Unknown
+562034,POST,Postage,6,2011-11-14,15.00,12449.00,Belgium,Charge,Positive,90.00,Registered
+562035,POST,Postage,2,2011-11-14,18.00,12627.00,Germany,Charge,Positive,36.00,Registered
+562037,POST,Postage,3,2011-11-14,15.00,13023.00,United Kingdom,Charge,Positive,45.00,Registered
+562038,POST,Postage,1,2011-11-14,18.00,12633.00,Germany,Charge,Positive,18.00,Registered
+562047,POST,Postage,1,2011-11-14,4.95,17788.00,United Kingdom,Charge,Positive,4.95,Registered
+562113,DOT,Dotcom Postage,1,2011-11-15,150.59,,United Kingdom,Charge,Positive,150.59,Guest/Unknown
+562114,DOT,Dotcom Postage,1,2011-11-15,119.51,,United Kingdom,Charge,Positive,119.51,Guest/Unknown
+562207,POST,Postage,9,2011-11-15,15.00,12643.00,France,Charge,Positive,135.00,Registered
+562264,DOT,Dotcom Postage,1,2011-11-15,133.06,,United Kingdom,Charge,Positive,133.06,Guest/Unknown
+562273,POST,Postage,6,2011-11-15,28.00,12502.00,Spain,Charge,Positive,168.00,Registered
+562274,POST,Postage,2,2011-11-15,40.00,12704.00,Finland,Charge,Positive,80.00,Registered
+562275,POST,Postage,2,2011-11-15,18.00,12689.00,France,Charge,Positive,36.00,Registered
+562287,POST,Postage,1,2011-11-15,28.00,12455.00,Spain,Charge,Positive,28.00,Registered
+562370,POST,Postage,4,2011-11-15,18.00,12626.00,Germany,Charge,Positive,72.00,Registered
+562417,DOT,Dotcom Postage,1,2011-11-16,141.50,,United Kingdom,Charge,Positive,141.50,Guest/Unknown
+562420,DOT,Dotcom Postage,1,2011-11-16,170.98,,United Kingdom,Charge,Positive,170.98,Guest/Unknown
+562435,POST,Postage,2,2011-11-16,18.00,12693.00,Germany,Charge,Positive,36.00,Registered
+562445,POST,Postage,3,2011-11-16,18.00,12417.00,Belgium,Charge,Positive,54.00,Registered
+562450,POST,Postage,3,2011-11-16,18.00,12562.00,France,Charge,Positive,54.00,Registered
+562520,POST,Postage,1,2011-11-16,18.00,12599.00,France,Charge,Positive,18.00,Registered
+562527,POST,Postage,2,2011-11-16,18.00,12647.00,Germany,Charge,Positive,36.00,Registered
+562528,POST,Postage,4,2011-11-16,28.00,12610.00,Italy,Charge,Positive,112.00,Registered
+562537,POST,Postage,5,2011-11-16,18.00,12517.00,Germany,Charge,Positive,90.00,Registered
+562553,DOT,Dotcom Postage,1,2011-11-16,214.11,,United Kingdom,Charge,Positive,214.11,Guest/Unknown
+562600,POST,Postage,1,2011-11-16,40.00,12676.00,Sweden,Charge,Positive,40.00,Registered
+562605,POST,Postage,2,2011-11-16,18.00,12530.00,Germany,Charge,Positive,36.00,Registered
+562650,POST,Postage,2,2011-11-16,40.00,17404.00,Sweden,Charge,Positive,80.00,Registered
+562715,DOT,Dotcom Postage,1,2011-11-16,204.85,,United Kingdom,Charge,Positive,204.85,Guest/Unknown
+562717,DOT,Dotcom Postage,1,2011-11-17,203.63,,United Kingdom,Charge,Positive,203.63,Guest/Unknown
+562729,POST,Postage,1,2011-11-17,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+562805,POST,Postage,1,2011-11-17,3.59,,United Kingdom,Charge,Positive,3.59,Guest/Unknown
+562843,DOT,Dotcom Postage,1,2011-11-17,103.40,,United Kingdom,Charge,Positive,103.40,Guest/Unknown
+562844,POST,Postage,7,2011-11-17,40.00,12444.00,Norway,Charge,Positive,280.00,Registered
+562853,POST,Postage,1,2011-11-17,18.00,13919.00,Denmark,Charge,Positive,18.00,Registered
+562882,POST,Postage,2,2011-11-17,40.00,12384.00,Switzerland,Charge,Positive,80.00,Registered
+562933,DOT,Dotcom Postage,1,2011-11-17,150.17,,United Kingdom,Charge,Positive,150.17,Guest/Unknown
+562934,DOT,Dotcom Postage,1,2011-11-17,195.62,,United Kingdom,Charge,Positive,195.62,Guest/Unknown
+562955,DOT,Dotcom Postage,1,2011-11-17,4505.17,,United Kingdom,Charge,Positive,4505.17,Guest/Unknown
+562960,C2,Carriage,1,2011-11-17,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+563020,POST,Postage,3,2011-11-18,40.00,12428.00,Finland,Charge,Positive,120.00,Registered
+563025,POST,Postage,1,2011-11-18,1.69,,United Kingdom,Charge,Positive,1.69,Guest/Unknown
+563037,POST,Postage,3,2011-11-18,15.00,12362.00,Belgium,Charge,Positive,45.00,Registered
+563093,DOT,Dotcom Postage,1,2011-11-18,176.41,,United Kingdom,Charge,Positive,176.41,Guest/Unknown
+563100,POST,Postage,6,2011-11-18,40.00,12381.00,Norway,Charge,Positive,240.00,Registered
+563172,POST,Postage,1,2011-11-18,15.00,12399.00,Belgium,Charge,Positive,15.00,Registered
+563189,POST,Postage,2,2011-11-18,18.00,12682.00,France,Charge,Positive,36.00,Registered
+563193,DOT,Dotcom Postage,1,2011-11-18,199.89,,United Kingdom,Charge,Positive,199.89,Guest/Unknown
+563195,DOT,Dotcom Postage,1,2011-11-18,222.49,,United Kingdom,Charge,Positive,222.49,Guest/Unknown
+563288,POST,Postage,4,2011-11-20,18.00,12656.00,France,Charge,Positive,72.00,Registered
+563345,POST,Postage,2,2011-11-20,18.00,12619.00,Germany,Charge,Positive,36.00,Registered
+563355,C2,Carriage,1,2011-11-20,50.00,14156.00,EIRE,Charge,Positive,50.00,Registered
+563373,POST,Postage,2,2011-11-20,18.00,12569.00,Germany,Charge,Positive,36.00,Registered
+563383,POST,Postage,1,2011-11-20,15.00,14407.00,United Kingdom,Charge,Positive,15.00,Registered
+563443,POST,Postage,1,2011-11-20,40.00,12641.00,Sweden,Charge,Positive,40.00,Registered
+563480,POST,Postage,1,2011-11-20,2.45,,United Kingdom,Charge,Positive,2.45,Guest/Unknown
+563518,POST,Postage,2,2011-11-20,28.00,12421.00,Spain,Charge,Positive,56.00,Registered
+563540,POST,Postage,5,2011-11-20,18.00,12473.00,Germany,Charge,Positive,90.00,Registered
+563547,C2,Carriage,1,2011-11-20,50.00,,EIRE,Charge,Positive,50.00,Guest/Unknown
+563548,POST,Postage,3,2011-11-20,18.00,12528.00,Germany,Charge,Positive,54.00,Registered
+563549,DOT,Dotcom Postage,1,2011-11-20,1154.67,,United Kingdom,Charge,Positive,1154.67,Guest/Unknown
+563662,POST,Postage,2,2011-11-21,18.00,12729.00,France,Charge,Positive,36.00,Registered
+563712,POST,Postage,2,2011-11-21,18.00,12680.00,France,Charge,Positive,36.00,Registered
+563714,C2,Carriage,1,2011-11-21,50.00,14565.00,United Kingdom,Charge,Positive,50.00,Registered
+563749,POST,Postage,2,2011-11-21,40.00,12360.00,Austria,Charge,Positive,80.00,Registered
+563753,POST,Postage,3,2011-11-21,18.00,12513.00,France,Charge,Positive,54.00,Registered
+563776,POST,Postage,2,2011-11-21,18.00,12600.00,Germany,Charge,Positive,36.00,Registered
+563808,POST,Postage,2,2011-11-21,18.00,12626.00,Germany,Charge,Positive,36.00,Registered
+563852,POST,Postage,2,2011-11-21,15.00,12395.00,Belgium,Charge,Positive,30.00,Registered
+563853,POST,Postage,8,2011-11-21,18.00,12560.00,Germany,Charge,Positive,144.00,Registered
+563854,POST,Postage,3,2011-11-21,15.00,12364.00,Belgium,Charge,Positive,45.00,Registered
+563897,POST,Postage,1,2011-11-21,18.00,12523.00,France,Charge,Positive,18.00,Registered
+563911,C2,Carriage,1,2011-11-21,50.00,16265.00,United Kingdom,Charge,Positive,50.00,Registered
+563913,C2,Carriage,1,2011-11-21,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+563914,POST,Postage,2,2011-11-21,18.00,12518.00,Germany,Charge,Positive,36.00,Registered
+563926,POST,Postage,2,2011-11-22,18.00,12553.00,France,Charge,Positive,36.00,Registered
+563936,POST,Postage,1,2011-11-22,40.00,17828.00,Malta,Charge,Positive,40.00,Registered
+563950,POST,Postage,7,2011-11-22,18.00,12471.00,Germany,Charge,Positive,126.00,Registered
+564039,POST,Postage,2,2011-11-22,18.00,12645.00,Germany,Charge,Positive,36.00,Registered
+564082,POST,Postage,4,2011-11-22,18.00,12627.00,Germany,Charge,Positive,72.00,Registered
+564085,C2,Carriage,1,2011-11-22,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+564086,POST,Postage,1,2011-11-22,160.00,,Hong Kong,Charge,Positive,160.00,Guest/Unknown
+564140,POST,Postage,2,2011-11-22,18.00,12621.00,Germany,Charge,Positive,36.00,Registered
+564173,POST,Postage,4,2011-11-22,18.00,12567.00,France,Charge,Positive,72.00,Registered
+564196,POST,Postage,1,2011-11-22,15.00,17315.00,United Kingdom,Charge,Positive,15.00,Registered
+564201,POST,Postage,2,2011-11-22,28.00,12540.00,Spain,Charge,Positive,56.00,Registered
+564216,POST,Postage,2,2011-11-22,18.00,12642.00,Germany,Charge,Positive,36.00,Registered
+564221,DOT,Dotcom Postage,1,2011-11-22,1325.00,,United Kingdom,Charge,Positive,1325.00,Guest/Unknown
+564226,POST,Postage,2,2011-11-22,18.00,12523.00,France,Charge,Positive,36.00,Registered
+564328,POST,Postage,2,2011-11-23,18.00,12662.00,Germany,Charge,Positive,36.00,Registered
+564329,POST,Postage,2,2011-11-23,18.00,12569.00,Germany,Charge,Positive,36.00,Registered
+564337,POST,Postage,1,2011-11-23,18.00,12649.00,Germany,Charge,Positive,18.00,Registered
+564360,POST,Postage,3,2011-11-23,18.00,12471.00,Germany,Charge,Positive,54.00,Registered
+564367,POST,Postage,1,2011-11-23,18.00,12712.00,Germany,Charge,Positive,18.00,Registered
+564372,POST,Postage,6,2011-11-23,18.00,12714.00,France,Charge,Positive,108.00,Registered
+564378,POST,Postage,3,2011-11-23,15.00,12417.00,Belgium,Charge,Positive,45.00,Registered
+564471,POST,Postage,1,2011-11-23,18.00,12583.00,France,Charge,Positive,18.00,Registered
+564475,POST,Postage,1,2011-11-23,18.00,12500.00,Germany,Charge,Positive,18.00,Registered
+564476,POST,Postage,1,2011-11-23,40.00,12610.00,Italy,Charge,Positive,40.00,Registered
+564479,POST,Postage,2,2011-11-23,18.00,12682.00,France,Charge,Positive,36.00,Registered
+564481,POST,Postage,3,2011-11-23,15.00,12464.00,Belgium,Charge,Positive,45.00,Registered
+564516,DOT,Dotcom Postage,1,2011-11-23,309.75,,United Kingdom,Charge,Positive,309.75,Guest/Unknown
+564531,POST,Postage,2,2011-11-23,18.00,12624.00,France,Charge,Positive,36.00,Registered
+564539,POST,Postage,2,2011-11-23,40.00,12715.00,Sweden,Charge,Positive,80.00,Registered
+564558,POST,Postage,2,2011-11-23,40.00,12704.00,Finland,Charge,Positive,80.00,Registered
+564638,POST,Postage,1,2011-11-23,18.00,13812.00,Germany,Charge,Positive,18.00,Registered
+564649,POST,Postage,1,2011-11-23,15.00,15611.00,United Kingdom,Charge,Positive,15.00,Registered
+564654,C2,Carriage,1,2011-11-23,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+564665,POST,Postage,1,2011-11-23,1.10,,United Kingdom,Charge,Positive,1.10,Guest/Unknown
+564666,POST,Postage,1,2011-11-23,18.00,12492.00,Germany,Charge,Positive,18.00,Registered
+564670,POST,Postage,6,2011-11-23,18.00,12683.00,France,Charge,Positive,108.00,Registered
+564749,POST,Postage,2,2011-11-24,18.00,12708.00,Germany,Charge,Positive,36.00,Registered
+564754,DOT,Dotcom Postage,1,2011-11-24,186.87,,United Kingdom,Charge,Positive,186.87,Guest/Unknown
+564755,DOT,Dotcom Postage,1,2011-11-24,170.92,,United Kingdom,Charge,Positive,170.92,Guest/Unknown
+564756,DOT,Dotcom Postage,1,2011-11-24,165.20,,United Kingdom,Charge,Positive,165.20,Guest/Unknown
+564757,DOT,Dotcom Postage,1,2011-11-24,198.09,,United Kingdom,Charge,Positive,198.09,Guest/Unknown
+564758,DOT,Dotcom Postage,1,2011-11-24,252.37,,United Kingdom,Charge,Positive,252.37,Guest/Unknown
+564760,DOT,Dotcom Postage,1,2011-11-24,191.06,,United Kingdom,Charge,Positive,191.06,Guest/Unknown
+564764,DOT,Dotcom Postage,1,2011-11-24,11.17,14096.00,United Kingdom,Charge,Positive,11.17,Registered
+564817,DOT,Dotcom Postage,1,2011-11-24,177.63,,United Kingdom,Charge,Positive,177.63,Guest/Unknown
+564818,DOT,Dotcom Postage,1,2011-11-24,192.71,,United Kingdom,Charge,Positive,192.71,Guest/Unknown
+564819,POST,Postage,1,2011-11-24,40.00,12814.00,Poland,Charge,Positive,40.00,Registered
+564820,DOT,Dotcom Postage,1,2011-11-24,150.35,,United Kingdom,Charge,Positive,150.35,Guest/Unknown
+564825,DOT,Dotcom Postage,1,2011-11-24,124.83,,United Kingdom,Charge,Positive,124.83,Guest/Unknown
+564835,DOT,Dotcom Postage,1,2011-11-24,176.72,,United Kingdom,Charge,Positive,176.72,Guest/Unknown
+564837,DOT,Dotcom Postage,1,2011-11-24,177.63,,United Kingdom,Charge,Positive,177.63,Guest/Unknown
+564838,DOT,Dotcom Postage,1,2011-11-25,171.07,,United Kingdom,Charge,Positive,171.07,Guest/Unknown
+564840,DOT,Dotcom Postage,1,2011-11-25,191.96,,United Kingdom,Charge,Positive,191.96,Guest/Unknown
+564844,POST,Postage,1,2011-11-25,3.82,,United Kingdom,Charge,Positive,3.82,Guest/Unknown
+564853,POST,Postage,3,2011-11-25,15.00,12423.00,Belgium,Charge,Positive,45.00,Registered
+564857,DOT,Dotcom Postage,1,2011-11-25,877.04,,United Kingdom,Charge,Positive,877.04,Guest/Unknown
+564858,POST,Postage,5,2011-11-25,28.00,12484.00,Spain,Charge,Positive,140.00,Registered
+564861,POST,Postage,1,2011-11-25,15.00,17315.00,United Kingdom,Charge,Positive,15.00,Registered
+564862,POST,Postage,1,2011-11-25,145.00,12678.00,France,Charge,Positive,145.00,Registered
+564906,POST,Postage,2,2011-11-25,18.00,12682.00,France,Charge,Positive,36.00,Registered
+564912,POST,Postage,3,2011-11-25,18.00,12490.00,France,Charge,Positive,54.00,Registered
+564972,POST,Postage,6,2011-11-25,18.00,12621.00,Germany,Charge,Positive,108.00,Registered
+564974,DOT,Dotcom Postage,1,2011-11-25,161.16,,United Kingdom,Charge,Positive,161.16,Guest/Unknown
+565124,POST,Postage,2,2011-11-25,40.00,12436.00,Norway,Charge,Positive,80.00,Registered
+565197,C2,Carriage,1,2011-11-25,50.00,13376.00,United Kingdom,Charge,Positive,50.00,Registered
+565231,DOT,Dotcom Postage,1,2011-11-27,119.77,,United Kingdom,Charge,Positive,119.77,Guest/Unknown
+565232,DOT,Dotcom Postage,1,2011-11-27,131.69,,United Kingdom,Charge,Positive,131.69,Guest/Unknown
+565233,DOT,Dotcom Postage,1,2011-11-27,235.02,,United Kingdom,Charge,Positive,235.02,Guest/Unknown
+565234,DOT,Dotcom Postage,1,2011-11-27,178.29,,United Kingdom,Charge,Positive,178.29,Guest/Unknown
+565239,POST,Postage,3,2011-11-27,18.00,12670.00,France,Charge,Positive,54.00,Registered
+565246,POST,Postage,4,2011-11-27,15.00,12408.00,Belgium,Charge,Positive,60.00,Registered
+565261,POST,Postage,2,2011-11-27,18.00,12474.00,Germany,Charge,Positive,36.00,Registered
+565286,DOT,Dotcom Postage,1,2011-11-27,249.71,,United Kingdom,Charge,Positive,249.71,Guest/Unknown
+565287,POST,Postage,1,2011-11-27,18.00,12483.00,Sweden,Charge,Positive,18.00,Registered
+565321,POST,Postage,2,2011-11-27,18.00,12437.00,France,Charge,Positive,36.00,Registered
+565333,POST,Postage,1,2011-11-27,40.00,12375.00,Finland,Charge,Positive,40.00,Registered
+565383,DOT,Dotcom Postage,1,2011-11-27,16.46,14096.00,United Kingdom,Charge,Positive,16.46,Registered
+565396,DOT,Dotcom Postage,1,2011-11-27,191.46,,United Kingdom,Charge,Positive,191.46,Guest/Unknown
+565416,POST,Postage,2,2011-11-28,18.00,12710.00,Germany,Charge,Positive,36.00,Registered
+565423,POST,Postage,1,2011-11-28,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+565442,POST,Postage,3,2011-11-28,18.00,12627.00,Germany,Charge,Positive,54.00,Registered
+565443,POST,Postage,3,2011-11-28,18.00,12567.00,France,Charge,Positive,54.00,Registered
+565457,C2,Carriage,1,2011-11-28,50.00,14565.00,United Kingdom,Charge,Positive,50.00,Registered
+565474,C2,Carriage,1,2011-11-28,50.00,14156.00,EIRE,Charge,Positive,50.00,Registered
+565519,POST,Postage,7,2011-11-28,28.00,12502.00,Spain,Charge,Positive,196.00,Registered
+565556,POST,,750,2011-11-28,0.00,,United Kingdom,Charge,Positive,0.00,Guest/Unknown
+565583,POST,Postage,1,2011-11-28,40.00,12816.00,Poland,Charge,Positive,40.00,Registered
+565587,POST,Postage,6,2011-11-28,18.00,12727.00,France,Charge,Positive,108.00,Registered
+565612,POST,Postage,2,2011-11-28,18.00,12616.00,France,Charge,Positive,36.00,Registered
+565617,DOT,Dotcom Postage,1,2011-11-28,138.00,,United Kingdom,Charge,Positive,138.00,Guest/Unknown
+565759,POST,Postage,3,2011-11-29,18.00,12720.00,Germany,Charge,Positive,54.00,Registered
+565765,POST,Postage,2,2011-11-29,18.00,12526.00,Germany,Charge,Positive,36.00,Registered
+565777,POST,Postage,1,2011-11-29,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+565785,POST,Postage,5,2011-11-29,40.00,12461.00,Switzerland,Charge,Positive,200.00,Registered
+565801,POST,Postage,3,2011-11-29,18.00,12685.00,France,Charge,Positive,54.00,Registered
+565840,DOT,Dotcom Postage,1,2011-11-29,203.73,,United Kingdom,Charge,Positive,203.73,Guest/Unknown
+565841,DOT,Dotcom Postage,1,2011-11-29,194.70,,United Kingdom,Charge,Positive,194.70,Guest/Unknown
+565847,DOT,Dotcom Postage,1,2011-11-29,1569.04,,United Kingdom,Charge,Positive,1569.04,Guest/Unknown
+565851,C2,Carriage,1,2011-11-29,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+565854,POST,Postage,4,2011-11-29,18.00,12490.00,France,Charge,Positive,72.00,Registered
+565870,POST,Postage,1,2011-11-29,15.00,16828.00,United Kingdom,Charge,Positive,15.00,Registered
+565916,C2,Carriage,1,2011-11-29,50.00,14156.00,EIRE,Charge,Positive,50.00,Registered
+565917,DOT,Dotcom Postage,1,2011-11-29,211.86,,United Kingdom,Charge,Positive,211.86,Guest/Unknown
+565919,DOT,Dotcom Postage,1,2011-11-29,211.80,,United Kingdom,Charge,Positive,211.80,Guest/Unknown
+565930,POST,Postage,5,2011-11-29,18.00,12685.00,France,Charge,Positive,90.00,Registered
+565931,POST,Postage,2,2011-11-29,18.00,12683.00,France,Charge,Positive,36.00,Registered
+565933,POST,Postage,1,2011-11-29,15.00,15885.00,United Kingdom,Charge,Positive,15.00,Registered
+566040,POST,Postage,2,2011-11-29,28.00,12540.00,Spain,Charge,Positive,56.00,Registered
+566054,POST,Postage,1,2011-11-29,18.00,12592.00,Germany,Charge,Positive,18.00,Registered
+566059,POST,Postage,1,2011-11-29,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+566060,DOT,Dotcom Postage,1,2011-11-29,213.71,,United Kingdom,Charge,Positive,213.71,Guest/Unknown
+566076,POST,Postage,11,2011-11-30,15.00,12449.00,Belgium,Charge,Positive,165.00,Registered
+566080,POST,Postage,1,2011-11-30,15.00,15187.00,United Kingdom,Charge,Positive,15.00,Registered
+566115,POST,Postage,1,2011-11-30,18.00,12674.00,France,Charge,Positive,18.00,Registered
+566173,POST,Postage,1,2011-11-30,15.00,12787.00,Netherlands,Charge,Positive,15.00,Registered
+566217,DOT,Dotcom Postage,1,2011-11-30,13.16,14096.00,United Kingdom,Charge,Positive,13.16,Registered
+566221,DOT,Dotcom Postage,1,2011-11-30,197.74,,United Kingdom,Charge,Positive,197.74,Guest/Unknown
+566233,POST,Postage,7,2011-11-30,18.00,12635.00,Germany,Charge,Positive,126.00,Registered
+566256,POST,Postage,1,2011-11-30,18.00,12680.00,France,Charge,Positive,18.00,Registered
+566261,C2,Carriage,1,2011-11-30,50.00,13372.00,United Kingdom,Charge,Positive,50.00,Registered
+566267,POST,Postage,3,2011-11-30,18.00,12647.00,Germany,Charge,Positive,54.00,Registered
+566268,POST,Postage,3,2011-11-30,18.00,13813.00,Germany,Charge,Positive,54.00,Registered
+566446,DOT,Dotcom Postage,1,2011-12-09,228.33,,United Kingdom,Charge,Positive,228.33,Guest/Unknown
+566492,POST,Postage,1,2011-09-13,18.00,12679.00,France,Charge,Positive,18.00,Registered
+566566,DOT,Dotcom Postage,1,2011-09-13,85.58,14096.00,United Kingdom,Charge,Positive,85.58,Registered
+566577,DOT,Dotcom Postage,1,2011-09-13,484.17,,United Kingdom,Charge,Positive,484.17,Guest/Unknown
+566586,POST,Postage,1,2011-09-13,18.00,12619.00,Germany,Charge,Positive,18.00,Registered
+566598,POST,Postage,1,2011-09-13,40.00,12664.00,Finland,Charge,Positive,40.00,Registered
+566602,DOT,Dotcom Postage,1,2011-09-13,226.37,,United Kingdom,Charge,Positive,226.37,Guest/Unknown
+566603,DOT,Dotcom Postage,1,2011-09-13,122.65,,United Kingdom,Charge,Positive,122.65,Guest/Unknown
+566736,POST,Postage,2,2011-09-14,18.00,12726.00,France,Charge,Positive,36.00,Registered
+566739,POST,Postage,3,2011-09-14,18.00,12566.00,Germany,Charge,Positive,54.00,Registered
+566757,DOT,Dotcom Postage,1,2011-09-14,141.19,,United Kingdom,Charge,Positive,141.19,Guest/Unknown
+566773,POST,Postage,2,2011-09-15,40.00,12444.00,Norway,Charge,Positive,80.00,Registered
+566776,C2,Carriage,1,2011-09-15,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+566787,DOT,Dotcom Postage,1,2011-09-15,800.63,,United Kingdom,Charge,Positive,800.63,Guest/Unknown
+566846,C2,Carriage,1,2011-09-15,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+566865,POST,Postage,1,2011-09-15,15.00,14735.00,United Kingdom,Charge,Positive,15.00,Registered
+566916,POST,Postage,4,2011-09-15,40.00,12457.00,Switzerland,Charge,Positive,160.00,Registered
+566918,POST,Postage,1,2011-09-15,18.00,12722.00,France,Charge,Positive,18.00,Registered
+566949,DOT,Dotcom Postage,1,2011-09-15,178.84,,United Kingdom,Charge,Positive,178.84,Guest/Unknown
+566952,DOT,Dotcom Postage,1,2011-09-15,239.91,,United Kingdom,Charge,Positive,239.91,Guest/Unknown
+566984,POST,Postage,3,2011-09-16,18.00,12471.00,Germany,Charge,Positive,54.00,Registered
+566985,DOT,Dotcom Postage,1,2011-09-16,594.00,,United Kingdom,Charge,Positive,594.00,Guest/Unknown
+566987,POST,Postage,4,2011-09-16,18.00,12476.00,Germany,Charge,Positive,72.00,Registered
+567134,POST,Postage,1,2011-09-16,18.00,12600.00,Germany,Charge,Positive,18.00,Registered
+567191,POST,Postage,3,2011-09-19,18.00,12562.00,France,Charge,Positive,54.00,Registered
+567196,POST,Postage,2,2011-09-19,15.00,12379.00,Belgium,Charge,Positive,30.00,Registered
+567293,POST,Postage,5,2011-09-19,18.00,12640.00,France,Charge,Positive,90.00,Registered
+567296,POST,Postage,1,2011-09-19,18.00,12682.00,France,Charge,Positive,18.00,Registered
+567298,POST,Postage,5,2011-09-19,18.00,12497.00,Germany,Charge,Positive,90.00,Registered
+567300,POST,Postage,3,2011-09-19,18.00,12724.00,France,Charge,Positive,54.00,Registered
+567305,POST,Postage,2,2011-09-19,18.00,12621.00,Germany,Charge,Positive,36.00,Registered
+567336,POST,Postage,4,2011-09-19,18.00,12621.00,Germany,Charge,Positive,72.00,Registered
+567340,POST,Postage,4,2011-09-19,28.00,12540.00,Spain,Charge,Positive,112.00,Registered
+567342,POST,Postage,1,2011-09-19,10.00,16235.00,United Kingdom,Charge,Positive,10.00,Registered
+567505,POST,Postage,2,2011-09-20,40.00,12352.00,Norway,Charge,Positive,80.00,Registered
+567507,DOT,Dotcom Postage,1,2011-09-20,1092.21,,United Kingdom,Charge,Positive,1092.21,Guest/Unknown
+567530,POST,Postage,3,2011-09-21,15.00,12390.00,Belgium,Charge,Positive,45.00,Registered
+567552,POST,Postage,3,2011-09-21,18.00,12583.00,France,Charge,Positive,54.00,Registered
+567578,POST,Postage,2,2011-09-21,18.00,12701.00,Germany,Charge,Positive,36.00,Registered
+567616,C2,Carriage,1,2011-09-21,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+567618,POST,Postage,1,2011-09-21,18.00,12721.00,France,Charge,Positive,18.00,Registered
+567631,C2,Carriage,1,2011-09-21,50.00,13350.00,United Kingdom,Charge,Positive,50.00,Registered
+567653,POST,Postage,5,2011-09-21,28.00,12550.00,Spain,Charge,Positive,140.00,Registered
+567656,DOT,Dotcom Postage,1,2011-09-21,878.55,14096.00,United Kingdom,Charge,Positive,878.55,Registered
+567665,DOT,Dotcom Postage,1,2011-09-21,148.55,,United Kingdom,Charge,Positive,148.55,Guest/Unknown
+567666,POST,Postage,4,2011-09-21,18.00,12520.00,Germany,Charge,Positive,72.00,Registered
+567667,DOT,Dotcom Postage,1,2011-09-21,213.79,,United Kingdom,Charge,Positive,213.79,Guest/Unknown
+567668,DOT,Dotcom Postage,1,2011-09-21,234.94,,United Kingdom,Charge,Positive,234.94,Guest/Unknown
+567670,DOT,Dotcom Postage,1,2011-09-21,220.50,,United Kingdom,Charge,Positive,220.50,Guest/Unknown
+567671,DOT,Dotcom Postage,1,2011-09-21,248.51,,United Kingdom,Charge,Positive,248.51,Guest/Unknown
+567673,DOT,Dotcom Postage,1,2011-09-21,224.26,,United Kingdom,Charge,Positive,224.26,Guest/Unknown
+567720,C2,Carriage,1,2011-09-22,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+567756,POST,Postage,3,2011-09-22,18.00,12678.00,France,Charge,Positive,54.00,Registered
+567793,POST,Postage,4,2011-09-22,18.00,12657.00,France,Charge,Positive,72.00,Registered
+567795,POST,Postage,6,2011-09-22,15.00,14646.00,Netherlands,Charge,Positive,90.00,Registered
+567824,POST,Postage,1,2011-09-22,37.50,12739.00,United Arab Emirates,Charge,Positive,37.50,Registered
+567897,POST,Postage,1,2011-09-22,15.00,12364.00,Belgium,Charge,Positive,15.00,Registered
+567901,DOT,Dotcom Postage,1,2011-09-22,175.60,,United Kingdom,Charge,Positive,175.60,Guest/Unknown
+567904,POST,Postage,2,2011-09-22,18.00,12609.00,Germany,Charge,Positive,36.00,Registered
+567910,POST,Postage,1,2011-09-22,18.00,12437.00,France,Charge,Positive,18.00,Registered
+567914,POST,Postage,1,2011-09-22,18.00,12647.00,Germany,Charge,Positive,18.00,Registered
+567915,POST,Postage,3,2011-09-22,18.00,12579.00,France,Charge,Positive,54.00,Registered
+567924,POST,Postage,1,2011-09-22,18.00,12471.00,Germany,Charge,Positive,18.00,Registered
+567928,POST,Postage,3,2011-09-22,18.00,12380.00,Belgium,Charge,Positive,54.00,Registered
+567938,POST,Postage,2,2011-09-22,40.00,12704.00,Finland,Charge,Positive,80.00,Registered
+567958,POST,Postage,2,2011-09-23,18.00,12619.00,Germany,Charge,Positive,36.00,Registered
+567959,POST,Postage,4,2011-09-23,18.00,12516.00,Germany,Charge,Positive,72.00,Registered
+567968,POST,Postage,3,2011-09-23,28.00,12546.00,Spain,Charge,Positive,84.00,Registered
+568001,POST,Postage,1,2011-09-23,28.00,12540.00,Spain,Charge,Positive,28.00,Registered
+568040,POST,Postage,4,2011-09-23,18.00,12681.00,France,Charge,Positive,72.00,Registered
+568056,POST,Postage,5,2011-09-23,18.00,12705.00,Germany,Charge,Positive,90.00,Registered
+568057,DOT,Dotcom Postage,1,2011-09-23,698.50,,United Kingdom,Charge,Positive,698.50,Guest/Unknown
+568103,POST,Postage,3,2011-09-23,18.00,12518.00,Germany,Charge,Positive,54.00,Registered
+568134,DOT,Dotcom Postage,1,2011-09-23,218.75,,United Kingdom,Charge,Positive,218.75,Guest/Unknown
+568135,DOT,Dotcom Postage,1,2011-09-23,201.82,,United Kingdom,Charge,Positive,201.82,Guest/Unknown
+568172,POST,Postage,1,2011-09-25,40.00,12348.00,Finland,Charge,Positive,40.00,Registered
+568176,POST,Postage,1,2011-09-25,18.00,12685.00,France,Charge,Positive,18.00,Registered
+568179,POST,Postage,3,2011-09-25,28.00,12545.00,Spain,Charge,Positive,84.00,Registered
+568208,POST,Postage,2,2011-09-25,28.00,12783.00,Portugal,Charge,Positive,56.00,Registered
+568221,C2,Carriage,1,2011-09-26,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+568223,POST,Postage,2,2011-09-26,15.00,12412.00,Denmark,Charge,Positive,30.00,Registered
+568346,DOT,Dotcom Postage,1,2011-09-26,688.08,14096.00,United Kingdom,Charge,Positive,688.08,Registered
+568350,POST,Postage,2,2011-09-26,18.00,12612.00,Germany,Charge,Positive,36.00,Registered
+568398,POST,Postage,1,2011-09-27,5.00,14543.00,United Kingdom,Charge,Positive,5.00,Registered
+568411,DOT,Dotcom Postage,1,2011-09-27,837.46,,United Kingdom,Charge,Positive,837.46,Guest/Unknown
+568472,POST,Postage,2,2011-09-27,18.00,12517.00,Germany,Charge,Positive,36.00,Registered
+568514,POST,Postage,1,2011-09-27,1.36,,United Kingdom,Charge,Positive,1.36,Guest/Unknown
+568518,POST,Postage,1,2011-09-27,18.00,12680.00,France,Charge,Positive,18.00,Registered
+568554,POST,Postage,1,2011-09-27,28.00,12455.00,Spain,Charge,Positive,28.00,Registered
+568567,DOT,Dotcom Postage,1,2011-09-27,227.99,,United Kingdom,Charge,Positive,227.99,Guest/Unknown
+568645,POST,Postage,3,2011-09-28,18.00,12656.00,France,Charge,Positive,54.00,Registered
+568650,POST,Postage,8,2011-09-28,40.00,13505.00,Switzerland,Charge,Positive,320.00,Registered
+568651,POST,Postage,4,2011-09-28,15.00,12362.00,Belgium,Charge,Positive,60.00,Registered
+568674,POST,Postage,2,2011-09-28,18.00,12708.00,Germany,Charge,Positive,36.00,Registered
+568698,C2,Carriage,1,2011-09-28,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+568699,POST,Postage,1,2011-09-28,40.00,12352.00,Norway,Charge,Positive,40.00,Registered
+568706,C2,Carriage,1,2011-09-28,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+568716,DOT,Dotcom Postage,1,2011-09-28,160.90,,United Kingdom,Charge,Positive,160.90,Guest/Unknown
+568719,DOT,Dotcom Postage,1,2011-09-28,236.91,,United Kingdom,Charge,Positive,236.91,Guest/Unknown
+568721,DOT,Dotcom Postage,1,2011-09-28,225.68,,United Kingdom,Charge,Positive,225.68,Guest/Unknown
+568798,POST,Postage,3,2011-09-29,18.00,12615.00,France,Charge,Positive,54.00,Registered
+568872,POST,Postage,2,2011-09-29,15.00,12372.00,Denmark,Charge,Positive,30.00,Registered
+568914,POST,Postage,1,2011-09-29,1.36,,United Kingdom,Charge,Positive,1.36,Guest/Unknown
+568949,DOT,Dotcom Postage,1,2011-09-29,182.25,,United Kingdom,Charge,Positive,182.25,Guest/Unknown
+568950,POST,Postage,2,2011-09-29,40.00,12458.00,Switzerland,Charge,Positive,80.00,Registered
+568953,POST,Postage,1,2011-09-29,18.00,12728.00,France,Charge,Positive,18.00,Registered
+568988,POST,Postage,2,2011-09-29,18.00,12718.00,France,Charge,Positive,36.00,Registered
+568994,POST,Postage,2,2011-09-29,18.00,12598.00,France,Charge,Positive,36.00,Registered
+569001,POST,Postage,1,2011-09-29,18.00,12703.00,Germany,Charge,Positive,18.00,Registered
+569006,C2,Carriage,1,2011-09-29,50.00,16268.00,United Kingdom,Charge,Positive,50.00,Registered
+569017,POST,Postage,2,2011-09-30,18.00,13813.00,Germany,Charge,Positive,36.00,Registered
+569018,POST,Postage,1,2011-09-30,40.00,12676.00,Sweden,Charge,Positive,40.00,Registered
+569028,C2,Carriage,1,2011-09-30,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+569033,POST,Postage,1,2011-09-30,6.00,15611.00,United Kingdom,Charge,Positive,6.00,Registered
+569120,POST,Postage,2,2011-09-30,18.00,12583.00,France,Charge,Positive,36.00,Registered
+569122,POST,Postage,3,2011-09-30,18.00,12694.00,France,Charge,Positive,54.00,Registered
+569126,C2,Carriage,1,2011-09-30,50.00,13347.00,United Kingdom,Charge,Positive,50.00,Registered
+569130,C2,Carriage,1,2011-09-30,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+569137,DOT,Dotcom Postage,1,2011-09-30,639.83,,United Kingdom,Charge,Positive,639.83,Guest/Unknown
+569202,DOT,Dotcom Postage,1,2011-09-30,244.51,,United Kingdom,Charge,Positive,244.51,Guest/Unknown
+569246,DOT,Dotcom Postage,1,2011-10-13,490.25,14096.00,United Kingdom,Charge,Positive,490.25,Registered
+569332,POST,Postage,2,2011-10-14,18.00,12637.00,France,Charge,Positive,36.00,Registered
+569372,DOT,Dotcom Postage,1,2011-10-14,250.68,,United Kingdom,Charge,Positive,250.68,Guest/Unknown
+569374,DOT,Dotcom Postage,1,2011-10-14,197.83,,United Kingdom,Charge,Positive,197.83,Guest/Unknown
+569402,POST,Postage,1,2011-10-14,18.00,12413.00,France,Charge,Positive,18.00,Registered
+569415,DOT,Dotcom Postage,1,2011-10-16,492.46,,United Kingdom,Charge,Positive,492.46,Guest/Unknown
+569487,C2,Carriage,1,2011-10-16,50.00,13351.00,United Kingdom,Charge,Positive,50.00,Registered
+569496,POST,Postage,2,2011-10-16,15.00,12395.00,Belgium,Charge,Positive,30.00,Registered
+569522,POST,Postage,1,2011-10-16,40.00,12664.00,Finland,Charge,Positive,40.00,Registered
+569544,DOT,Dotcom Postage,1,2011-10-17,213.33,,United Kingdom,Charge,Positive,213.33,Guest/Unknown
+569545,DOT,Dotcom Postage,1,2011-10-17,252.16,,United Kingdom,Charge,Positive,252.16,Guest/Unknown
+569562,POST,Postage,3,2011-10-17,18.00,12720.00,Germany,Charge,Positive,54.00,Registered
+569563,POST,Postage,8,2011-10-17,18.00,12481.00,Germany,Charge,Positive,144.00,Registered
+569568,POST,Postage,5,2011-10-17,18.00,12700.00,France,Charge,Positive,90.00,Registered
+569639,POST,Postage,1,2011-10-17,240.00,12471.00,Germany,Charge,Positive,240.00,Registered
+569665,POST,Postage,1,2011-10-17,15.00,12789.00,Netherlands,Charge,Positive,15.00,Registered
+569686,POST,Postage,2,2011-10-18,18.00,12719.00,France,Charge,Positive,36.00,Registered
+569700,DOT,Dotcom Postage,1,2011-10-18,195.37,,United Kingdom,Charge,Positive,195.37,Guest/Unknown
+569719,POST,Postage,8,2011-10-18,15.00,14646.00,Netherlands,Charge,Positive,120.00,Registered
+569721,POST,Postage,1,2011-10-18,18.00,12628.00,Germany,Charge,Positive,18.00,Registered
+569727,POST,Postage,2,2011-10-18,18.00,12500.00,Germany,Charge,Positive,36.00,Registered
+569735,POST,Postage,2,2011-10-18,15.00,14646.00,Netherlands,Charge,Positive,30.00,Registered
+569739,C2,Carriage,1,2011-10-18,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+569816,POST,Postage,4,2011-10-18,0.55,,United Kingdom,Charge,Positive,2.20,Guest/Unknown
+569844,POST,Postage,7,2011-10-18,18.00,12626.00,Germany,Charge,Positive,126.00,Registered
+569860,POST,Postage,1,2011-10-18,18.00,13812.00,Germany,Charge,Positive,18.00,Registered
+569861,POST,Postage,3,2011-10-18,18.00,13816.00,Germany,Charge,Positive,54.00,Registered
+569867,POST,Postage,2,2011-10-18,18.00,12569.00,Germany,Charge,Positive,36.00,Registered
+569893,POST,Postage,6,2011-10-18,18.00,12627.00,Germany,Charge,Positive,108.00,Registered
+569898,DOT,Dotcom Postage,1,2011-10-19,297.66,,United Kingdom,Charge,Positive,297.66,Guest/Unknown
+569904,POST,Postage,3,2011-10-19,15.00,13023.00,United Kingdom,Charge,Positive,45.00,Registered
+569907,POST,Postage,1,2011-10-19,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+569997,POST,Postage,9,2011-10-19,18.00,12394.00,Denmark,Charge,Positive,162.00,Registered
+569998,POST,Postage,2,2011-10-19,28.00,12540.00,Spain,Charge,Positive,56.00,Registered
+570007,POST,Postage,3,2011-10-19,18.00,12519.00,Germany,Charge,Positive,54.00,Registered
+570008,C2,Carriage,1,2011-10-19,50.00,13359.00,United Kingdom,Charge,Positive,50.00,Registered
+570020,POST,Postage,1,2011-10-19,18.00,12684.00,France,Charge,Positive,18.00,Registered
+570026,POST,Postage,1,2011-10-19,40.00,12781.00,Czech Republic,Charge,Positive,40.00,Registered
+570082,POST,Postage,7,2011-10-19,18.00,12524.00,Germany,Charge,Positive,126.00,Registered
+570095,POST,Postage,2,2011-10-19,18.00,12528.00,Germany,Charge,Positive,36.00,Registered
+570187,DOT,Dotcom Postage,1,2011-10-20,255.81,,United Kingdom,Charge,Positive,255.81,Guest/Unknown
+570189,POST,Postage,1,2011-10-20,18.00,12492.00,Germany,Charge,Positive,18.00,Registered
+570191,POST,Postage,1,2011-10-20,15.00,12778.00,Netherlands,Charge,Positive,15.00,Registered
+570202,POST,Postage,1,2011-10-20,6.32,,United Kingdom,Charge,Positive,6.32,Guest/Unknown
+570258,DOT,Dotcom Postage,1,2011-10-21,930.04,,United Kingdom,Charge,Positive,930.04,Guest/Unknown
+570267,POST,Postage,1,2011-10-21,18.00,12682.00,France,Charge,Positive,18.00,Registered
+570409,POST,Postage,2,2011-10-21,18.00,12682.00,France,Charge,Positive,36.00,Registered
+570417,POST,Postage,1,2011-10-21,3.82,,United Kingdom,Charge,Positive,3.82,Guest/Unknown
+570426,C2,Carriage,1,2011-10-23,50.00,13352.00,United Kingdom,Charge,Positive,50.00,Registered
+570446,POST,Postage,2,2011-10-23,15.00,12431.00,Belgium,Charge,Positive,30.00,Registered
+570452,POST,Postage,2,2011-10-23,18.00,12427.00,Germany,Charge,Positive,36.00,Registered
+570465,DOT,Dotcom Postage,1,2011-10-23,188.46,,United Kingdom,Charge,Positive,188.46,Guest/Unknown
+570488,DOT,Dotcom Postage,1,2011-10-23,635.01,14096.00,United Kingdom,Charge,Positive,635.01,Registered
+570499,POST,Postage,5,2011-10-24,28.00,12772.00,Portugal,Charge,Positive,140.00,Registered
+570637,POST,Postage,2,2011-10-24,18.00,12530.00,Germany,Charge,Positive,36.00,Registered
+570640,POST,Postage,2,2011-10-24,18.00,12474.00,Germany,Charge,Positive,36.00,Registered
+570651,C2,Carriage,1,2011-10-24,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+570666,POST,Postage,1,2011-10-24,18.00,13919.00,Denmark,Charge,Positive,18.00,Registered
+570667,POST,Postage,2,2011-10-24,15.00,12362.00,Belgium,Charge,Positive,30.00,Registered
+570681,POST,Postage,1,2011-10-24,6.00,12381.00,Norway,Charge,Positive,6.00,Registered
+570688,DOT,Dotcom Postage,1,2011-10-24,199.04,,United Kingdom,Charge,Positive,199.04,Guest/Unknown
+570690,DOT,Dotcom Postage,1,2011-10-24,199.81,,United Kingdom,Charge,Positive,199.81,Guest/Unknown
+570694,C2,Carriage,1,2011-10-24,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+570700,C2,Carriage,1,2011-10-24,50.00,14156.00,EIRE,Charge,Positive,50.00,Registered
+570714,POST,Postage,2,2011-10-24,40.00,13520.00,Switzerland,Charge,Positive,80.00,Registered
+570718,POST,Postage,2,2011-10-24,18.00,12518.00,Germany,Charge,Positive,36.00,Registered
+570725,POST,Postage,1,2011-10-24,4.50,12381.00,Norway,Charge,Positive,4.50,Registered
+570754,POST,Postage,1,2011-10-24,18.00,12633.00,Germany,Charge,Positive,18.00,Registered
+570769,POST,Postage,2,2011-10-24,18.00,12664.00,Finland,Charge,Positive,36.00,Registered
+570784,POST,Postage,1,2011-10-24,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+570793,POST,Postage,8,2011-10-25,40.00,12444.00,Norway,Charge,Positive,320.00,Registered
+570798,POST,Postage,2,2011-10-25,18.00,12679.00,France,Charge,Positive,36.00,Registered
+570823,POST,Postage,1,2011-10-25,18.00,12691.00,France,Charge,Positive,18.00,Registered
+570841,POST,Postage,2,2011-10-25,18.00,12553.00,France,Charge,Positive,36.00,Registered
+570851,POST,Postage,1,2011-10-25,18.00,12583.00,France,Charge,Positive,18.00,Registered
+570871,DOT,Dotcom Postage,1,2011-10-25,218.93,,United Kingdom,Charge,Positive,218.93,Guest/Unknown
+570872,DOT,Dotcom Postage,1,2011-10-25,214.32,,United Kingdom,Charge,Positive,214.32,Guest/Unknown
+570875,POST,Postage,4,2011-10-25,40.00,12667.00,Finland,Charge,Positive,160.00,Registered
+570879,POST,Postage,2,2011-10-25,18.00,12685.00,France,Charge,Positive,36.00,Registered
+570881,POST,Postage,2,2011-10-25,18.00,12498.00,Germany,Charge,Positive,36.00,Registered
+571030,POST,Postage,7,2011-10-25,15.00,12876.00,Belgium,Charge,Positive,105.00,Registered
+571053,POST,Postage,4,2011-10-26,40.00,12631.00,Finland,Charge,Positive,160.00,Registered
+571061,DOT,Dotcom Postage,1,2011-10-26,852.25,,United Kingdom,Charge,Positive,852.25,Guest/Unknown
+571065,POST,Postage,7,2011-10-26,18.00,12613.00,Germany,Charge,Positive,126.00,Registered
+571082,DOT,Dotcom Postage,1,2011-10-26,213.13,,United Kingdom,Charge,Positive,213.13,Guest/Unknown
+571111,POST,Postage,1,2011-10-26,15.00,14976.00,United Kingdom,Charge,Positive,15.00,Registered
+571129,C2,Carriage,1,2011-10-26,50.00,14156.00,EIRE,Charge,Positive,50.00,Registered
+571187,POST,Postage,3,2011-10-27,18.00,12380.00,Belgium,Charge,Positive,54.00,Registered
+571188,POST,Postage,4,2011-10-27,28.00,12783.00,Portugal,Charge,Positive,112.00,Registered
+571191,POST,Postage,1,2011-10-27,15.00,17404.00,Sweden,Charge,Positive,15.00,Registered
+571215,POST,Postage,3,2011-10-27,18.00,13810.00,Germany,Charge,Positive,54.00,Registered
+571240,POST,Postage,2,2011-10-27,18.00,12562.00,France,Charge,Positive,36.00,Registered
+571257,DOT,Dotcom Postage,1,2011-10-27,271.18,,United Kingdom,Charge,Positive,271.18,Guest/Unknown
+571304,POST,Postage,4,2011-10-28,18.00,12526.00,Germany,Charge,Positive,72.00,Registered
+571305,DOT,Dotcom Postage,1,2011-10-28,657.29,,United Kingdom,Charge,Positive,657.29,Guest/Unknown
+571308,POST,Postage,3,2011-10-28,18.00,12475.00,Germany,Charge,Positive,54.00,Registered
+571312,POST,Postage,4,2011-10-28,18.00,12474.00,Germany,Charge,Positive,72.00,Registered
+571328,POST,Postage,7,2011-10-28,18.00,12473.00,Germany,Charge,Positive,126.00,Registered
+571425,C2,Carriage,1,2011-10-28,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+571441,DOT,Dotcom Postage,1,2011-10-30,743.62,14096.00,United Kingdom,Charge,Positive,743.62,Registered
+571445,POST,Postage,2,2011-10-30,18.00,12463.00,Belgium,Charge,Positive,36.00,Registered
+571508,DOT,Dotcom Postage,1,2011-10-30,195.06,,United Kingdom,Charge,Positive,195.06,Guest/Unknown
+571556,POST,Postage,2,2011-10-30,18.00,12662.00,Germany,Charge,Positive,36.00,Registered
+571658,POST,Postage,3,2011-10-30,18.00,12621.00,Germany,Charge,Positive,54.00,Registered
+571665,POST,Postage,3,2011-10-30,28.00,12540.00,Spain,Charge,Positive,84.00,Registered
+571697,POST,Postage,3,2011-10-31,15.00,12759.00,Netherlands,Charge,Positive,45.00,Registered
+571705,POST,Postage,3,2011-10-31,40.00,12360.00,Austria,Charge,Positive,120.00,Registered
+571713,DOT,Dotcom Postage,1,2011-10-31,243.87,,United Kingdom,Charge,Positive,243.87,Guest/Unknown
+571714,DOT,Dotcom Postage,1,2011-10-31,127.89,,United Kingdom,Charge,Positive,127.89,Guest/Unknown
+571716,DOT,Dotcom Postage,1,2011-10-31,206.38,,United Kingdom,Charge,Positive,206.38,Guest/Unknown
+571724,POST,Postage,3,2011-10-31,18.00,12572.00,Germany,Charge,Positive,54.00,Registered
+571729,POST,Postage,1,2011-10-31,18.00,12500.00,Germany,Charge,Positive,18.00,Registered
+571797,DOT,Dotcom Postage,1,2011-10-31,868.21,,United Kingdom,Charge,Positive,868.21,Guest/Unknown
+571824,POST,Postage,6,2011-10-31,18.00,12472.00,Germany,Charge,Positive,108.00,Registered
+571851,POST,Postage,4,2011-10-31,28.00,12596.00,Spain,Charge,Positive,112.00,Registered
+571904,POST,Postage,1,2011-10-31,18.00,12522.00,Germany,Charge,Positive,18.00,Registered
+571923,POST,Postage,2,2011-11-13,18.00,12685.00,France,Charge,Positive,36.00,Registered
+571931,DOT,Dotcom Postage,1,2011-11-13,230.59,,United Kingdom,Charge,Positive,230.59,Guest/Unknown
+572054,POST,Postage,2,2011-11-13,18.00,12642.00,Germany,Charge,Positive,36.00,Registered
+572056,POST,Postage,1,2011-11-13,35.00,17402.00,United Kingdom,Charge,Positive,35.00,Registered
+572060,POST,Postage,1,2011-11-13,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+572061,POST,Postage,2,2011-11-13,18.00,12474.00,Germany,Charge,Positive,36.00,Registered
+572069,C2,Carriage,1,2011-11-13,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+572072,POST,Postage,1,2011-11-13,1.36,,United Kingdom,Charge,Positive,1.36,Guest/Unknown
+572087,POST,Postage,6,2011-11-13,18.00,12683.00,France,Charge,Positive,108.00,Registered
+572133,POST,Postage,2,2011-11-13,18.00,12407.00,Belgium,Charge,Positive,36.00,Registered
+572184,POST,Postage,2,2011-11-13,18.00,12403.00,Denmark,Charge,Positive,36.00,Registered
+572233,POST,Postage,7,2011-11-14,15.00,14646.00,Netherlands,Charge,Positive,105.00,Registered
+572241,POST,Postage,1,2011-11-14,18.00,12712.00,Germany,Charge,Positive,18.00,Registered
+572442,POST,Postage,2,2011-11-14,28.00,12546.00,Spain,Charge,Positive,56.00,Registered
+572459,C2,Carriage,1,2011-11-14,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+572540,DOT,Dotcom Postage,1,2011-11-15,743.96,,United Kingdom,Charge,Positive,743.96,Guest/Unknown
+572549,DOT,Dotcom Postage,1,2011-11-15,235.98,,United Kingdom,Charge,Positive,235.98,Guest/Unknown
+572550,DOT,Dotcom Postage,1,2011-11-15,215.13,,United Kingdom,Charge,Positive,215.13,Guest/Unknown
+572552,DOT,Dotcom Postage,1,2011-11-15,638.30,14096.00,United Kingdom,Charge,Positive,638.30,Registered
+572553,DOT,Dotcom Postage,1,2011-11-15,276.48,,United Kingdom,Charge,Positive,276.48,Guest/Unknown
+572560,POST,Postage,8,2011-11-15,18.00,12476.00,Germany,Charge,Positive,144.00,Registered
+572567,POST,Postage,5,2011-11-15,40.00,12398.00,Switzerland,Charge,Positive,200.00,Registered
+572665,POST,Postage,1,2011-11-15,4.48,,United Kingdom,Charge,Positive,4.48,Guest/Unknown
+572758,DOT,Dotcom Postage,1,2011-11-16,246.54,,United Kingdom,Charge,Positive,246.54,Guest/Unknown
+572770,POST,Postage,9,2011-11-16,40.00,12371.00,Switzerland,Charge,Positive,360.00,Registered
+572886,POST,Postage,3,2011-11-16,28.00,12448.00,Spain,Charge,Positive,84.00,Registered
+572887,POST,Postage,4,2011-11-16,15.00,12362.00,Belgium,Charge,Positive,60.00,Registered
+572894,POST,Postage,1,2011-11-16,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+572895,POST,Postage,1,2011-11-16,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+572896,POST,Postage,4,2011-11-16,40.00,12456.00,Switzerland,Charge,Positive,160.00,Registered
+572897,DOT,Dotcom Postage,1,2011-11-16,1016.58,,United Kingdom,Charge,Positive,1016.58,Guest/Unknown
+572934,POST,Postage,4,2011-11-16,40.00,12610.00,Italy,Charge,Positive,160.00,Registered
+572964,POST,Postage,3,2011-11-16,40.00,12630.00,Finland,Charge,Positive,120.00,Registered
+572969,C2,Carriage,1,2011-11-16,50.00,13363.00,United Kingdom,Charge,Positive,50.00,Registered
+572986,POST,Postage,3,2011-11-16,18.00,12681.00,France,Charge,Positive,54.00,Registered
+572992,POST,Postage,2,2011-11-16,18.00,12681.00,France,Charge,Positive,36.00,Registered
+573036,POST,Postage,2,2011-11-16,18.00,12437.00,France,Charge,Positive,36.00,Registered
+573106,POST,Postage,1,2011-11-17,18.00,12626.00,Germany,Charge,Positive,18.00,Registered
+573108,POST,Postage,1,2011-11-17,40.00,12430.00,Norway,Charge,Positive,40.00,Registered
+573136,POST,Postage,2,2011-11-17,18.00,12709.00,Germany,Charge,Positive,36.00,Registered
+573137,DOT,Dotcom Postage,1,2011-11-17,188.89,,United Kingdom,Charge,Positive,188.89,Guest/Unknown
+573153,POST,Postage,3,2011-11-17,145.00,12678.00,France,Charge,Positive,435.00,Registered
+573173,POST,Postage,4,2011-11-17,15.00,12362.00,Belgium,Charge,Positive,60.00,Registered
+573284,POST,Postage,1,2011-11-17,18.00,13812.00,Germany,Charge,Positive,18.00,Registered
+573289,POST,Postage,4,2011-11-17,18.00,12705.00,Germany,Charge,Positive,72.00,Registered
+573307,POST,Postage,1,2011-11-17,11.27,,United Kingdom,Charge,Positive,11.27,Guest/Unknown
+573310,DOT,Dotcom Postage,1,2011-11-17,6.63,,United Kingdom,Charge,Positive,6.63,Guest/Unknown
+573313,DOT,Dotcom Postage,1,2011-11-17,3.29,,United Kingdom,Charge,Positive,3.29,Guest/Unknown
+573333,POST,Postage,2,2011-11-17,40.00,12483.00,Sweden,Charge,Positive,80.00,Registered
+573362,POST,Postage,10,2011-11-18,28.00,12597.00,Spain,Charge,Positive,280.00,Registered
+573391,C2,Carriage,1,2011-11-18,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+573401,POST,Postage,2,2011-11-18,15.00,12364.00,Belgium,Charge,Positive,30.00,Registered
+573402,POST,Postage,1,2011-11-18,18.00,12494.00,France,Charge,Positive,18.00,Registered
+573417,POST,Postage,1,2011-11-18,18.00,12581.00,Germany,Charge,Positive,18.00,Registered
+573430,POST,Postage,3,2011-11-18,18.00,13813.00,Germany,Charge,Positive,54.00,Registered
+573553,DOT,Dotcom Postage,1,2011-11-20,757.63,,United Kingdom,Charge,Positive,757.63,Guest/Unknown
+573576,DOT,Dotcom Postage,1,2011-11-20,901.58,14096.00,United Kingdom,Charge,Positive,901.58,Registered
+573580,DOT,Dotcom Postage,1,2011-11-20,254.42,,United Kingdom,Charge,Positive,254.42,Guest/Unknown
+573581,C2,Carriage,1,2011-11-20,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+573585,DOT,Dotcom Postage,1,2011-11-20,2019.05,,United Kingdom,Charge,Positive,2019.05,Guest/Unknown
+573588,POST,Postage,1,2011-11-20,40.00,12588.00,Finland,Charge,Positive,40.00,Registered
+573589,POST,Postage,1,2011-11-20,0.55,,United Kingdom,Charge,Positive,0.55,Guest/Unknown
+573601,DOT,Dotcom Postage,1,2011-11-20,511.25,,United Kingdom,Charge,Positive,511.25,Guest/Unknown
+573629,POST,Postage,1,2011-11-20,18.00,12522.00,Germany,Charge,Positive,18.00,Registered
+573633,DOT,Dotcom Postage,1,2011-11-20,98.79,,United Kingdom,Charge,Positive,98.79,Guest/Unknown
+573656,POST,Postage,3,2011-11-20,15.00,12417.00,Belgium,Charge,Positive,45.00,Registered
+573669,POST,Postage,1,2011-11-20,2.46,,United Kingdom,Charge,Positive,2.46,Guest/Unknown
+573768,POST,Postage,3,2011-11-20,40.00,12552.00,Italy,Charge,Positive,120.00,Registered
+573867,POST,Postage,2,2011-11-21,18.00,12674.00,France,Charge,Positive,36.00,Registered
+573868,POST,Postage,2,2011-11-21,18.00,12491.00,France,Charge,Positive,36.00,Registered
+573891,POST,Postage,5,2011-11-21,18.00,12682.00,France,Charge,Positive,90.00,Registered
+574068,POST,Postage,3,2011-11-22,18.00,12490.00,France,Charge,Positive,54.00,Registered
+574071,POST,Postage,1,2011-11-22,18.00,12654.00,Germany,Charge,Positive,18.00,Registered
+574074,DOT,Dotcom Postage,1,2011-11-22,371.65,,United Kingdom,Charge,Positive,371.65,Guest/Unknown
+574076,DOT,Dotcom Postage,1,2011-11-22,378.02,,United Kingdom,Charge,Positive,378.02,Guest/Unknown
+574097,POST,Postage,5,2011-11-22,18.00,12471.00,Germany,Charge,Positive,90.00,Registered
+574104,POST,Postage,3,2011-11-22,18.00,12615.00,France,Charge,Positive,54.00,Registered
+574252,POST,Postage,2,2011-11-22,18.00,12437.00,France,Charge,Positive,36.00,Registered
+574255,POST,Postage,1,2011-11-22,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+574270,DOT,Dotcom Postage,1,2011-11-22,3.29,,United Kingdom,Charge,Positive,3.29,Guest/Unknown
+574275,POST,Postage,2,2011-11-22,40.00,12352.00,Norway,Charge,Positive,80.00,Registered
+574298,DOT,Dotcom Postage,1,2011-11-22,286.88,,United Kingdom,Charge,Positive,286.88,Guest/Unknown
+574301,POST,Postage,2,2011-11-22,28.00,12544.00,Spain,Charge,Positive,56.00,Registered
+574329,POST,Postage,4,2011-11-22,15.00,12362.00,Belgium,Charge,Positive,60.00,Registered
+574332,POST,Postage,3,2011-11-22,18.00,12664.00,Finland,Charge,Positive,54.00,Registered
+574336,POST,Postage,6,2011-11-22,15.00,12397.00,Belgium,Charge,Positive,90.00,Registered
+574442,POST,Postage,5,2011-11-23,40.00,12704.00,Finland,Charge,Positive,200.00,Registered
+574561,DOT,Dotcom Postage,1,2011-11-23,368.62,,United Kingdom,Charge,Positive,368.62,Guest/Unknown
+574653,POST,Postage,2,2011-11-23,18.00,12619.00,Germany,Charge,Positive,36.00,Registered
+574679,POST,Postage,3,2011-11-24,18.00,12645.00,Germany,Charge,Positive,54.00,Registered
+574690,POST,Postage,4,2011-11-24,40.00,12638.00,Sweden,Charge,Positive,160.00,Registered
+574694,POST,Postage,2,2011-11-24,40.00,12381.00,Norway,Charge,Positive,80.00,Registered
+574713,POST,Postage,1,2011-11-24,18.00,12628.00,Germany,Charge,Positive,18.00,Registered
+574745,C2,Carriage,1,2011-11-24,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+574838,POST,Postage,5,2011-11-24,28.00,12484.00,Spain,Charge,Positive,140.00,Registered
+574841,C2,Carriage,1,2011-11-24,50.00,14156.00,EIRE,Charge,Positive,50.00,Registered
+574844,POST,Postage,1,2011-11-24,28.00,12783.00,Portugal,Charge,Positive,28.00,Registered
+574856,DOT,Dotcom Postage,1,2011-11-24,1126.29,,United Kingdom,Charge,Positive,1126.29,Guest/Unknown
+574862,POST,Postage,5,2011-11-24,15.00,12408.00,Belgium,Charge,Positive,75.00,Registered
+574869,POST,Postage,1,2011-11-24,18.00,12708.00,Germany,Charge,Positive,18.00,Registered
+574874,C2,Carriage,1,2011-11-24,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+574885,POST,Postage,1,2011-11-24,18.00,12472.00,Germany,Charge,Positive,18.00,Registered
+574950,DOT,Dotcom Postage,1,2011-11-25,401.80,,United Kingdom,Charge,Positive,401.80,Guest/Unknown
+575049,POST,Postage,3,2011-11-25,18.00,12721.00,France,Charge,Positive,54.00,Registered
+575067,POST,Postage,2,2011-11-25,18.00,12583.00,France,Charge,Positive,36.00,Registered
+575138,DOT,Dotcom Postage,1,2011-11-27,1483.21,,United Kingdom,Charge,Positive,1483.21,Guest/Unknown
+575144,POST,Postage,3,2011-11-27,28.00,12540.00,Spain,Charge,Positive,84.00,Registered
+575151,POST,Postage,1,2011-11-27,15.00,12395.00,Belgium,Charge,Positive,15.00,Registered
+575154,POST,Postage,2,2011-11-27,18.00,12395.00,Belgium,Charge,Positive,36.00,Registered
+575176,DOT,Dotcom Postage,1,2011-11-27,428.78,,United Kingdom,Charge,Positive,428.78,Guest/Unknown
+575177,DOT,Dotcom Postage,1,2011-11-27,375.71,,United Kingdom,Charge,Positive,375.71,Guest/Unknown
+575193,POST,Postage,5,2011-11-27,18.00,12681.00,France,Charge,Positive,90.00,Registered
+575326,POST,Postage,2,2011-11-28,18.00,12532.00,France,Charge,Positive,36.00,Registered
+575352,POST,Postage,3,2011-11-28,18.00,12504.00,Germany,Charge,Positive,54.00,Registered
+575477,DOT,Dotcom Postage,1,2011-11-28,533.59,,United Kingdom,Charge,Positive,533.59,Guest/Unknown
+575498,POST,Postage,1,2011-11-28,18.00,12708.00,Germany,Charge,Positive,18.00,Registered
+575505,POST,,800,2011-11-28,0.00,,United Kingdom,Charge,Positive,0.00,Guest/Unknown
+575506,C2,,150,2011-11-28,0.00,,United Kingdom,Charge,Positive,0.00,Guest/Unknown
+575514,POST,Postage,3,2011-11-28,28.00,12541.00,Spain,Charge,Positive,84.00,Registered
+575519,POST,Postage,2,2011-11-28,18.00,12682.00,France,Charge,Positive,36.00,Registered
+575581,POST,Postage,1,2011-11-28,18.00,12659.00,France,Charge,Positive,18.00,Registered
+575584,POST,Postage,1,2011-11-28,18.00,12682.00,France,Charge,Positive,18.00,Registered
+575607,DOT,Dotcom Postage,1,2011-11-28,908.16,14096.00,United Kingdom,Charge,Positive,908.16,Registered
+575629,POST,Postage,1,2011-11-29,18.00,12599.00,France,Charge,Positive,18.00,Registered
+575671,POST,Postage,3,2011-11-29,18.00,12670.00,France,Charge,Positive,54.00,Registered
+575709,POST,Postage,2,2011-11-29,15.00,14646.00,Netherlands,Charge,Positive,30.00,Registered
+575713,POST,Postage,2,2011-11-29,18.00,13817.00,Germany,Charge,Positive,36.00,Registered
+575732,POST,Postage,2,2011-11-29,18.00,12712.00,Germany,Charge,Positive,36.00,Registered
+575733,POST,Postage,1,2011-11-29,18.00,13810.00,Germany,Charge,Positive,18.00,Registered
+575734,POST,Postage,2,2011-11-29,40.00,12384.00,Switzerland,Charge,Positive,80.00,Registered
+575735,C2,Carriage,1,2011-11-29,50.00,14156.00,EIRE,Charge,Positive,50.00,Registered
+575736,POST,Postage,1,2011-11-29,40.00,12697.00,Sweden,Charge,Positive,40.00,Registered
+575739,DOT,Dotcom Postage,1,2011-11-29,469.20,,United Kingdom,Charge,Positive,469.20,Guest/Unknown
+575747,POST,Postage,3,2011-11-29,18.00,12589.00,France,Charge,Positive,54.00,Registered
+575750,POST,Postage,3,2011-11-29,18.00,12600.00,Germany,Charge,Positive,54.00,Registered
+575787,POST,Postage,3,2011-11-29,18.00,12518.00,Germany,Charge,Positive,54.00,Registered
+575845,POST,Postage,1,2011-11-29,18.00,12598.00,France,Charge,Positive,18.00,Registered
+575871,C2,Carriage,1,2011-11-29,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+575875,DOT,Dotcom Postage,1,2011-11-30,571.90,,United Kingdom,Charge,Positive,571.90,Guest/Unknown
+575880,POST,Postage,3,2011-11-30,18.00,12726.00,France,Charge,Positive,54.00,Registered
+575881,POST,Postage,1,2011-11-30,1.34,,United Kingdom,Charge,Positive,1.34,Guest/Unknown
+575884,POST,Postage,3,2011-11-30,18.00,12685.00,France,Charge,Positive,54.00,Registered
+575888,POST,Postage,3,2011-11-30,18.00,12517.00,Germany,Charge,Positive,54.00,Registered
+575896,POST,Postage,8,2011-11-30,18.00,12480.00,Germany,Charge,Positive,144.00,Registered
+575901,POST,Postage,1,2011-11-30,1.69,,United Kingdom,Charge,Positive,1.69,Guest/Unknown
+575916,POST,Postage,1,2011-11-30,18.00,12691.00,France,Charge,Positive,18.00,Registered
+575930,DOT,Dotcom Postage,1,2011-11-30,454.35,,United Kingdom,Charge,Positive,454.35,Guest/Unknown
+575947,DOT,Dotcom Postage,1,2011-11-30,1211.17,,United Kingdom,Charge,Positive,1211.17,Guest/Unknown
+576082,POST,Postage,2,2011-11-14,40.00,12428.00,Finland,Charge,Positive,80.00,Registered
+576087,POST,Postage,4,2011-11-14,18.00,12689.00,France,Charge,Positive,72.00,Registered
+576141,C2,Carriage,1,2011-11-14,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+576222,POST,Postage,2,2011-11-14,18.00,12490.00,France,Charge,Positive,36.00,Registered
+576245,POST,Postage,3,2011-11-14,18.00,12553.00,France,Charge,Positive,54.00,Registered
+576269,POST,Postage,2,2011-11-14,28.00,12762.00,Portugal,Charge,Positive,56.00,Registered
+576322,POST,Postage,2,2011-11-14,18.00,12642.00,Germany,Charge,Positive,36.00,Registered
+576327,POST,Postage,2,2011-11-14,18.00,12476.00,Germany,Charge,Positive,36.00,Registered
+576329,DOT,Dotcom Postage,1,2011-11-14,518.98,,United Kingdom,Charge,Positive,518.98,Guest/Unknown
+576339,DOT,Dotcom Postage,1,2011-11-14,1500.36,14096.00,United Kingdom,Charge,Positive,1500.36,Registered
+576345,POST,Postage,3,2011-11-14,40.00,12374.00,Austria,Charge,Positive,120.00,Registered
+576371,C2,Carriage,1,2011-11-15,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+576373,POST,Postage,4,2011-11-15,18.00,12640.00,France,Charge,Positive,72.00,Registered
+576390,POST,Postage,1,2011-11-15,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+576399,POST,Postage,2,2011-11-15,18.00,12684.00,France,Charge,Positive,36.00,Registered
+576519,POST,Postage,1,2011-11-15,40.00,12676.00,Sweden,Charge,Positive,40.00,Registered
+576595,C2,Carriage,1,2011-11-15,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+576603,C2,Carriage,1,2011-11-15,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+576607,POST,Postage,4,2011-11-15,18.00,12474.00,Germany,Charge,Positive,72.00,Registered
+576617,DOT,Dotcom Postage,1,2011-11-15,596.90,,United Kingdom,Charge,Positive,596.90,Guest/Unknown
+576618,DOT,Dotcom Postage,1,2011-11-15,584.94,,United Kingdom,Charge,Positive,584.94,Guest/Unknown
+576629,POST,Postage,3,2011-11-16,18.00,12621.00,Germany,Charge,Positive,54.00,Registered
+576630,POST,Postage,1,2011-11-16,18.00,13816.00,Germany,Charge,Positive,18.00,Registered
+576644,DOT,Dotcom Postage,1,2011-11-16,1556.08,,United Kingdom,Charge,Positive,1556.08,Guest/Unknown
+576657,POST,Postage,3,2011-11-16,18.00,12720.00,Germany,Charge,Positive,54.00,Registered
+576664,POST,Postage,1,2011-11-16,15.00,14646.00,Netherlands,Charge,Positive,15.00,Registered
+576669,POST,Postage,1,2011-11-16,18.00,12640.00,France,Charge,Positive,18.00,Registered
+576787,POST,Postage,4,2011-11-16,18.00,13815.00,Germany,Charge,Positive,72.00,Registered
+576789,POST,Postage,1,2011-11-16,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+576790,POST,Postage,1,2011-11-16,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+576829,C2,Carriage,1,2011-11-16,50.00,,EIRE,Charge,Positive,50.00,Guest/Unknown
+576837,DOT,Dotcom Postage,1,2011-11-16,710.95,,United Kingdom,Charge,Positive,710.95,Guest/Unknown
+576840,DOT,Dotcom Postage,1,2011-11-16,690.21,,United Kingdom,Charge,Positive,690.21,Guest/Unknown
+576863,POST,Postage,2,2011-11-16,18.00,12626.00,Germany,Charge,Positive,36.00,Registered
+576869,POST,Postage,1,2011-11-16,18.00,12500.00,Germany,Charge,Positive,18.00,Registered
+576880,C2,Carriage,1,2011-11-16,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+576890,POST,Postage,2,2011-11-16,18.00,12662.00,Germany,Charge,Positive,36.00,Registered
+576893,POST,Postage,1,2011-11-17,18.00,12481.00,Germany,Charge,Positive,18.00,Registered
+576894,POST,Postage,2,2011-11-17,18.00,12681.00,France,Charge,Positive,36.00,Registered
+576897,POST,Postage,7,2011-11-17,65.00,17828.00,Malta,Charge,Positive,455.00,Registered
+576904,C2,Carriage,1,2011-11-17,50.00,14931.00,Channel Islands,Charge,Positive,50.00,Registered
+576907,POST,Postage,1,2011-11-17,40.00,12610.00,Italy,Charge,Positive,40.00,Registered
+576909,POST,Postage,8,2011-11-17,18.00,12471.00,Germany,Charge,Positive,144.00,Registered
+576927,POST,Postage,6,2011-11-17,18.00,12567.00,France,Charge,Positive,108.00,Registered
+576941,POST,Postage,5,2011-11-17,18.00,12562.00,France,Charge,Positive,90.00,Registered
+577009,C2,Carriage,1,2011-11-17,50.00,12749.00,United Kingdom,Charge,Positive,50.00,Registered
+577027,POST,Postage,5,2011-11-17,18.00,12647.00,Germany,Charge,Positive,90.00,Registered
+577046,POST,Postage,7,2011-11-17,18.00,12449.00,Belgium,Charge,Positive,126.00,Registered
+577067,POST,Postage,2,2011-11-17,40.00,12704.00,Finland,Charge,Positive,80.00,Registered
+577078,DOT,Dotcom Postage,1,2011-11-17,695.08,,United Kingdom,Charge,Positive,695.08,Guest/Unknown
+577087,POST,Postage,2,2011-11-17,15.00,12464.00,Belgium,Charge,Positive,30.00,Registered
+577121,POST,Postage,4,2011-11-17,18.00,12681.00,France,Charge,Positive,72.00,Registered
+577125,POST,Postage,2,2011-11-17,28.00,12445.00,Spain,Charge,Positive,56.00,Registered
+577135,POST,Postage,2,2011-11-18,18.00,12427.00,Germany,Charge,Positive,36.00,Registered
+577152,POST,Postage,2,2011-11-18,18.00,14277.00,France,Charge,Positive,36.00,Registered
+577168,POST,Postage,7,2011-11-18,18.00,12603.00,Germany,Charge,Positive,126.00,Registered
+577178,POST,Postage,1,2011-11-18,40.00,12618.00,Italy,Charge,Positive,40.00,Registered
+577180,POST,Postage,8,2011-11-18,18.00,12380.00,Belgium,Charge,Positive,144.00,Registered
+577295,POST,Postage,3,2011-11-18,18.00,12682.00,France,Charge,Positive,54.00,Registered
+577299,POST,Postage,1,2011-11-18,18.00,12498.00,Germany,Charge,Positive,18.00,Registered
+577314,POST,Postage,6,2011-11-18,40.00,12444.00,Norway,Charge,Positive,240.00,Registered
+577316,POST,Postage,7,2011-11-18,28.00,12578.00,Italy,Charge,Positive,196.00,Registered
+577326,POST,Postage,2,2011-11-18,15.00,14646.00,Netherlands,Charge,Positive,30.00,Registered
+577344,POST,Postage,1,2011-11-18,18.00,12437.00,France,Charge,Positive,18.00,Registered
+577358,DOT,Dotcom Postage,1,2011-11-18,579.21,,United Kingdom,Charge,Positive,579.21,Guest/Unknown
+577406,POST,Postage,1,2011-11-20,18.00,12702.00,Germany,Charge,Positive,18.00,Registered
+577474,POST,Postage,3,2011-11-20,18.00,12778.00,Netherlands,Charge,Positive,54.00,Registered
+577476,POST,Postage,3,2011-11-20,28.00,12540.00,Spain,Charge,Positive,84.00,Registered
+577523,POST,Postage,1,2011-11-20,28.00,12597.00,Spain,Charge,Positive,28.00,Registered
+577531,DOT,Dotcom Postage,1,2011-11-20,1236.75,,United Kingdom,Charge,Positive,1236.75,Guest/Unknown
+577551,POST,Postage,2,2011-11-20,15.00,12395.00,Belgium,Charge,Positive,30.00,Registered
+577606,POST,Postage,3,2011-11-21,28.00,12462.00,Spain,Charge,Positive,84.00,Registered
+577609,POST,Postage,1,2011-11-21,300.00,12349.00,Italy,Charge,Positive,300.00,Registered
+577615,POST,Postage,3,2011-11-21,18.00,12658.00,Germany,Charge,Positive,54.00,Registered
+577618,POST,Postage,4,2011-11-21,28.00,12795.00,Portugal,Charge,Positive,112.00,Registered
+577687,POST,Postage,3,2011-11-21,18.00,12583.00,France,Charge,Positive,54.00,Registered
+577768,DOT,Dotcom Postage,1,2011-11-21,523.77,,United Kingdom,Charge,Positive,523.77,Guest/Unknown
+577856,POST,Postage,4,2011-11-22,18.00,12490.00,France,Charge,Positive,72.00,Registered
+578006,C2,Carriage,1,2011-11-22,50.00,13363.00,United Kingdom,Charge,Positive,50.00,Registered
+578033,POST,Postage,4,2011-11-22,18.00,12656.00,France,Charge,Positive,72.00,Registered
+578034,POST,Postage,5,2011-11-22,15.00,14646.00,Netherlands,Charge,Positive,75.00,Registered
+578043,POST,Postage,2,2011-11-22,18.00,12474.00,Germany,Charge,Positive,36.00,Registered
+578054,C2,Carriage,1,2011-11-22,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+578065,DOT,Dotcom Postage,1,2011-11-22,455.75,,United Kingdom,Charge,Positive,455.75,Guest/Unknown
+578067,DOT,Dotcom Postage,1,2011-11-22,416.48,,United Kingdom,Charge,Positive,416.48,Guest/Unknown
+578082,POST,Postage,1,2011-11-22,15.00,12775.00,Netherlands,Charge,Positive,15.00,Registered
+578084,POST,Postage,2,2011-11-22,15.00,12465.00,Belgium,Charge,Positive,30.00,Registered
+578089,POST,Postage,4,2011-11-22,40.00,12483.00,Sweden,Charge,Positive,160.00,Registered
+578093,C2,Carriage,1,2011-11-22,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+578099,POST,Postage,2,2011-11-23,1.00,12452.00,Switzerland,Charge,Positive,2.00,Registered
+578105,C2,Carriage,1,2011-11-23,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+578123,POST,Postage,2,2011-11-23,40.00,12452.00,Switzerland,Charge,Positive,80.00,Registered
+578126,POST,Postage,1,2011-11-23,4.95,16900.00,United Kingdom,Charge,Positive,4.95,Registered
+578149,DOT,Dotcom Postage,1,2011-11-23,2275.54,,United Kingdom,Charge,Positive,2275.54,Guest/Unknown
+578270,DOT,Dotcom Postage,1,2011-11-23,1270.06,14096.00,United Kingdom,Charge,Positive,1270.06,Registered
+578295,POST,Postage,2,2011-11-23,18.00,12569.00,Germany,Charge,Positive,36.00,Registered
+578298,POST,Postage,3,2011-11-23,18.00,12619.00,Germany,Charge,Positive,54.00,Registered
+578300,POST,Postage,1,2011-11-23,40.00,12664.00,Finland,Charge,Positive,40.00,Registered
+578314,C2,Carriage,1,2011-11-23,50.00,13350.00,United Kingdom,Charge,Positive,50.00,Registered
+578331,C2,Carriage,1,2011-11-24,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+578333,POST,Postage,2,2011-11-24,18.00,12471.00,Germany,Charge,Positive,36.00,Registered
+578339,POST,Postage,1,2011-11-24,28.00,12421.00,Spain,Charge,Positive,28.00,Registered
+578344,DOT,Dotcom Postage,1,2011-11-24,793.33,,United Kingdom,Charge,Positive,793.33,Guest/Unknown
+578347,DOT,Dotcom Postage,1,2011-11-24,644.28,,United Kingdom,Charge,Positive,644.28,Guest/Unknown
+578348,POST,Postage,2,2011-11-24,18.00,12494.00,France,Charge,Positive,36.00,Registered
+578425,POST,Postage,4,2011-11-24,18.00,12705.00,Germany,Charge,Positive,72.00,Registered
+578463,POST,Postage,2,2011-11-24,28.00,12757.00,Portugal,Charge,Positive,56.00,Registered
+578469,POST,Postage,4,2011-11-24,18.00,12471.00,Germany,Charge,Positive,72.00,Registered
+578472,POST,Postage,9,2011-11-24,18.00,12476.00,Germany,Charge,Positive,162.00,Registered
+578509,POST,Postage,1,2011-11-24,18.00,12705.00,Germany,Charge,Positive,18.00,Registered
+578547,POST,Postage,3,2011-11-24,18.00,12720.00,Germany,Charge,Positive,54.00,Registered
+578698,POST,Postage,2,2011-11-25,18.00,12620.00,France,Charge,Positive,36.00,Registered
+578736,POST,Postage,8,2011-11-25,18.00,12681.00,France,Charge,Positive,144.00,Registered
+578792,C2,Carriage,1,2011-11-25,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+578811,POST,Postage,8,2011-11-25,40.00,12438.00,Norway,Charge,Positive,320.00,Registered
+578827,DOT,Dotcom Postage,1,2011-11-25,634.39,,United Kingdom,Charge,Positive,634.39,Guest/Unknown
+578828,DOT,Dotcom Postage,1,2011-11-25,3.29,,United Kingdom,Charge,Positive,3.29,Guest/Unknown
+578833,DOT,Dotcom Postage,1,2011-11-25,2028.25,,United Kingdom,Charge,Positive,2028.25,Guest/Unknown
+578835,POST,Postage,1,2011-11-25,18.00,12682.00,France,Charge,Positive,18.00,Registered
+578844,DOT,Dotcom Postage,1,2011-11-25,545.25,,United Kingdom,Charge,Positive,545.25,Guest/Unknown
+579094,POST,Postage,8,2011-11-28,18.00,12668.00,Germany,Charge,Positive,144.00,Registered
+579152,POST,Postage,3,2011-11-28,18.00,12479.00,Germany,Charge,Positive,54.00,Registered
+579153,POST,Postage,1,2011-11-28,18.00,12660.00,France,Charge,Positive,18.00,Registered
+579187,DOT,Dotcom Postage,1,2011-11-28,634.54,,United Kingdom,Charge,Positive,634.54,Guest/Unknown
+579190,POST,Postage,4,2011-11-28,18.00,12657.00,France,Charge,Positive,72.00,Registered
+579193,POST,Postage,4,2011-11-28,18.00,12657.00,France,Charge,Positive,72.00,Registered
+579196,DOT,Dotcom Postage,1,2011-11-28,1526.76,14096.00,United Kingdom,Charge,Positive,1526.76,Registered
+579256,C2,Carriage,1,2011-11-29,50.00,13349.00,United Kingdom,Charge,Positive,50.00,Registered
+579259,POST,Postage,1,2011-11-29,40.00,12451.00,Switzerland,Charge,Positive,40.00,Registered
+579276,POST,Postage,1,2011-11-29,18.00,12654.00,Germany,Charge,Positive,18.00,Registered
+579281,POST,Postage,1,2011-11-29,40.00,12375.00,Finland,Charge,Positive,40.00,Registered
+579297,DOT,Dotcom Postage,1,2011-11-29,1563.00,,United Kingdom,Charge,Positive,1563.00,Guest/Unknown
+579345,POST,Postage,4,2011-11-29,18.00,12727.00,France,Charge,Positive,72.00,Registered
+579393,POST,Postage,3,2011-11-29,18.00,12627.00,Germany,Charge,Positive,54.00,Registered
+579416,POST,Postage,5,2011-11-29,18.00,12471.00,Germany,Charge,Positive,90.00,Registered
+579441,POST,Postage,4,2011-11-29,15.00,12464.00,Belgium,Charge,Positive,60.00,Registered
+579471,DOT,Dotcom Postage,1,2011-11-29,892.50,,United Kingdom,Charge,Positive,892.50,Guest/Unknown
+579492,POST,Postage,3,2011-11-29,18.00,12670.00,France,Charge,Positive,54.00,Registered
+579508,DOT,Dotcom Postage,1,2011-11-29,732.69,,United Kingdom,Charge,Positive,732.69,Guest/Unknown
+579512,DOT,Dotcom Postage,1,2011-11-29,620.22,,United Kingdom,Charge,Positive,620.22,Guest/Unknown
+579528,POST,Postage,1,2011-11-30,15.00,12787.00,Netherlands,Charge,Positive,15.00,Registered
+579529,POST,Postage,3,2011-11-30,18.00,12488.00,France,Charge,Positive,54.00,Registered
+579539,C2,Carriage,1,2011-11-30,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+579550,POST,Postage,3,2011-11-30,40.00,12630.00,Finland,Charge,Positive,120.00,Registered
+579694,DOT,Dotcom Postage,1,2011-11-30,1119.63,,United Kingdom,Charge,Positive,1119.63,Guest/Unknown
+579708,POST,Postage,4,2011-11-30,18.00,12682.00,France,Charge,Positive,72.00,Registered
+579747,POST,Postage,3,2011-11-30,18.00,12528.00,Germany,Charge,Positive,54.00,Registered
+579751,DOT,Dotcom Postage,1,2011-11-30,307.17,,United Kingdom,Charge,Positive,307.17,Guest/Unknown
+579768,C2,Carriage,1,2011-11-30,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+579777,DOT,Dotcom Postage,1,2011-11-30,888.42,,United Kingdom,Charge,Positive,888.42,Guest/Unknown
+579786,POST,Postage,2,2011-11-30,18.00,12524.00,Germany,Charge,Positive,36.00,Registered
+579787,DOT,Dotcom Postage,1,2011-11-30,988.00,,United Kingdom,Charge,Positive,988.00,Guest/Unknown
+579790,POST,Postage,2,2011-11-30,28.00,12784.00,Portugal,Charge,Positive,56.00,Registered
+579792,POST,Postage,5,2011-11-30,18.00,12714.00,France,Charge,Positive,90.00,Registered
+579870,POST,Postage,2,2011-11-30,18.00,12437.00,France,Charge,Positive,36.00,Registered
+579901,POST,Postage,3,2011-12-01,18.00,12569.00,Germany,Charge,Positive,54.00,Registered
+579910,C2,Carriage,1,2011-12-01,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+579927,POST,Postage,3,2011-12-01,18.00,12572.00,Germany,Charge,Positive,54.00,Registered
+580115,DOT,Dotcom Postage,1,2011-12-01,1042.84,,United Kingdom,Charge,Positive,1042.84,Guest/Unknown
+580120,POST,Postage,1,2011-12-01,18.00,12553.00,France,Charge,Positive,18.00,Registered
+580123,POST,Postage,2,2011-12-01,40.00,12664.00,Finland,Charge,Positive,80.00,Registered
+580124,C2,Carriage,1,2011-12-01,50.00,,EIRE,Charge,Positive,50.00,Guest/Unknown
+580126,POST,Postage,3,2011-12-01,18.00,12562.00,France,Charge,Positive,54.00,Registered
+580127,C2,Carriage,1,2011-12-01,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+580144,POST,Postage,1,2011-12-02,18.00,12684.00,France,Charge,Positive,18.00,Registered
+580148,DOT,Dotcom Postage,1,2011-12-02,274.25,,United Kingdom,Charge,Positive,274.25,Guest/Unknown
+580152,POST,Postage,1,2011-12-02,15.00,12364.00,Belgium,Charge,Positive,15.00,Registered
+580153,POST,Postage,5,2011-12-02,28.00,12762.00,Portugal,Charge,Positive,140.00,Registered
+580154,POST,Postage,1,2011-12-02,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+580160,POST,Postage,7,2011-12-02,18.00,12700.00,France,Charge,Positive,126.00,Registered
+580265,POST,Postage,1,2011-12-02,40.00,12587.00,Finland,Charge,Positive,40.00,Registered
+580281,POST,Postage,1,2011-12-02,40.00,12704.00,Finland,Charge,Positive,40.00,Registered
+580366,DOT,Dotcom Postage,1,2011-12-02,0.00,,United Kingdom,Charge,Positive,0.00,Guest/Unknown
+580367,DOT,Dotcom Postage,1,2011-12-02,888.06,,United Kingdom,Charge,Positive,888.06,Guest/Unknown
+580509,POST,Postage,2,2011-12-04,18.00,12719.00,France,Charge,Positive,36.00,Registered
+580511,POST,Postage,4,2011-12-04,18.00,12560.00,Germany,Charge,Positive,72.00,Registered
+580512,POST,Postage,2,2011-12-04,18.00,12673.00,Germany,Charge,Positive,36.00,Registered
+580531,POST,Postage,1,2011-12-04,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+580534,POST,Postage,1,2011-12-04,18.00,12724.00,France,Charge,Positive,18.00,Registered
+580536,POST,Postage,3,2011-12-04,18.00,12490.00,France,Charge,Positive,54.00,Registered
+580545,POST,Postage,1,2011-12-05,28.00,12782.00,Portugal,Charge,Positive,28.00,Registered
+580548,POST,Postage,1,2011-12-05,18.00,12569.00,Germany,Charge,Positive,18.00,Registered
+580555,C2,Carriage,1,2011-12-05,50.00,14911.00,EIRE,Charge,Positive,50.00,Registered
+580610,DOT,Dotcom Postage,1,2011-12-05,2196.67,,United Kingdom,Charge,Positive,2196.67,Guest/Unknown
+580612,DOT,Dotcom Postage,1,2011-12-05,2114.00,,United Kingdom,Charge,Positive,2114.00,Guest/Unknown
+580638,POST,Postage,1,2011-12-05,40.00,12381.00,Norway,Charge,Positive,40.00,Registered
+580648,POST,Postage,1,2011-12-05,18.00,12628.00,Germany,Charge,Positive,18.00,Registered
+580705,POST,Postage,5,2011-12-05,1.00,12683.00,France,Charge,Positive,5.00,Registered
+580706,POST,Postage,5,2011-12-05,17.00,12683.00,France,Charge,Positive,85.00,Registered
+580716,POST,Postage,1,2011-12-05,18.00,12367.00,Denmark,Charge,Positive,18.00,Registered
+580727,DOT,Dotcom Postage,1,2011-12-05,1599.26,14096.00,United Kingdom,Charge,Positive,1599.26,Registered
+580729,DOT,Dotcom Postage,1,2011-12-05,1172.10,,United Kingdom,Charge,Positive,1172.10,Guest/Unknown
+580730,DOT,Dotcom Postage,1,2011-12-05,845.23,,United Kingdom,Charge,Positive,845.23,Guest/Unknown
+580734,POST,Postage,4,2011-12-06,28.00,12766.00,Portugal,Charge,Positive,112.00,Registered
+580736,POST,Postage,2,2011-12-06,18.00,12716.00,France,Charge,Positive,36.00,Registered
+580752,POST,Postage,3,2011-12-06,45.00,12478.00,Greece,Charge,Positive,135.00,Registered
+580753,POST,Postage,3,2011-12-06,18.00,12682.00,France,Charge,Positive,54.00,Registered
+580756,POST,Postage,1,2011-12-06,18.00,12723.00,France,Charge,Positive,18.00,Registered
+580955,POST,Postage,1,2011-12-06,28.00,12442.00,Spain,Charge,Positive,28.00,Registered
+580965,POST,Postage,3,2011-12-06,15.00,12417.00,Belgium,Charge,Positive,45.00,Registered
+580976,POST,Postage,1,2011-12-06,5.29,,United Kingdom,Charge,Positive,5.29,Guest/Unknown
+580979,POST,Postage,3,2011-12-06,18.00,12362.00,Belgium,Charge,Positive,54.00,Registered
+580983,DOT,Dotcom Postage,1,2011-12-06,736.38,,United Kingdom,Charge,Positive,736.38,Guest/Unknown
+580986,POST,Postage,4,2011-12-06,18.00,12650.00,France,Charge,Positive,72.00,Registered
+581000,POST,Postage,5,2011-12-07,18.00,12720.00,Germany,Charge,Positive,90.00,Registered
+581001,POST,Postage,3,2011-12-07,18.00,12583.00,France,Charge,Positive,54.00,Registered
+581023,DOT,Dotcom Postage,1,2011-12-07,1861.46,,United Kingdom,Charge,Positive,1861.46,Guest/Unknown
+581171,POST,Postage,2,2011-12-07,18.00,12615.00,France,Charge,Positive,36.00,Registered
+581179,POST,Postage,1,2011-12-07,240.00,12471.00,Germany,Charge,Positive,240.00,Registered
+581182,POST,Postage,4,2011-12-07,28.00,12783.00,Portugal,Charge,Positive,112.00,Registered
+581183,POST,Postage,4,2011-12-07,18.00,12569.00,Germany,Charge,Positive,72.00,Registered
+581184,POST,Postage,2,2011-12-07,18.00,12569.00,Germany,Charge,Positive,36.00,Registered
+581217,DOT,Dotcom Postage,1,2011-12-08,863.80,,United Kingdom,Charge,Positive,863.80,Guest/Unknown
+581219,DOT,Dotcom Postage,1,2011-12-08,1008.96,,United Kingdom,Charge,Positive,1008.96,Guest/Unknown
+581232,POST,Postage,4,2011-12-08,40.00,12358.00,Austria,Charge,Positive,160.00,Registered
+581238,DOT,Dotcom Postage,1,2011-12-08,1683.75,,United Kingdom,Charge,Positive,1683.75,Guest/Unknown
+581266,POST,Postage,5,2011-12-08,18.00,12621.00,Germany,Charge,Positive,90.00,Registered
+581279,POST,Postage,3,2011-12-08,18.00,12437.00,France,Charge,Positive,54.00,Registered
+581439,DOT,Dotcom Postage,1,2011-12-08,938.59,,United Kingdom,Charge,Positive,938.59,Guest/Unknown
+581492,DOT,Dotcom Postage,1,2011-12-09,933.17,,United Kingdom,Charge,Positive,933.17,Guest/Unknown
+581493,POST,Postage,1,2011-12-09,15.00,12423.00,Belgium,Charge,Positive,15.00,Registered
+581494,POST,Postage,2,2011-12-09,18.00,12518.00,Germany,Charge,Positive,36.00,Registered
+581498,DOT,Dotcom Postage,1,2011-12-09,1714.17,,United Kingdom,Charge,Positive,1714.17,Guest/Unknown
+581570,POST,Postage,1,2011-12-09,18.00,12662.00,Germany,Charge,Positive,18.00,Registered
+581574,POST,Postage,2,2011-12-09,18.00,12526.00,Germany,Charge,Positive,36.00,Registered
+581578,POST,Postage,3,2011-12-09,18.00,12713.00,Germany,Charge,Positive,54.00,Registered

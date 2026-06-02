@@ -1,0 +1,35 @@
+﻿invoice,sku_code,description,qty,invoice_date,unit_price,customer_id,country,transaction_type,revenue_amount,customer_status
+539492,gift_0001_40,Dotcomgiftshop Gift Voucher £40.00,1,2010-12-20,34.04,NA,United Kingdom,Positive,34.04,Guest/Unknown
+539958,gift_0001_50,Dotcomgiftshop Gift Voucher £50.00,1,2010-12-23,42.55,NA,United Kingdom,Positive,42.55,Guest/Unknown
+540238,gift_0001_30,Dotcomgiftshop Gift Voucher £30.00,1,2011-01-14,25.53,NA,United Kingdom,Positive,25.53,Guest/Unknown
+540238,gift_0001_20,Dotcomgiftshop Gift Voucher £20.00,1,2011-01-14,17.02,NA,United Kingdom,Positive,17.02,Guest/Unknown
+540995,gift_0001_20,Dotcomgiftshop Gift Voucher £20.00,1,2011-01-24,16.67,NA,United Kingdom,Positive,16.67,Guest/Unknown
+544089,gift_0001_20,Dotcomgiftshop Gift Voucher £20.00,1,2011-03-21,16.67,NA,United Kingdom,Positive,16.67,Guest/Unknown
+544323,gift_0001_30,Dotcomgiftshop Gift Voucher £30.00,1,2011-03-23,25.00,NA,United Kingdom,Positive,25.00,Guest/Unknown
+544434,gift_0001_30,Dotcomgiftshop Gift Voucher £30.00,1,2011-03-23,25.00,NA,United Kingdom,Positive,25.00,Guest/Unknown
+545895,gift_0001_10,Dotcomgiftshop Gift Voucher £10.00,1,2011-04-18,8.33,NA,United Kingdom,Positive,8.33,Guest/Unknown
+548893,gift_0001_40,Dotcomgiftshop Gift Voucher £40.00,1,2011-06-13,33.33,NA,United Kingdom,Positive,33.33,Guest/Unknown
+550474,gift_0001_20,Dotcomgiftshop Gift Voucher £20.00,2,2011-06-27,16.67,NA,United Kingdom,Positive,33.34,Guest/Unknown
+550542,gift_0001_10,Dotcomgiftshop Gift Voucher £10.00,1,2011-06-29,8.33,NA,United Kingdom,Positive,8.33,Guest/Unknown
+550542,gift_0001_20,Dotcomgiftshop Gift Voucher £20.00,1,2011-06-29,16.67,NA,United Kingdom,Positive,16.67,Guest/Unknown
+552232,gift_0001_50,Dotcomgiftshop Gift Voucher £50.00,1,2011-07-21,41.67,NA,United Kingdom,Positive,41.67,Guest/Unknown
+553387,gift_0001_10,Dotcomgiftshop Gift Voucher £10.00,1,2011-08-16,8.33,NA,United Kingdom,Positive,8.33,Guest/Unknown
+553389,gift_0001_10,Dotcomgiftshop Gift Voucher £10.00,1,2011-08-16,8.33,NA,United Kingdom,Positive,8.33,Guest/Unknown
+555149,gift_0001_30,Dotcomgiftshop Gift Voucher £30.00,1,2011-08-30,25.00,NA,United Kingdom,Positive,25.00,Guest/Unknown
+556955,gift_0001_20,To Push Order Througha S Stock Was ,10,2011-09-23,0.00,NA,United Kingdom,Positive,0.00,Guest/Unknown
+557500,gift_0001_20,Dotcomgiftshop Gift Voucher £20.00,1,2011-09-26,16.67,NA,United Kingdom,Positive,16.67,Guest/Unknown
+558066,gift_0001_50,Dotcomgiftshop Gift Voucher £50.00,1,2011-09-29,41.67,NA,United Kingdom,Positive,41.67,Guest/Unknown
+558068,gift_0001_20,Dotcomgiftshop Gift Voucher £20.00,1,2011-09-29,16.67,NA,United Kingdom,Positive,16.67,Guest/Unknown
+558614,gift_0001_10,Dotcomgiftshop Gift Voucher £10.00,1,2011-10-13,8.33,NA,United Kingdom,Positive,8.33,Guest/Unknown
+558614,gift_0001_50,Dotcomgiftshop Gift Voucher £50.00,1,2011-10-13,41.67,NA,United Kingdom,Positive,41.67,Guest/Unknown
+561513,gift_0001_40,Dotcomgiftshop Gift Voucher £40.00,1,2011-11-13,33.33,NA,United Kingdom,Positive,33.33,Guest/Unknown
+562420,gift_0001_20,Dotcomgiftshop Gift Voucher £20.00,1,2011-11-16,16.67,NA,United Kingdom,Positive,16.67,Guest/Unknown
+562933,gift_0001_30,Dotcomgiftshop Gift Voucher £30.00,1,2011-11-17,25.00,NA,United Kingdom,Positive,25.00,Guest/Unknown
+564760,gift_0001_10,Dotcomgiftshop Gift Voucher £10.00,1,2011-11-24,8.33,NA,United Kingdom,Positive,8.33,Guest/Unknown
+564760,gift_0001_30,Dotcomgiftshop Gift Voucher £30.00,1,2011-11-24,25.00,NA,United Kingdom,Positive,25.00,Guest/Unknown
+564761,gift_0001_30,Dotcomgiftshop Gift Voucher £30.00,30,2011-11-24,0.00,NA,United Kingdom,Positive,0.00,Guest/Unknown
+564762,gift_0001_10,Dotcomgiftshop Gift Voucher £10.00,30,2011-11-24,0.00,NA,United Kingdom,Positive,0.00,Guest/Unknown
+564974,gift_0001_10,Dotcomgiftshop Gift Voucher £10.00,2,2011-11-25,8.33,NA,United Kingdom,Positive,16.66,Guest/Unknown
+565231,gift_0001_30,Dotcomgiftshop Gift Voucher £30.00,1,2011-11-27,25.00,NA,United Kingdom,Positive,25.00,Guest/Unknown
+573585,gift_0001_20,Dotcomgiftshop Gift Voucher £20.00,1,2011-11-20,16.67,NA,United Kingdom,Positive,16.67,Guest/Unknown
+581217,gift_0001_10,Dotcomgiftshop Gift Voucher £10.00,1,2011-12-08,8.33,NA,United Kingdom,Positive,8.33,Guest/Unknown

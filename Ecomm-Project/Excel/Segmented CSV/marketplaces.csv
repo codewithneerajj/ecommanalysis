@@ -1,0 +1,79 @@
+﻿invoice,sku_code,description,qty,invoice_date,unit_price,customer_id,country,transaction_type,revenue_amount,customer_status
+C537600,AMAZONFEE,Amazon Fee,-1,2010-12-07,1.00,,United Kingdom,Return,-1.00,Guest/Unknown
+C537630,AMAZONFEE,Amazon Fee,-1,2010-12-07,13541.33,,United Kingdom,Return,-13541.33,Guest/Unknown
+C537644,AMAZONFEE,Amazon Fee,-1,2010-12-07,13474.79,,United Kingdom,Return,-13474.79,Guest/Unknown
+C537647,AMAZONFEE,Amazon Fee,-1,2010-12-07,5519.25,,United Kingdom,Return,-5519.25,Guest/Unknown
+C537651,AMAZONFEE,Amazon Fee,-1,2010-12-07,13541.33,,United Kingdom,Return,-13541.33,Guest/Unknown
+C537652,AMAZONFEE,Amazon Fee,-1,2010-12-07,6706.71,,United Kingdom,Return,-6706.71,Guest/Unknown
+C540117,AMAZONFEE,Amazon Fee,-1,2011-01-13,16888.02,,United Kingdom,Return,-16888.02,Guest/Unknown
+C540118,AMAZONFEE,Amazon Fee,-1,2011-01-13,16453.71,,United Kingdom,Return,-16453.71,Guest/Unknown
+C544587,AMAZONFEE,Amazon Fee,-1,2011-03-24,5575.28,,United Kingdom,Return,-5575.28,Guest/Unknown
+C544589,AMAZONFEE,Amazon Fee,-1,2011-03-24,5258.77,,United Kingdom,Return,-5258.77,Guest/Unknown
+C546987,AMAZONFEE,Amazon Fee,-1,2011-05-13,5693.05,,United Kingdom,Return,-5693.05,Guest/Unknown
+C546989,AMAZONFEE,Amazon Fee,-1,2011-05-13,5225.03,,United Kingdom,Return,-5225.03,Guest/Unknown
+C547904,AMAZONFEE,Amazon Fee,-1,2011-05-23,219.76,,United Kingdom,Return,-219.76,Guest/Unknown
+C553354,AMAZONFEE,Amazon Fee,-1,2011-08-15,5876.40,,United Kingdom,Return,-5876.40,Guest/Unknown
+C553355,AMAZONFEE,Amazon Fee,-1,2011-08-15,7006.83,,United Kingdom,Return,-7006.83,Guest/Unknown
+C558036,AMAZONFEE,Amazon Fee,-1,2011-09-29,5791.18,,United Kingdom,Return,-5791.18,Guest/Unknown
+C558037,AMAZONFEE,Amazon Fee,-1,2011-09-29,4534.24,,United Kingdom,Return,-4534.24,Guest/Unknown
+C559915,AMAZONFEE,Amazon Fee,-1,2011-10-23,4383.62,,United Kingdom,Return,-4383.62,Guest/Unknown
+C559917,AMAZONFEE,Amazon Fee,-1,2011-10-23,6497.47,,United Kingdom,Return,-6497.47,Guest/Unknown
+C562062,AMAZONFEE,Amazon Fee,-1,2011-11-14,4575.64,,United Kingdom,Return,-4575.64,Guest/Unknown
+C562086,AMAZONFEE,Amazon Fee,-1,2011-11-15,6721.37,,United Kingdom,Return,-6721.37,Guest/Unknown
+C564340,AMAZONFEE,Amazon Fee,-1,2011-11-23,4527.65,,United Kingdom,Return,-4527.65,Guest/Unknown
+C564341,AMAZONFEE,Amazon Fee,-1,2011-11-23,6662.51,,United Kingdom,Return,-6662.51,Guest/Unknown
+C566889,AMAZONFEE,Amazon Fee,-1,2011-09-15,5522.14,,United Kingdom,Return,-5522.14,Guest/Unknown
+C566899,AMAZONFEE,Amazon Fee,-1,2011-09-15,7427.97,,United Kingdom,Return,-7427.97,Guest/Unknown
+C570025,AMAZONFEE,Amazon Fee,-1,2011-10-19,5942.57,,United Kingdom,Return,-5942.57,Guest/Unknown
+C573549,AMAZONFEE,Amazon Fee,-1,2011-11-20,5942.57,,United Kingdom,Return,-5942.57,Guest/Unknown
+C573550,AMAZONFEE,Amazon Fee,-1,2011-11-20,2185.04,,United Kingdom,Return,-2185.04,Guest/Unknown
+C574897,AMAZONFEE,Amazon Fee,-1,2011-11-25,5877.18,,United Kingdom,Return,-5877.18,Guest/Unknown
+C574902,AMAZONFEE,Amazon Fee,-1,2011-11-25,8286.22,,United Kingdom,Return,-8286.22,Guest/Unknown
+C580604,AMAZONFEE,Amazon Fee,-1,2011-12-05,11586.50,,United Kingdom,Return,-11586.50,Guest/Unknown
+C580605,AMAZONFEE,Amazon Fee,-1,2011-12-05,17836.46,,United Kingdom,Return,-17836.46,Guest/Unknown
+537632,AMAZONFEE,Amazon Fee,1,2010-12-07,13541.33,,United Kingdom,Positive,13541.33,Guest/Unknown
+547901,AMAZONFEE,Amazon Fee,1,2011-05-23,219.76,,United Kingdom,Positive,219.76,Guest/Unknown
+561249,DCGS0073,Ebay,-4,2011-10-31,0.00,,United Kingdom,Negative Adjustment,0.00,Guest/Unknown
+561252,DCGS0069,Ebay,-5,2011-10-31,0.00,,United Kingdom,Negative Adjustment,0.00,Guest/Unknown
+561253,DCGS0068,Ebay,-10,2011-10-31,0.00,,United Kingdom,Negative Adjustment,0.00,Guest/Unknown
+561254,DCGS0067,Ebay,-11,2011-10-31,0.00,,United Kingdom,Negative Adjustment,0.00,Guest/Unknown
+561256,DCGS0003,Ebay,-7,2011-10-31,0.00,,United Kingdom,Negative Adjustment,0.00,Guest/Unknown
+C564763,CRUK,Cruk Commission,-1,2011-11-24,1.60,14096.00,United Kingdom,Return,-1.60,Registered
+C565382,CRUK,Cruk Commission,-1,2011-11-27,13.01,14096.00,United Kingdom,Return,-13.01,Registered
+C566216,CRUK,Cruk Commission,-1,2011-11-30,15.96,14096.00,United Kingdom,Return,-15.96,Registered
+C566565,CRUK,Cruk Commission,-1,2011-09-13,52.24,14096.00,United Kingdom,Return,-52.24,Registered
+C567655,CRUK,Cruk Commission,-1,2011-09-21,608.66,14096.00,United Kingdom,Return,-608.66,Registered
+C568345,CRUK,Cruk Commission,-1,2011-09-26,447.56,14096.00,United Kingdom,Return,-447.56,Registered
+C569245,CRUK,Cruk Commission,-1,2011-10-13,361.59,14096.00,United Kingdom,Return,-361.59,Registered
+C570487,CRUK,Cruk Commission,-1,2011-10-23,411.92,14096.00,United Kingdom,Return,-411.92,Registered
+C571440,CRUK,Cruk Commission,-1,2011-10-30,495.98,14096.00,United Kingdom,Return,-495.98,Registered
+C572551,CRUK,Cruk Commission,-1,2011-11-15,425.14,14096.00,United Kingdom,Return,-425.14,Registered
+C573575,CRUK,Cruk Commission,-1,2011-11-20,606.00,14096.00,United Kingdom,Return,-606.00,Registered
+C575606,CRUK,Cruk Commission,-1,2011-11-28,517.51,14096.00,United Kingdom,Return,-517.51,Registered
+C576338,CRUK,Cruk Commission,-1,2011-11-14,1038.75,14096.00,United Kingdom,Return,-1038.75,Registered
+C578269,CRUK,Cruk Commission,-1,2011-11-23,849.93,14096.00,United Kingdom,Return,-849.93,Registered
+C579195,CRUK,Cruk Commission,-1,2011-11-28,987.14,14096.00,United Kingdom,Return,-987.14,Registered
+C580726,CRUK,Cruk Commission,-1,2011-12-05,1100.44,14096.00,United Kingdom,Return,-1100.44,Registered
+536941,22734,Amazon,20,2010-12-03,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+536942,22139,Amazon,15,2010-12-03,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+537639,22734,Amazon,30,2010-12-07,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+538348,22734,Amazon,30,2010-12-10,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+538873,22734,Amazon Sales,20,2010-12-14,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+546020,85175,Amazon Sold Sets,-210,2011-04-19,0.00,,United Kingdom,Negative Adjustment,0.00,Guest/Unknown
+556242,21700,Sold As Set On Dotcom And Amazon,-1206,2011-09-20,0.00,,United Kingdom,Negative Adjustment,0.00,Guest/Unknown
+564229,82583,Amazon,20,2011-11-22,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+564645,82583,Amazon,44,2011-11-23,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+566982,85049B,Amazon,1,2011-09-16,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+566983,23084,Amazon,1,2011-09-16,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+572510,20967,Amazon Adjustment,1,2011-11-15,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+572697,22087,Amazon,6,2011-11-16,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+572698,82613A,Amazon,1,2011-11-16,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+576632,21823,Amazon Adjust,10,2011-11-16,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+577829,85231G,Amazon,1,2011-11-22,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+578700,72807A,Amazon,1,2011-11-25,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+578930,22848,Amazon,1,2011-11-27,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+579275,22176,Amazon,1,2011-11-29,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+580145,22925,Amazon,1,2011-12-02,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+580390,21888,Amazon,1,2011-12-04,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+580391,21868,Amazon,1,2011-12-04,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
+580609,22927,Amazon,1,2011-12-05,0.00,,United Kingdom,Positive,0.00,Guest/Unknown
